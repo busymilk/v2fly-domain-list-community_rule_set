@@ -17,6 +17,11 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
       - name: Run domain rule generation script
         id: generate_domain_rules
         run: python generate_rules.py
@@ -44,8 +49,8 @@ jobs:
       - name: Purge jsDelivr CDN cache
         if: steps.commit_push.outputs.changes_pushed == 'true'
         run: |
-          # 获取有变动的文件列表
-          files_to_purge=$(git diff --name-only HEAD~1 HEAD | grep 'clash-rules-generated/')
+          # 获取所有规则目录下有变动的文件列表
+          files_to_purge=$(git diff --name-only HEAD~1 HEAD | grep -E '^(clash-rules-generated|geoip-rules-generated)/.*')
           if [ -z "$files_to_purge" ]; then
             echo "没有找到需要刷新的文件。"
             exit 0
