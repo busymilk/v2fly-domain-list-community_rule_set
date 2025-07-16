@@ -46,10 +46,8 @@ jobs:
             echo "没有找到需要刷新的文件。"
             exit 0
           fi
-          echo "正在刷新以下文件的 CDN 缓存:"
+          echo "正在并行刷新以下文件的 CDN 缓存:"
           echo "$files_to_purge"
           
-          # 遍历文件并发送刷新请求
-          for file in $files_to_purge; do
-            curl "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${file}"
-          done
+          # 使用 xargs 并发刷新 CDN，-P 50 表示最多50个并行任务
+          echo "$files_to_purge" | xargs -I {} -P 50 curl "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/{}"
