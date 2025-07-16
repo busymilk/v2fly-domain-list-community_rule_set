@@ -1,0 +1,3 @@
+payload:
+  - 'DOMAIN-SUFFIX,snk-corp.co.jp'
+  - 'DOMAIN-SUFFIX,snkplaymore.info'

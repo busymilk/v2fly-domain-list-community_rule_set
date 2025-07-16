@@ -1,0 +1,4 @@
+payload:
+  - 'DOMAIN-SUFFIX,ogury.co @ads'
+  - 'DOMAIN-SUFFIX,ogury.com @ads'
+  - 'DOMAIN-SUFFIX,presage.io @ads'

@@ -1,0 +1,4 @@
+payload:
+  - 'DOMAIN,adeventtracker.spotify.com @ads'
+  - 'DOMAIN,adstudio-assets.scdn.co @ads'
+  - 'DOMAIN,bloodhound.spotify.com @ads'

@@ -1,0 +1,3 @@
+payload:
+  - 'DOMAIN-SUFFIX,aki-game.com @cn'
+  - 'DOMAIN-SUFFIX,kurogames.com @cn'

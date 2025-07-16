@@ -1,0 +1,3 @@
+payload:
+  - 'DOMAIN,kc.kexinshe.com @cn'
+  - 'DOMAIN-SUFFIX,kechuang.org'

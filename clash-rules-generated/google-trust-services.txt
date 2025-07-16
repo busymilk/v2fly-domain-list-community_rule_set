@@ -1,0 +1,13 @@
+payload:
+  - 'DOMAIN,c.pki.goog @cn'
+  - 'DOMAIN,clients1.google.com'
+  - 'DOMAIN,crl.pki.goog @cn'
+  - 'DOMAIN,crls.pki.goog @cn'
+  - 'DOMAIN,i.pki.goog @cn'
+  - 'DOMAIN,o.pki.goog @cn'
+  - 'DOMAIN,ocsp.pki.goog @cn'
+  - 'DOMAIN,pki-goog.l.google.com @cn'
+  - 'DOMAIN,pki.google.com'
+  - 'DOMAIN,preprod-publicca.googleapis.com'
+  - 'DOMAIN,publicca.googleapis.com'
+  - 'DOMAIN-SUFFIX,pki.goog'

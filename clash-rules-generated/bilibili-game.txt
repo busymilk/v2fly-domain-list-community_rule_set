@@ -1,0 +1,7 @@
+payload:
+  - 'DOMAIN-SUFFIX,bilibiligame.cn @cn'
+  - 'DOMAIN-SUFFIX,bilibiligame.co @cn'
+  - 'DOMAIN-SUFFIX,bilibiligame.net @cn'
+  - 'DOMAIN-SUFFIX,biligame.co @cn'
+  - 'DOMAIN-SUFFIX,biligame.com @cn'
+  - 'DOMAIN-SUFFIX,biligame.net @cn'

@@ -1,0 +1,4 @@
+payload:
+  - 'DOMAIN-SUFFIX,ads.pubmatic.com @ads'
+  - 'DOMAIN-SUFFIX,pubmatic.co.jp'
+  - 'DOMAIN-SUFFIX,pubmatic.com'

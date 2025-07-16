@@ -1,0 +1,3 @@
+payload:
+  - 'DOMAIN-SUFFIX,zynga.com @ads'
+  - 'DOMAIN-SUFFIX,zyngaplayersupport.com @ads'

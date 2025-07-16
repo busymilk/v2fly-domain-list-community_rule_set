@@ -1,0 +1,4 @@
+payload:
+  - 'DOMAIN-SUFFIX,adbehavior.ximalaya.com @ads'
+  - 'DOMAIN-SUFFIX,adse.wsa.ximalaya.com @ads'
+  - 'DOMAIN-SUFFIX,adse.ximalaya.com @ads'
