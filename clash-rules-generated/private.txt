@@ -123,7 +123,8 @@ payload:
   - 'DOMAIN-SUFFIX,peiluyou.com'
   - 'DOMAIN-SUFFIX,phicomm.me'
   - 'DOMAIN-SUFFIX,plex.direct'
-  - '^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$'
+  - |
+    ^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
   - 'DOMAIN-SUFFIX,router.ctc'
   - 'DOMAIN-SUFFIX,tendawifi.com'
   - 'DOMAIN-SUFFIX,test'

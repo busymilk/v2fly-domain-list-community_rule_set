@@ -1,3 +1,4 @@
 payload:
   - 'DOMAIN-SUFFIX,okaapps.com'
-  - '^(.+\.)*zh\.okaapps\.com$'
+  - |
+    ^(.+\.)*zh\.okaapps\.com$

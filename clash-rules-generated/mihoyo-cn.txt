@@ -12,6 +12,7 @@ payload:
   - 'DOMAIN-SUFFIX,mihoyogift.com'
   - 'DOMAIN-SUFFIX,mihoyomall.com'
   - 'DOMAIN-SUFFIX,miyoushe.com'
-  - '^.+-mihayo\.akamaized\.net$'
+  - |
+    ^.+-mihayo\.akamaized\.net$
   - 'DOMAIN-SUFFIX,themisweeps.com'
   - 'DOMAIN-SUFFIX,yuanshen.com'

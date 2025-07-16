@@ -138,7 +138,8 @@ payload:
   - 'DOMAIN-SUFFIX,ngeo.com'
   - 'DOMAIN-SUFFIX,nomadlandmovie.ch'
   - 'DOMAIN-SUFFIX,playmation.com'
-  - '^hses[1-7]?\.akamaized\.net$'
+  - |
+    ^hses[1-7]?\.akamaized\.net$
   - 'DOMAIN-SUFFIX,shopdisney.com'
   - 'DOMAIN-SUFFIX,shops-disney.com'
   - 'DOMAIN-SUFFIX,sorcerersarena.com'

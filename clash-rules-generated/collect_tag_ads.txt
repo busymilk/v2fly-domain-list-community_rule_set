@@ -780,5 +780,7 @@ payload:
 - 'DOMAIN-SUFFIX,zyngaplayersupport.com'
 - 'DOMAIN-SUFFIX,zz.bdstatic.com'
 - 'DOMAIN-SUFFIX,zzy1.quyaoya.com'
-- '^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$'
-- '^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$'
+- |
+    ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
+- |
+    ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$

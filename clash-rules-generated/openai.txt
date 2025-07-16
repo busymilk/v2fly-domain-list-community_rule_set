@@ -14,6 +14,7 @@ payload:
   - 'DOMAIN-SUFFIX,oaiusercontent.com'
   - 'DOMAIN-SUFFIX,openai.com'
   - 'DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net'
-  - '^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$'
+  - |
+    ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - 'DOMAIN-SUFFIX,sora.com'
   - 'DOMAIN-SUFFIX,turn.livekit.cloud'

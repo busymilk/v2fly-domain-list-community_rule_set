@@ -189,20 +189,34 @@ payload:
   - 'DOMAIN-SUFFIX,qqmra.cn'
   - 'DOMAIN-SUFFIX,qqmra.com'
   - 'DOMAIN-SUFFIX,qyunapp.com'
-  - '\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$'
-  - '\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$'
-  - '\.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$'
-  - '\.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$'
-  - '\.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$'
-  - '\.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$'
-  - '\.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$'
-  - '\.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$'
-  - '\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$'
-  - '\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$'
-  - '\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$'
-  - '\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$'
-  - '\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$'
-  - '\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$'
+  - |
+    \.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$
+  - |
+    \.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+  - |
+    \.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$
+  - |
+    \.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+  - |
+    \.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$
+  - |
+    \.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+  - |
+    \.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$
+  - |
+    \.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+  - |
+    \.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$
+  - |
+    \.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+  - |
+    \.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$
+  - |
+    \.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+  - |
+    \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
+  - |
+    \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
   - 'DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com'
   - 'DOMAIN-SUFFIX,sa-saopaulo.tencentcos.cn'
   - 'DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com'

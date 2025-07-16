@@ -5,4 +5,5 @@ payload:
   - 'DOMAIN,hs.wosms.cn'
   - 'DOMAIN,id6.me'
   - 'DOMAIN,opencloud.wostore.cn'
-  - '^nis.+\.10010\.com$'
+  - |
+    ^nis.+\.10010\.com$

@@ -126,7 +126,8 @@ payload:
   - 'DOMAIN-SUFFIX,qq163.net'
   - 'DOMAIN-SUFFIX,qqgameapp.com'
   - 'DOMAIN-SUFFIX,realcybertron.com'
-  - '^.+-mihayo\.akamaized\.net$'
+  - |
+    ^.+-mihayo\.akamaized\.net$
   - 'DOMAIN-SUFFIX,rmwxgame.com'
   - 'DOMAIN-SUFFIX,ro.com'
   - 'DOMAIN-SUFFIX,roblox.cn'

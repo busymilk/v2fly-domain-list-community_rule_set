@@ -42,5 +42,6 @@ payload:
   - 'DOMAIN-SUFFIX,googlevads-cn.com'
   - 'DOMAIN-SUFFIX,mail-ads.google.com'
   - 'DOMAIN-SUFFIX,marketingplatform.google.com'
-  - '^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$'
+  - |
+    ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
   - 'DOMAIN-SUFFIX,urchin.com'

@@ -78,7 +78,8 @@ def convert_and_process_rules():
 
                 # 格式化规则
                 if rule_content.startswith('regexp:'):
-                    formatted_rule = f"  - '{rule_content.split(':', 1)[1].strip()}'"
+                    # 使用 YAML 字面量块来处理正则表达式，更稳健
+                    formatted_rule = f"  - |\n    {rule_content.split(':', 1)[1].strip()}"
                 elif rule_content.startswith('full:'):
                     formatted_rule = f"  - 'DOMAIN,{rule_content.split(':', 1)[1].strip()}'"
                 elif rule_content.startswith('domain:'):

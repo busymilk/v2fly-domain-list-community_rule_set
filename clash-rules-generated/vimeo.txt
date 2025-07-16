@@ -1,6 +1,7 @@
 payload:
   - 'DOMAIN-SUFFIX,livestream.com'
-  - '^[0-9]+vod-adaptive\.akamaized\.net$'
+  - |
+    ^[0-9]+vod-adaptive\.akamaized\.net$
   - 'DOMAIN-SUFFIX,vhx.tv'
   - 'DOMAIN-SUFFIX,vhxqa1.com'
   - 'DOMAIN-SUFFIX,vhxqa2.com'

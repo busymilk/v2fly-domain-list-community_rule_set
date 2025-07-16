@@ -447,7 +447,8 @@ payload:
   - 'DOMAIN-SUFFIX,qznovelstatic.com'
   - 'DOMAIN-SUFFIX,qznovelvod.com'
   - 'DOMAIN-SUFFIX,realcybertron.com'
-  - '^.+-mihayo\.akamaized\.net$'
+  - |
+    ^.+-mihayo\.akamaized\.net$
   - 'DOMAIN-SUFFIX,res.hunantv.com'
   - 'DOMAIN-SUFFIX,rmwxgame.com'
   - 'DOMAIN-SUFFIX,ro.com'

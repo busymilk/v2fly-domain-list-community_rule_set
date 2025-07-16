@@ -23,7 +23,11 @@ payload:
   - 'DOMAIN-SUFFIX,nflxsearch.net'
   - 'DOMAIN-SUFFIX,nflxso.net'
   - 'DOMAIN-SUFFIX,nflxvideo.net'
-  - '(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$'
-  - '(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$'
-  - '(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$'
-  - '(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$'
+  - |
+    (^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$
+  - |
+    (^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com$
+  - |
+    (^|\.)dualstack\.apiproxy-.+\.amazonaws\.com$
+  - |
+    (^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$

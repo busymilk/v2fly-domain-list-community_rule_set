@@ -3,4 +3,5 @@ payload:
   - 'DOMAIN-SUFFIX,kino.pub'
   - 'DOMAIN-SUFFIX,kinopub.online'
   - 'DOMAIN-SUFFIX,mos-gorsud.co'
-  - '(\w+)-static-[0-9]+\.cdntogo\.net$'
+  - |
+    (\w+)-static-[0-9]+\.cdntogo\.net$

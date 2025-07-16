@@ -14,7 +14,8 @@ payload:
   - 'DOMAIN-SUFFIX,open.cachefly.net'
   - 'DOMAIN-SUFFIX,openspeedtest.com'
   - 'DOMAIN-SUFFIX,pingtest.net'
-  - '^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$'
+  - |
+    ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
   - 'DOMAIN-SUFFIX,speed.cloudflare.com'
   - 'DOMAIN-SUFFIX,speed.dler.io'
   - 'DOMAIN-SUFFIX,speed.hinet.net'

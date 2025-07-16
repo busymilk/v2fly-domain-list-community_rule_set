@@ -394,8 +394,10 @@ payload:
   - 'DOMAIN-SUFFIX,redis.io'
   - 'DOMAIN-SUFFIX,redislabs.com'
   - 'DOMAIN-SUFFIX,regex101.com'
-  - '.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$'
-  - '^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$'
+  - |
+    .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
+  - |
+    ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
   - 'DOMAIN-SUFFIX,registry.gitlab.com'
   - 'DOMAIN-SUFFIX,registry.k8s.io'
   - 'DOMAIN-SUFFIX,remirepo.net'

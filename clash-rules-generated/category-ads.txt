@@ -587,8 +587,10 @@ payload:
   - 'DOMAIN-SUFFIX,re.taobao.com'
   - 'DOMAIN-SUFFIX,realsrv.com'
   - 'DOMAIN-SUFFIX,redirect.simba.taobao.com'
-  - '^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$'
-  - '^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$'
+  - |
+    ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
+  - |
+    ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
   - 'DOMAIN-SUFFIX,release.baidu.com'
   - 'DOMAIN-SUFFIX,res.hunantv.com'
   - 'DOMAIN-SUFFIX,res.mi.baidu.com'

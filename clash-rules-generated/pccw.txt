@@ -23,7 +23,8 @@ payload:
   - 'DOMAIN-SUFFIX,pccw.com'
   - 'DOMAIN-SUFFIX,pccwglobal.com'
   - 'DOMAIN-SUFFIX,pccwsolutions.com'
-  - '^ewcdn[0-9]{2}\.nowe\.com$'
+  - |
+    ^ewcdn[0-9]{2}\.nowe\.com$
   - 'DOMAIN-SUFFIX,theclub.com.hk'
   - 'DOMAIN-SUFFIX,uhub.com'
   - 'DOMAIN-SUFFIX,viu.com'

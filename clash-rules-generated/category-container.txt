@@ -6,6 +6,7 @@ payload:
   - 'DOMAIN-SUFFIX,ghcr.io'
   - 'DOMAIN-SUFFIX,mcr.microsoft.com'
   - 'DOMAIN-SUFFIX,quay.io'
-  - '.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$'
+  - |
+    .+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
   - 'DOMAIN-SUFFIX,registry.gitlab.com'
   - 'DOMAIN-SUFFIX,registry.k8s.io'
