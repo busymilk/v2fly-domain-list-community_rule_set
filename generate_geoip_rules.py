@@ -69,8 +69,16 @@ def generate_geoip_rules():
         
         print("正在解压 v2ctl 工具...")
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-            # 从压缩包中只解压出我们需要的 v2ctl 文件
-            zip_ref.extract('v2ctl', TEMP_DIR)
+            # 增加调试信息：打印压缩包内的所有文件
+            print("压缩包内容:")
+            zip_ref.printdir()
+            # 解压所有文件到临时目录
+            zip_ref.extractall(TEMP_DIR)
+        
+        # 确保 v2ctl 文件存在并可执行
+        if not os.path.exists(V2CTL_EXEC_PATH):
+            print(f"错误: 解压后未在 {TEMP_DIR} 中找到 v2ctl 文件。")
+            sys.exit(1)
         os.chmod(V2CTL_EXEC_PATH, 0o755)
         print("v2ctl 工具准备就绪。")
 
