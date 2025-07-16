@@ -74,6 +74,8 @@ rules:
 
 IP 规则集位于 `geoip-rules-generated/` 目录下。这些规则用于基于目标 IP 地址的流量匹配，通常用于匹配无法通过域名判断的流量（如部分桌面应用或 IP 直连）。
 
+文件为纯文本格式，每行包含一个 IP-CIDR，可直接用于 `behavior: ipcidr`。
+
 目前，项目会生成以下 GeoIP 规则集：
 - `geoip_cn.txt`: 中国大陆的 IP 地址段。
 - `geoip_private.txt`: 私有/保留 IP 地址段。

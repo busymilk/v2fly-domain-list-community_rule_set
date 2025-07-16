@@ -43,10 +43,9 @@ def generate_geoip_rules_from_text():
             ip_list = response.text.strip().split('\n')
 
             with open(output_file, 'w', encoding='utf-8') as f:
-                f.write("payload:\n")
                 for ip_cidr in ip_list:
                     if ip_cidr and not ip_cidr.startswith('#'):
-                        f.write(f"  - IP-CIDR,{ip_cidr}\n")
+                        f.write(f"{ip_cidr}\n")
             print(f"已成功生成规则文件: {output_file}")
 
         except requests.exceptions.RequestException as e:
