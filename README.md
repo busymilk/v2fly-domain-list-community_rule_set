@@ -76,7 +76,16 @@ IP 规则集位于 `geoip-rules-generated/` 目录下。这些规则用于基于
 
 目前，项目会生成以下 GeoIP 规则集：
 - `geoip_cn.txt`: 中国大陆的 IP 地址段。
-- `geoip_private.txt`: 私有/保留 IP 地址段（如局域网 IP）。
+- `geoip_private.txt`: 私有/保留 IP 地址段。
+- `geoip_cloudflare.txt`: Cloudflare 的 IP 地址段。
+- `geoip_cloudfront.txt`: AWS CloudFront 的 IP 地址段。
+- `geoip_facebook.txt`: Facebook (Meta) 的 IP 地址段。
+- `geoip_fastly.txt`: Fastly 的 IP 地址段。
+- `geoip_google.txt`: Google 的 IP 地址段。
+- `geoip_netflix.txt`: Netflix 的 IP 地址段。
+- `geoip_telegram.txt`: Telegram 的 IP 地址段。
+- `geoip_twitter.txt`: Twitter (X) 的 IP 地址段。
+- `geoip_tor.txt`: Tor 节点的 IP 地址段。
 
 #### 基础用法
 

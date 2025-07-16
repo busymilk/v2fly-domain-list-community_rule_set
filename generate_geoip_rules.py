@@ -21,7 +21,10 @@ def generate_geoip_rules():
     GEOIP_DAT_URL = "https://raw.githubusercontent.com/Loyalsoldier/geoip/release/geoip.dat"
     V2RAY_API_URL = "https://api.github.com/repos/v2fly/v2ray-core/releases/latest"
     # 您可以在这里添加或修改需要生成的国家/地区代码
-    COUNTRY_CODES = ['cn', 'private'] 
+    COUNTRY_CODES = [
+        'cn', 'private', 'cloudflare', 'cloudfront', 'facebook', 
+        'fastly', 'google', 'netflix', 'telegram', 'twitter', 'tor'
+    ] 
     
     TEMP_DIR = "temp_geoip_gen"
     OUTPUT_DIR = "geoip-rules-generated"
