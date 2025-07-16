@@ -67,10 +67,10 @@ def generate_geoip_rules():
         with open(zip_path, 'wb') as f:
             f.write(response.content)
         
-        print("正在解压 V2ray-Core...")
+        print("正在解压 v2ctl 工具...")
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-            zip_ref.extract("v2ctl", TEMP_DIR)
-            zip_ref.extract("geoip.dat", TEMP_DIR) # 也解压自带的，以防万一
+            # 从压缩包中只解压出我们需要的 v2ctl 文件
+            zip_ref.extract('v2ctl', TEMP_DIR)
         os.chmod(V2CTL_EXEC_PATH, 0o755)
         print("v2ctl 工具准备就绪。")
 
