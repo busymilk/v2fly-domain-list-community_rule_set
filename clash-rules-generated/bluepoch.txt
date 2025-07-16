@@ -1,3 +1,3 @@
 payload:
-  - 'DOMAIN-SUFFIX,bluepoch.com @cn'
-  - 'DOMAIN-SUFFIX,sl916.com @cn'
+  - 'DOMAIN-SUFFIX,bluepoch.com'
+  - 'DOMAIN-SUFFIX,sl916.com'

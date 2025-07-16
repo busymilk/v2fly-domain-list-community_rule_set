@@ -15,5 +15,5 @@ payload:
   - 'DOMAIN-SUFFIX,miguvideo.com'
   - 'DOMAIN-SUFFIX,mmarket.com'
   - 'DOMAIN-SUFFIX,mmarket6.com'
-  - 'DOMAIN-SUFFIX,speedtest.hk.chinamobile.com @!cn'
-  - 'DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com @!cn'
+  - 'DOMAIN-SUFFIX,speedtest.hk.chinamobile.com'
+  - 'DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com'

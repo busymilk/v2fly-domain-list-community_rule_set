@@ -1,2 +1,2 @@
 payload:
-  - 'DOMAIN-SUFFIX,js-agent.newrelic.com @ads'
+  - 'DOMAIN-SUFFIX,js-agent.newrelic.com'

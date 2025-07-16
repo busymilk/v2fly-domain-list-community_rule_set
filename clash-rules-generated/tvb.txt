@@ -7,7 +7,7 @@ payload:
   - 'DOMAIN-SUFFIX,tvb.com.au'
   - 'DOMAIN-SUFFIX,tvbanywhere.com'
   - 'DOMAIN-SUFFIX,tvbanywhere.com.sg'
-  - 'DOMAIN-SUFFIX,tvbc.com.cn @cn'
+  - 'DOMAIN-SUFFIX,tvbc.com.cn'
   - 'DOMAIN-SUFFIX,tvbeventpower.com.hk'
   - 'DOMAIN-SUFFIX,tvbusa.com'
   - 'DOMAIN-SUFFIX,tvbweekly.com'

@@ -45,7 +45,7 @@ payload:
   - 'DOMAIN-SUFFIX,gopivotal.com'
   - 'DOMAIN-SUFFIX,gopivotal.net'
   - 'DOMAIN-SUFFIX,greenplum.net'
-  - 'DOMAIN-SUFFIX,heptio.cn @cn'
+  - 'DOMAIN-SUFFIX,heptio.cn'
   - 'DOMAIN-SUFFIX,heptio.com'
   - 'DOMAIN-SUFFIX,hwslabs.com'
   - 'DOMAIN-SUFFIX,immidio.com'

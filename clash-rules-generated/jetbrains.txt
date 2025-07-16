@@ -1,7 +1,7 @@
 payload:
-  - 'DOMAIN-SUFFIX,cdn.jetbrains.com @cn'
+  - 'DOMAIN-SUFFIX,cdn.jetbrains.com'
   - 'DOMAIN-SUFFIX,datalore.io'
-  - 'DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn @cn'
+  - 'DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn'
   - 'DOMAIN-SUFFIX,intellij.com'
   - 'DOMAIN-SUFFIX,intellij.net'
   - 'DOMAIN-SUFFIX,intellij.org'

@@ -1,7 +1,7 @@
 payload:
   - 'DOMAIN,bbs.ztedevices.com'
   - 'DOMAIN,www.ztedevices.com'
-  - 'DOMAIN,ztedevices.com @!cn'
+  - 'DOMAIN,ztedevices.com'
   - 'DOMAIN-SUFFIX,nubia.cn'
   - 'DOMAIN-SUFFIX,nubia.com'
   - 'DOMAIN-SUFFIX,redmagic.com'

@@ -2,7 +2,7 @@ payload:
   - 'DOMAIN-SUFFIX,basilisk-browser.org'
   - 'DOMAIN-SUFFIX,brave.com'
   - 'DOMAIN-SUFFIX,bromite.org'
-  - 'DOMAIN-SUFFIX,browser.kagi.com # Orion Browser'
+  - 'DOMAIN-SUFFIX,browser.kagi.com'
   - 'DOMAIN-SUFFIX,censorship.no'
   - 'DOMAIN-SUFFIX,chrome'
   - 'DOMAIN-SUFFIX,chrome.com'

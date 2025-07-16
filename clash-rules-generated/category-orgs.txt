@@ -120,4 +120,4 @@ payload:
   - 'DOMAIN-SUFFIX,worldemojiawards.com'
   - 'DOMAIN-SUFFIX,worldemojiday.com'
   - 'DOMAIN-SUFFIX,wto.org'
-  - 'DOMAIN-SUFFIX,xn--yt8h.la #📙.la'
+  - 'DOMAIN-SUFFIX,xn--yt8h.la'

@@ -1,2 +1,2 @@
 payload:
-  - 'DOMAIN,apilog-web.acfun.cn @ads'
+  - 'DOMAIN,apilog-web.acfun.cn'

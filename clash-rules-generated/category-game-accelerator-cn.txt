@@ -18,7 +18,7 @@ payload:
   - 'DOMAIN-SUFFIX,guaiku.com'
   - 'DOMAIN-SUFFIX,htjsq.com'
   - 'DOMAIN-SUFFIX,htjsq.mobi'
-  - 'DOMAIN-SUFFIX,jiasu.bohe.com # 鄂ICP备18023477号-1'
+  - 'DOMAIN-SUFFIX,jiasu.bohe.com'
   - 'DOMAIN-SUFFIX,kk1.vip'
   - 'DOMAIN-SUFFIX,leigod.com'
   - 'DOMAIN-SUFFIX,liuxing.com'

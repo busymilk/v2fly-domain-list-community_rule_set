@@ -5,7 +5,7 @@ payload:
   - 'DOMAIN-SUFFIX,ampproject.org'
   - 'DOMAIN-SUFFIX,electronjs.org'
   - 'DOMAIN,amp.akamaized.net'
-  - 'DOMAIN,cdn.ampproject.org @cn'
+  - 'DOMAIN,cdn.ampproject.org'
   - 'DOMAIN-SUFFIX,jquery.com'
   - 'DOMAIN-SUFFIX,jquerymobile.com'
   - 'DOMAIN-SUFFIX,jqueryui.com'

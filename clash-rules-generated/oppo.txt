@@ -5,7 +5,7 @@ payload:
   - 'DOMAIN-SUFFIX,coloros.com'
   - 'DOMAIN-SUFFIX,coloros.net'
   - 'DOMAIN-SUFFIX,finzfin.com'
-  - 'DOMAIN,community.oneplus.com @!cn'
+  - 'DOMAIN,community.oneplus.com'
   - 'DOMAIN-SUFFIX,h2os.com'
   - 'DOMAIN-SUFFIX,heytap.com'
   - 'DOMAIN-SUFFIX,heytapcs.com'

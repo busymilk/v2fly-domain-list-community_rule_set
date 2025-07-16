@@ -1,7 +1,7 @@
 payload:
-  - 'DOMAIN-SUFFIX,analytics.facebook.com @ads'
-  - 'DOMAIN-SUFFIX,graph-fallback.instagram.com @ads'
-  - 'DOMAIN-SUFFIX,graph.instagram.com @ads'
-  - 'DOMAIN-SUFFIX,graph.whatsapp.com @ads'
-  - 'DOMAIN-SUFFIX,graph.whatsapp.net @ads'
-  - 'DOMAIN-SUFFIX,pixel.facebook.com @ads'
+  - 'DOMAIN-SUFFIX,analytics.facebook.com'
+  - 'DOMAIN-SUFFIX,graph-fallback.instagram.com'
+  - 'DOMAIN-SUFFIX,graph.instagram.com'
+  - 'DOMAIN-SUFFIX,graph.whatsapp.com'
+  - 'DOMAIN-SUFFIX,graph.whatsapp.net'
+  - 'DOMAIN-SUFFIX,pixel.facebook.com'

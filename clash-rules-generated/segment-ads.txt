@@ -1,2 +1,2 @@
 payload:
-  - 'DOMAIN-SUFFIX,cdn.segment.com @ads'
+  - 'DOMAIN-SUFFIX,cdn.segment.com'

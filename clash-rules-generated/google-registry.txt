@@ -11,4 +11,4 @@ payload:
   - 'DOMAIN-SUFFIX,iam.soy'
   - 'DOMAIN-SUFFIX,new.day'
   - 'DOMAIN-SUFFIX,registry.google'
-  - 'DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c # はじめよう.みんな'
+  - 'DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c'

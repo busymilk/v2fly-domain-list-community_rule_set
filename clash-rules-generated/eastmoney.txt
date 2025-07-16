@@ -5,5 +5,5 @@ payload:
   - 'DOMAIN-SUFFIX,dfcfw.com'
   - 'DOMAIN-SUFFIX,eastmoney.com'
   - 'DOMAIN-SUFFIX,eastmoneyfutures.com'
-  - 'DOMAIN-SUFFIX,emsec.hk @!cn'
+  - 'DOMAIN-SUFFIX,emsec.hk'
   - 'DOMAIN-SUFFIX,guba.com.cn'

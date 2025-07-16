@@ -1,4 +1,4 @@
 payload:
-  - 'DOMAIN-SUFFIX,analytics-data.io @ads'
-  - 'DOMAIN-SUFFIX,atom-data.io @ads'
-  - 'DOMAIN-SUFFIX,ironbeast.io @ads'
+  - 'DOMAIN-SUFFIX,analytics-data.io'
+  - 'DOMAIN-SUFFIX,atom-data.io'
+  - 'DOMAIN-SUFFIX,ironbeast.io'

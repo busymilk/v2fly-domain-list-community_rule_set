@@ -1,2 +1,2 @@
 payload:
-  - 'DOMAIN-SUFFIX,sl916.com @cn'
+  - 'DOMAIN-SUFFIX,sl916.com'

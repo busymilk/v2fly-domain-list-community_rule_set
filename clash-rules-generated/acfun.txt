@@ -6,4 +6,4 @@ payload:
   - 'DOMAIN-SUFFIX,acfunchina.com'
   - 'DOMAIN-SUFFIX,acfunchina.net'
   - 'DOMAIN-SUFFIX,aixifan.com'
-  - 'DOMAIN,apilog-web.acfun.cn @ads'
+  - 'DOMAIN,apilog-web.acfun.cn'

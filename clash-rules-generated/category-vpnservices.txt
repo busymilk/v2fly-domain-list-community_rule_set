@@ -62,6 +62,6 @@ payload:
   - 'DOMAIN-SUFFIX,vilavpn5.xyz'
   - 'DOMAIN-SUFFIX,vilavpn6.xyz'
   - 'DOMAIN-SUFFIX,vilavpn7.xyz'
-  - 'DOMAIN-SUFFIX,xn--90wwvt03e.com # 海豚湾.com'
-  - 'DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com # 很有精神.com'
+  - 'DOMAIN-SUFFIX,xn--90wwvt03e.com'
+  - 'DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com'
   - 'DOMAIN-SUFFIX,zind.cloud'

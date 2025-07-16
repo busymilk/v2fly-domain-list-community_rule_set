@@ -11,7 +11,7 @@ payload:
   - 'DOMAIN-SUFFIX,airwick.com'
   - 'DOMAIN-SUFFIX,airwick.com.au'
   - 'DOMAIN-SUFFIX,airwick.com.br'
-  - 'DOMAIN-SUFFIX,airwick.com.cn @cn'
+  - 'DOMAIN-SUFFIX,airwick.com.cn'
   - 'DOMAIN-SUFFIX,airwick.com.mx'
   - 'DOMAIN-SUFFIX,airwick.com.tr'
   - 'DOMAIN-SUFFIX,airwick.cz'

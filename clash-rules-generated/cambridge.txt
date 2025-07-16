@@ -4,5 +4,5 @@ payload:
   - 'DOMAIN-SUFFIX,cambridgedigital.net'
   - 'DOMAIN-SUFFIX,cambridgemaths.org'
   - 'DOMAIN-SUFFIX,cambridgeschoolshakespeare.com'
-  - 'DOMAIN-SUFFIX,ccdc.cam.ac.uk # The Cambridge Structural Database'
-  - 'DOMAIN-SUFFIX,dlib.eastview.com # Cambridge Archive Editions Online 剑桥档案编研'
+  - 'DOMAIN-SUFFIX,ccdc.cam.ac.uk'
+  - 'DOMAIN-SUFFIX,dlib.eastview.com'

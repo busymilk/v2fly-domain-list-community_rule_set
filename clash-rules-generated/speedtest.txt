@@ -7,7 +7,7 @@ payload:
   - 'DOMAIN-SUFFIX,ookla.com'
   - 'DOMAIN-SUFFIX,ooklaserver.net'
   - 'DOMAIN-SUFFIX,pingtest.net'
-  - '^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$ @ads'
+  - '^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$'
   - 'DOMAIN-SUFFIX,speedtest.co'
   - 'DOMAIN-SUFFIX,speedtest.net'
   - 'DOMAIN-SUFFIX,speedtestcustom.com'

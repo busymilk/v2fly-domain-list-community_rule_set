@@ -9,4 +9,4 @@ payload:
   - 'DOMAIN-SUFFIX,tjstats.com'
   - 'DOMAIN-SUFFIX,wegamedeveloper.com'
   - 'DOMAIN-SUFFIX,weixinbridge.com'
-  - 'DOMAIN-SUFFIX,weui.io @cn'
+  - 'DOMAIN-SUFFIX,weui.io'

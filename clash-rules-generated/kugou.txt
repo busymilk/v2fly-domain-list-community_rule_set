@@ -1,7 +1,7 @@
 payload:
-  - 'DOMAIN-SUFFIX,ads.service.kugou.com @ads'
-  - 'DOMAIN-SUFFIX,adserviceretry.kglink.cn @ads'
-  - 'DOMAIN-SUFFIX,adserviceretry.kugou.com @ads'
+  - 'DOMAIN-SUFFIX,ads.service.kugou.com'
+  - 'DOMAIN-SUFFIX,adserviceretry.kglink.cn'
+  - 'DOMAIN-SUFFIX,adserviceretry.kugou.com'
   - 'DOMAIN-SUFFIX,fanxingliveshow.com'
   - 'DOMAIN-SUFFIX,kgimg.com'
   - 'DOMAIN-SUFFIX,kglink.cn'

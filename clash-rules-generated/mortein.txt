@@ -1,5 +1,5 @@
 payload:
-  - 'DOMAIN-SUFFIX,mortein.cn @cn'
+  - 'DOMAIN-SUFFIX,mortein.cn'
   - 'DOMAIN-SUFFIX,mortein.co.in'
   - 'DOMAIN-SUFFIX,mortein.co.nz'
   - 'DOMAIN-SUFFIX,mortein.co.za'

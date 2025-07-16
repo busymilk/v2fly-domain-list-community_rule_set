@@ -1,5 +1,5 @@
 payload:
-  - 'DOMAIN-SUFFIX,collector.xhamster.com @ads'
+  - 'DOMAIN-SUFFIX,collector.xhamster.com'
   - 'DOMAIN,widgets.stripst.com'
   - 'DOMAIN-SUFFIX,xhamster.com'
   - 'DOMAIN-SUFFIX,xhamster.desi'

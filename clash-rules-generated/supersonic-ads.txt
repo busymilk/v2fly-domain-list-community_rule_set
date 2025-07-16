@@ -1,5 +1,5 @@
 payload:
-  - 'DOMAIN-SUFFIX,ssacdn.com @ads'
-  - 'DOMAIN-SUFFIX,supersonic.com @ads'
-  - 'DOMAIN-SUFFIX,supersonicads-a.akamaihd.net @ads'
-  - 'DOMAIN-SUFFIX,supersonicads.com @ads'
+  - 'DOMAIN-SUFFIX,ssacdn.com'
+  - 'DOMAIN-SUFFIX,supersonic.com'
+  - 'DOMAIN-SUFFIX,supersonicads-a.akamaihd.net'
+  - 'DOMAIN-SUFFIX,supersonicads.com'
