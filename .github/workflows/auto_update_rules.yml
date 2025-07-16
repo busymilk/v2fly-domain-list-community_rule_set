@@ -1,0 +1,35 @@
+
+name: Auto Update Clash Rules
+
+on:
+  workflow_dispatch: # 允许手动触发
+  schedule:
+    - cron: '0 20 * * *' # 每天 UTC 时间 20:00 运行
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run rule generation script
+        run: python generate_rules.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add clash-rules-generated/
+          # 检查是否有变动
+          if ! git diff --staged --quiet; then
+            git commit -m "feat(rules): 自动更新 Clash 规则集"
+            git push
+          else
+            echo "规则无变化，无需提交。"
+          fi
