@@ -30,7 +30,8 @@
 rule-providers:
   google:
     type: http
-    behavior: classical # 或 domain
+    behavior: classical
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/clash-rules-generated/google.txt"
     path: ./ruleset/google.rules
     interval: 86400 # 每天更新一次
@@ -53,14 +54,16 @@ rules:
 rule-providers:
   ads:
     type: http
-    behavior: domain
+    behavior: classical
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/clash-rules-generated/collect_tag_ads.txt"
     path: ./ruleset/ads.rules
     interval: 86400
 
   cn_domains:
     type: http
-    behavior: domain
+    behavior: classical
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/clash-rules-generated/collect_tag_cn.txt"
     path: ./ruleset/cn_domains.rules
     interval: 86400
@@ -100,6 +103,7 @@ rule-providers:
   cn_ip:
     type: http
     behavior: ipcidr
+    format: text
     url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/geoip-rules-generated/geoip_cn.txt"
     path: ./ruleset/cn_ip.rules
     interval: 86400
@@ -119,7 +123,8 @@ rule-providers:
   # 广告域名
   ads:
     type: http
-    behavior: domain
+    behavior: classical
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/clash-rules-generated/collect_tag_ads.txt"
     path: ./ruleset/ads.rules
     interval: 86400
@@ -127,7 +132,8 @@ rule-providers:
   # 国内域名
   cn_domains:
     type: http
-    behavior: domain
+    behavior: classical
+    format: yaml
     url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/clash-rules-generated/collect_tag_cn.txt"
     path: ./ruleset/cn_domains.rules
     interval: 86400
@@ -136,6 +142,7 @@ rule-providers:
   cn_ip:
     type: http
     behavior: ipcidr
+    format: text
     url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/geoip-rules-generated/geoip_cn.txt"
     path: ./ruleset/cn_ip.rules
     interval: 86400
@@ -144,6 +151,7 @@ rule-providers:
   lan_ip:
     type: http
     behavior: ipcidr
+    format: text
     url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/geoip-rules-generated/geoip_private.txt"
     path: ./ruleset/lan_ip.rules
     interval: 86400
