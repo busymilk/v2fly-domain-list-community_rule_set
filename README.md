@@ -5,7 +5,7 @@
 
 ## 项目目标
 
-随着一些代理软件（如 Stash）逐渐放弃对 `geosite.dat` 的支持，直接使用上游的 `dat` 文件变得不再方便。本项目旨在解决这一问题，通过 GitHub Actions 将 `v2fly/domain-list-community` 的规则自动转换为通用的 `RULE-SET` 格式，为所有兼容此格式的客户端提供即用型的规则集。
+随着一些代理软件（如 ClashMi）逐渐放弃对 `geosite.dat` 的支持，直接使用上游的 `dat` 文件变得不再方便。本项目旨在解决这一问题，通过 GitHub Actions 将 `v2fly/domain-list-community` 的规则自动转换为通用的 `RULE-SET` 格式，为所有兼容此格式的客户端提供即用型的规则集。
 
 ## 规则文件
 
