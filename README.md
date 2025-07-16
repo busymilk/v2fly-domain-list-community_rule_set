@@ -6,7 +6,7 @@
 
 ## 解决了什么问题？
 
-随着一些现代代理软件（如 Stash）逐渐放弃对 `geosite.dat` 和 `geoip.dat` 文件的直接支持，依赖这些文件的传统分流方式变得不再方便。本项目通过 GitHub Actions 实现了全自动转换，为所有兼容 `RULE-SET` 格式的客户端提供了一套即用、持续更新、社区驱动的规则集。
+随着一些现代代理软件（如 ClashMi）逐渐放弃对 `geosite.dat` 和 `geoip.dat` 文件的直接支持，依赖这些文件的传统分流方式变得不再方便。本项目通过 GitHub Actions 实现了全自动转换，为所有兼容 `RULE-SET` 格式的客户端提供了一套即用、持续更新、社区驱动的规则集。
 
 **数据源:**
 - **Geosite (域名):** [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)
