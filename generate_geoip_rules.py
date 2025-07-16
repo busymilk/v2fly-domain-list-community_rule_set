@@ -28,7 +28,7 @@ def generate_geoip_rules():
     
     TEMP_DIR = "temp_geoip_gen"
     OUTPUT_DIR = "geoip-rules-generated"
-    V2RAY_EXEC_PATH = os.path.join(TEMP_DIR, "v2ray")
+    V2CTL_EXEC_PATH = os.path.join(TEMP_DIR, "v2ctl")
     GEOIP_DAT_PATH = os.path.join(TEMP_DIR, "geoip.dat")
 
     print("--- 开始生成 GeoIP 规则集 ---")
@@ -69,9 +69,10 @@ def generate_geoip_rules():
         
         print("正在解压 V2ray-Core...")
         with zipfile.ZipFile(zip_path, 'r') as zip_ref:
-            zip_ref.extract("v2ray", TEMP_DIR)
-        os.chmod(V2RAY_EXEC_PATH, 0o755)
-        print("V2Ray-Core 工具准备就绪。")
+            zip_ref.extract("v2ctl", TEMP_DIR)
+            zip_ref.extract("geoip.dat", TEMP_DIR) # 也解压自带的，以防万一
+        os.chmod(V2CTL_EXEC_PATH, 0o755)
+        print("v2ctl 工具准备就绪。")
 
         # --- 步骤 2: 生成规则 ---
         print("步骤 2: 开始为指定的国家/地区代码生成规则...")
@@ -79,8 +80,9 @@ def generate_geoip_rules():
             print(f"正在处理代码: {code}")
             output_file = os.path.join(OUTPUT_DIR, f"geoip_{code}.txt")
             
-            # 使用 v2ray geoip export 命令提取 IP 列表
-            command = [V2RAY_EXEC_PATH, "geoip", "export", f"--dat-path={TEMP_DIR}", f"--code={code}"]
+            # 使用 v2ctl geoip 命令提取 IP 列表
+            # 我们使用下载的最新的 geoip.dat，而不是 v2ray 自带的
+            command = [V2CTL_EXEC_PATH, "geoip", f"--dat-path={GEOIP_DAT_PATH}", code]
             result = subprocess.run(command, capture_output=True, text=True, check=True)
             ip_list = result.stdout.strip().split('\n')
 
@@ -95,7 +97,7 @@ def generate_geoip_rules():
         print(f"网络错误: {e}")
         sys.exit(1)
     except subprocess.CalledProcessError as e:
-        print(f"执行 V2Ray 命令时出错: {e}")
+        print(f"执行 v2ctl 命令时出错: {e}")
         print(f"Stderr: {e.stderr}")
         sys.exit(1)
     except Exception as e:
