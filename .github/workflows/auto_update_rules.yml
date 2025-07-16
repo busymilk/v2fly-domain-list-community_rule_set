@@ -1,4 +1,3 @@
-
 name: Auto Update Clash Rules
 
 on:
@@ -11,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -19,9 +18,11 @@ jobs:
           python-version: '3.10'
 
       - name: Run rule generation script
+        id: generate_rules
         run: python generate_rules.py
 
       - name: Commit and push changes
+        id: commit_push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
@@ -30,6 +31,25 @@ jobs:
           if ! git diff --staged --quiet; then
             git commit -m "feat(rules): 自动更新 Clash 规则集"
             git push
+            echo "changes_pushed=true" >> $GITHUB_OUTPUT
           else
             echo "规则无变化，无需提交。"
+            echo "changes_pushed=false" >> $GITHUB_OUTPUT
           fi
+
+      - name: Purge jsDelivr CDN cache
+        if: steps.commit_push.outputs.changes_pushed == 'true'
+        run: |
+          # 获取有变动的文件列表
+          files_to_purge=$(git diff --name-only HEAD~1 HEAD | grep 'clash-rules-generated/')
+          if [ -z "$files_to_purge" ]; then
+            echo "没有找到需要刷新的文件。"
+            exit 0
+          fi
+          echo "正在刷新以下文件的 CDN 缓存:"
+          echo "$files_to_purge"
+          
+          # 遍历文件并发送刷新请求
+          for file in $files_to_purge; do
+            curl "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${file}"
+          done
