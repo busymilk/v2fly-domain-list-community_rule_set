@@ -9,11 +9,14 @@
 
 ## 规则文件
 
-所有的规则文件都生成在 `clash-rules-generated/` 目录下。
+所有生成的规则文件都在各自的目录中：
 
-### 主要规则
+- **域名规则集**: `clash-rules-generated/`
+- **GeoIP 规则集**: `geoip-rules-generated/`
 
-该目录下的每个 `.txt` 文件都对应 `domain-list-community` 中的一个域名列表。您可以直接在您的 Clash 配置文件中使用这些文件的 URL。
+### 域名规则 (Geosite)
+
+`clash-rules-generated/` 目录下的每个 `.txt` 文件都对应 `domain-list-community` 中的一个域名列表。您可以直接在您的 Clash 配置文件中使用这些文件的 URL。
 
 例如，要使用 `google` 规则集，您可以在配置文件中这样写：
 
@@ -29,7 +32,7 @@ rule-providers:
 
 **注意**: 为了获得最佳的加载速度和可用性，推荐使用 jsDelivr CDN 的 URL。
 
-### 聚合标签规则
+#### 聚合标签规则
 
 为了方便使用，本项目还提供了根据源文件中的 `@` 标签（如 `@ads`, `@cn`）聚合而成的特殊规则文件：
 
@@ -37,15 +40,33 @@ rule-providers:
 - `collect_tag_cn.txt`: 聚合了所有被明确标记为中国大陆（`@cn`）的域名。
 - `collect_tag_!cn.txt`: 聚合了所有非中国大陆（`@!cn`）的域名。
 
-这些文件对于实现常见的广告屏蔽和分流策略非常有用。
+### GeoIP 规则
+
+`geoip-rules-generated/` 目录下的文件包含了从 [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) 的 `geoip.dat` 文件中提取的 IP 地址段（CIDR）。这些规则对于基于 IP 的分流非常有用。
+
+目前，项目会生成以下 GeoIP 规则集：
+- `geoip_cn.txt`: 中国大陆的 IP 地址段。
+- `geoip_private.txt`: 私有/保留 IP 地址段。
+
+使用示例：
+
+```yaml
+rule-providers:
+  cn_ip:
+    type: http
+    behavior: ipcidr
+    url: "https://cdn.jsdelivr.net/gh/busymilk/v2fly-domain-list-community_rule_set@main/geoip-rules-generated/geoip_cn.txt"
+    path: ./ruleset/cn_ip.rules
+    interval: 86400
+```
 
 ## 自动化更新
 
 本仓库通过 GitHub Actions 自动执行以下流程：
 
-1.  **每日拉取**：每天定时从 `v2fly/domain-list-community` 拉取最新的规则。
-2.  **自动转换**：运行 Python 脚本，将规则转换为 Clash `RULE-SET` 格式，并处理所有 `include:` 标签。
-3.  **标签处理**：自动收集带 `@` 标签的域名，生成聚合规则文件，并从原始文件中移除标签以确保兼容性。
+1.  **每日拉取**：每天定时从 `v2fly/domain-list-community` 和 `Loyalsoldier/geoip` 拉取最新的规则数据。
+2.  **自动转换**：运行 Python 脚本，将域名和 GeoIP 数据转换为 Clash `RULE-SET` 格式。
+3.  **标签处理**：自动收集域名规则中的 `@` 标签，生成聚合规则文件。
 4.  **提交推送**：将更新后的规则文件自动提交并推送到本仓库。
 5.  **刷新 CDN**：自动请求 jsDelivr 刷新所有已更新文件的 CDN 缓存。
 
