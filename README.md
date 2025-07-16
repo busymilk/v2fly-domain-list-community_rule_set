@@ -46,6 +46,21 @@ rule-providers:
 3.  **标签处理**：自动收集带 `@` 标签的域名，生成聚合规则文件，并从原始文件中移除标签以确保兼容性。
 4.  **提交推送**：将更新后的规则文件自动提交并推送到本仓库。
 
+### **重要：启用 Actions 权限**
+
+为了让 GitHub Actions 能够自动将更新后的规则推送到本仓库，您需要手动进行一次设置：
+
+1.  **导航到仓库设置**：
+    *   在您的 GitHub 仓库页面，点击右上角的 **Settings**。
+2.  **Actions 设置**：
+    *   在左侧菜单中，选择 **Actions** -> **General**。
+3.  **修改工作流权限**：
+    *   向下滚动到 **Workflow permissions** 部分。
+    *   选择 **Read and write permissions** 选项。
+    *   点击 **Save**。
+
+完成此设置后，自动化工作流才能正常运行。
+
 ## 如何贡献
 
 由于这是一个自动生成的仓库，请不要直接向本仓库提交 Pull Request 来修改规则。所有的规则都源自上游的 [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) 项目。如果您想贡献规则，请向上游项目提交您的更改。
