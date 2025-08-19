@@ -30,7 +30,6 @@ payload:
   - 'DOMAIN-SUFFIX,tracking.miui.com'
   - 'DOMAIN-SUFFIX,xiaomi.cn'
   - 'DOMAIN-SUFFIX,xiaomi.com'
-  - 'DOMAIN-SUFFIX,xiaomi.eu'
   - 'DOMAIN-SUFFIX,xiaomi.net'
   - 'DOMAIN-SUFFIX,xiaomicp.com'
   - 'DOMAIN-SUFFIX,xiaomidns.cn'

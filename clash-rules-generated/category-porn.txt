@@ -3109,6 +3109,7 @@ payload:
   - 'DOMAIN-SUFFIX,keaiav.com'
   - 'DOMAIN-SUFFIX,kechtube.com'
   - 'DOMAIN-SUFFIX,keezmovies.com'
+  - 'DOMAIN-SUFFIX,kemono.cr'
   - 'DOMAIN-SUFFIX,kemono.party'
   - 'DOMAIN-SUFFIX,kemono.su'
   - 'DOMAIN-SUFFIX,kendralist.com'

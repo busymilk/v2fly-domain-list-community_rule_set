@@ -144,6 +144,7 @@ payload:
   - 'DOMAIN-SUFFIX,sogoucdn.com'
   - 'DOMAIN-SUFFIX,sogoucdndl.com'
   - 'DOMAIN-SUFFIX,sogouimecdn.com'
+  - 'DOMAIN-SUFFIX,sohu'
   - 'DOMAIN-SUFFIX,sohu.com'
   - 'DOMAIN-SUFFIX,sohucs.com'
   - 'DOMAIN-SUFFIX,solidot.org'

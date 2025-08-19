@@ -175,6 +175,7 @@ payload:
   - 'DOMAIN-SUFFIX,whccb.com'
   - 'DOMAIN-SUFFIX,wxsbank.com'
   - 'DOMAIN-SUFFIX,xa-bank.com'
+  - 'DOMAIN-SUFFIX,xn--fiq64b'
   - 'DOMAIN-SUFFIX,xwbank.com'
   - 'DOMAIN-SUFFIX,yillionbank.com'
   - 'DOMAIN-SUFFIX,ymbank.com'
