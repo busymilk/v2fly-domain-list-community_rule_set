@@ -192,6 +192,7 @@ payload:
   - 'DOMAIN-SUFFIX,getcomposer.org'
   - 'DOMAIN-SUFFIX,getfedora.org'
   - 'DOMAIN-SUFFIX,getzola.org'
+  - 'DOMAIN-SUFFIX,gh.io'
   - 'DOMAIN-SUFFIX,ghcr.io'
   - 'DOMAIN-SUFFIX,git-scm.com'
   - 'DOMAIN-SUFFIX,git.io'

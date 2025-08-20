@@ -11111,6 +11111,7 @@ payload:
   - 'DOMAIN-SUFFIX,ggpht.cn'
   - 'DOMAIN-SUFFIX,ggpht.com'
   - 'DOMAIN-SUFFIX,ggsrv.com'
+  - 'DOMAIN-SUFFIX,gh.io'
   - 'DOMAIN-SUFFIX,ghbi.ir'
   - 'DOMAIN-SUFFIX,ghcr.io'
   - 'DOMAIN-SUFFIX,ghettotube.com'

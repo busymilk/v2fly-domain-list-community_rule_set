@@ -273,6 +273,7 @@ payload:
   - 'DOMAIN-SUFFIX,gearspop.com'
   - 'DOMAIN-SUFFIX,gearstactics.com'
   - 'DOMAIN-SUFFIX,gfx.ms'
+  - 'DOMAIN-SUFFIX,gh.io'
   - 'DOMAIN-SUFFIX,ghcr.io'
   - 'DOMAIN-SUFFIX,gigjam.com'
   - 'DOMAIN-SUFFIX,git.io'

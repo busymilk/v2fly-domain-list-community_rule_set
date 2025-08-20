@@ -3,6 +3,7 @@ payload:
   - 'DOMAIN-SUFFIX,blob.core.windows.net'
   - 'DOMAIN-SUFFIX,dependabot.com'
   - 'DOMAIN,github-cloud.s3.amazonaws.com'
+  - 'DOMAIN-SUFFIX,gh.io'
   - 'DOMAIN-SUFFIX,ghcr.io'
   - 'DOMAIN-SUFFIX,git.io'
   - 'DOMAIN-SUFFIX,github.blog'
