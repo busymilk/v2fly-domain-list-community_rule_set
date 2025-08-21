@@ -277,6 +277,7 @@ payload:
   - 'DOMAIN-SUFFIX,ghcr.io'
   - 'DOMAIN-SUFFIX,gigjam.com'
   - 'DOMAIN-SUFFIX,git.io'
+  - 'DOMAIN-SUFFIX,github.ai'
   - 'DOMAIN-SUFFIX,github.blog'
   - 'DOMAIN-SUFFIX,github.com'
   - 'DOMAIN-SUFFIX,github.community'

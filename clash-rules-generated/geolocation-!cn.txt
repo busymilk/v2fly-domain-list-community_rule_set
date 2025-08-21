@@ -11166,6 +11166,7 @@ payload:
   - 'DOMAIN-SUFFIX,git.io'
   - 'DOMAIN-SUFFIX,gitbook.com'
   - 'DOMAIN-SUFFIX,gitbook.io'
+  - 'DOMAIN-SUFFIX,github.ai'
   - 'DOMAIN-SUFFIX,github.blog'
   - 'DOMAIN-SUFFIX,github.com'
   - 'DOMAIN-SUFFIX,github.community'

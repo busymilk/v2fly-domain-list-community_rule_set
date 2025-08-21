@@ -11,6 +11,7 @@ payload:
   - 'DOMAIN-SUFFIX,clipdrop.co'
   - 'DOMAIN-SUFFIX,coderabbit.ai'
   - 'DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io'
+  - 'DOMAIN-SUFFIX,copilot.microsoft.com'
   - 'DOMAIN-SUFFIX,cursor-cdn.com'
   - 'DOMAIN-SUFFIX,cursor.com'
   - 'DOMAIN-SUFFIX,cursor.sh'
