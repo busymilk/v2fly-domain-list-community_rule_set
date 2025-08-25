@@ -238,6 +238,8 @@ payload:
   - 'DOMAIN-SUFFIX,thefoxnation.com'
   - 'DOMAIN-SUFFIX,thegeorgiascene.com'
   - 'DOMAIN-SUFFIX,tubi.io'
+  - 'DOMAIN-SUFFIX,tubi.tv'
+  - 'DOMAIN-SUFFIX,tubi.video'
   - 'DOMAIN-SUFFIX,tubitv.com'
   - 'DOMAIN-SUFFIX,whatthefox.com'
   - 'DOMAIN-SUFFIX,whosthehost.com'

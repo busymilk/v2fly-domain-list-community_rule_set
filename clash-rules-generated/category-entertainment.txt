@@ -1069,6 +1069,7 @@ payload:
   - 'DOMAIN-SUFFIX,slinginternational.com'
   - 'DOMAIN-SUFFIX,sndcdn.com'
   - 'DOMAIN-SUFFIX,snk-corp.co.jp'
+  - 'DOMAIN-SUFFIX,snk-corp.info'
   - 'DOMAIN-SUFFIX,snkplaymore.info'
   - 'DOMAIN-SUFFIX,sonyclassics.com'
   - 'DOMAIN-SUFFIX,sonyentertainmentnetwork.com'

@@ -647,6 +647,7 @@ payload:
   - 'DOMAIN-SUFFIX,skydweller.cn'
   - 'DOMAIN-SUFFIX,sl916.com'
   - 'DOMAIN-SUFFIX,snk-corp.co.jp'
+  - 'DOMAIN-SUFFIX,snk-corp.info'
   - 'DOMAIN-SUFFIX,snkplaymore.info'
   - 'DOMAIN-SUFFIX,sonyentertainmentnetwork.com'
   - 'DOMAIN-SUFFIX,spearhead.kr'

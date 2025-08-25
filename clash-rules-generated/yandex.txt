@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,dzen.ru'
+  - 'DOMAIN-SUFFIX,naydex.net'
   - 'DOMAIN-SUFFIX,rostaxi.org'
   - 'DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai'
   - 'DOMAIN-SUFFIX,ya.ru'
@@ -9,6 +10,7 @@ payload:
   - 'DOMAIN-SUFFIX,yandex.aero'
   - 'DOMAIN-SUFFIX,yandex.az'
   - 'DOMAIN-SUFFIX,yandex.by'
+  - 'DOMAIN-SUFFIX,yandex.cloud'
   - 'DOMAIN-SUFFIX,yandex.co.il'
   - 'DOMAIN-SUFFIX,yandex.com'
   - 'DOMAIN-SUFFIX,yandex.com.am'
