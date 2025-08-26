@@ -102,6 +102,7 @@ payload:
   - 'DOMAIN-SUFFIX,volcfcdn.com'
   - 'DOMAIN-SUFFIX,volcfcdnbyte.com'
   - 'DOMAIN-SUFFIX,volcfcdndvs.com'
+  - 'DOMAIN-SUFFIX,volcfcdndvs1.com'
   - 'DOMAIN-SUFFIX,volcfcdnplus.com'
   - 'DOMAIN-SUFFIX,volcfcdnrd.com'
   - 'DOMAIN-SUFFIX,volcfcdnsc.com'

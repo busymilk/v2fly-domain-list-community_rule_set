@@ -4,3 +4,4 @@ payload:
   - 'DOMAIN-SUFFIX,hkopentv.com'
   - 'DOMAIN-SUFFIX,hoy.tv'
   - 'DOMAIN-SUFFIX,i-cable.com'
+  - 'DOMAIN-SUFFIX,i-cablecomm.com'

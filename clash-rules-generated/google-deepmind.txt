@@ -1,4 +1,5 @@
 payload:
+  - 'DOMAIN-SUFFIX,aisandbox-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,aistudio.google.com'
   - 'DOMAIN-SUFFIX,bard.google.com'
   - 'DOMAIN-SUFFIX,deepmind.com'
@@ -14,6 +15,7 @@ payload:
   - 'DOMAIN-SUFFIX,generativelanguage.googleapis.com'
   - 'DOMAIN-SUFFIX,jules.google'
   - 'DOMAIN-SUFFIX,jules.google.com'
+  - 'DOMAIN-SUFFIX,labs.google'
   - 'DOMAIN-SUFFIX,makersuite.google.com'
   - 'DOMAIN-SUFFIX,notebooklm.google'
   - 'DOMAIN-SUFFIX,notebooklm.google.com'

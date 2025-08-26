@@ -46,6 +46,7 @@ payload:
   - 'DOMAIN,time-e-wwv.nist.gov'
   - 'DOMAIN,time.amazonaws.cn'
   - 'DOMAIN,time.apple.com'
+  - 'DOMAIN,time.asia.apple.com'
   - 'DOMAIN,time.aws.com'
   - 'DOMAIN,time.cloudflare.com'
   - 'DOMAIN,time.euro.apple.com'

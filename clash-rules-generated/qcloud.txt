@@ -1,6 +1,7 @@
 payload:
   - 'DOMAIN-SUFFIX,acctdns.com'
   - 'DOMAIN-SUFFIX,acctdns.net'
+  - 'DOMAIN-SUFFIX,aegis.qq.com'
   - 'DOMAIN-SUFFIX,aitransfy.com'
   - 'DOMAIN-SUFFIX,ap-bangkok.myqcloud.com'
   - 'DOMAIN-SUFFIX,ap-bangkok.tencentcos.cn'
@@ -217,6 +218,9 @@ payload:
     \.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$
   - |
     \.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$
+  - 'DOMAIN-SUFFIX,rumt-sg.com'
+  - 'DOMAIN-SUFFIX,rumt-us.com'
+  - 'DOMAIN-SUFFIX,rumt-zh.com'
   - 'DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com'
   - 'DOMAIN-SUFFIX,sa-saopaulo.tencentcos.cn'
   - 'DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com'

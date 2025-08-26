@@ -1,3 +1,3 @@
 payload:
-  - 'DOMAIN-SUFFIX,dnvodcdn.me'
   - 'DOMAIN-SUFFIX,iyf.tv'
+  - 'DOMAIN-SUFFIX,yfsp.tv'

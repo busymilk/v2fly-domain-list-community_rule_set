@@ -180,7 +180,6 @@ payload:
   - 'DOMAIN-SUFFIX,download.windowsupdate.com'
   - 'DOMAIN-SUFFIX,dynamics.cn'
   - 'DOMAIN-SUFFIX,dynamics.com'
-  - 'DOMAIN-SUFFIX,edgesuite.net'
   - 'DOMAIN-SUFFIX,efproject.net'
   - 'DOMAIN-SUFFIX,elderscrolls.com'
   - 'DOMAIN-SUFFIX,engkoo.com'
