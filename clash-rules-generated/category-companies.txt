@@ -363,6 +363,7 @@ payload:
   - 'DOMAIN-SUFFIX,amazonchoice.com.cn'
   - 'DOMAIN-SUFFIX,amazonchoices.cn'
   - 'DOMAIN-SUFFIX,amazonchoices.com.cn'
+  - 'DOMAIN-SUFFIX,amazoncognito.com'
   - 'DOMAIN-SUFFIX,amazondevicesupport.com'
   - 'DOMAIN-SUFFIX,amazonfctours.com'
   - 'DOMAIN-SUFFIX,amazonianblog.com'
@@ -1038,7 +1039,9 @@ payload:
   - 'DOMAIN-SUFFIX,aws-icp-domain-manager.cn'
   - 'DOMAIN-SUFFIX,aws-iot-hackathon.com'
   - 'DOMAIN-SUFFIX,aws.com'
+  - 'DOMAIN-SUFFIX,awsapprunner.com'
   - 'DOMAIN-SUFFIX,awsapps.cn'
+  - 'DOMAIN-SUFFIX,awsapps.com'
   - 'DOMAIN-SUFFIX,awsapps.com.cn'
   - 'DOMAIN-SUFFIX,awsautopilot.com'
   - 'DOMAIN-SUFFIX,awsautoscaling.com'
@@ -6179,7 +6182,7 @@ payload:
   - |
     ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - |
-    ^ewcdn[0-9]{2}\.nowe\.com$
+    ^ewcdn[0-9]+\.nowe\.com$
   - |
     ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
   - |

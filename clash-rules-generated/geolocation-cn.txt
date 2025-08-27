@@ -599,6 +599,7 @@ payload:
   - 'DOMAIN-SUFFIX,aliyun-iot-share.com'
   - 'DOMAIN-SUFFIX,aliyun.com'
   - 'DOMAIN-SUFFIX,aliyuncdn.com'
+  - 'DOMAIN-SUFFIX,aliyundrive.cloud'
   - 'DOMAIN-SUFFIX,aliyundrive.com'
   - 'DOMAIN-SUFFIX,aliyundrive.net'
   - 'DOMAIN-SUFFIX,aliyunfile.com'

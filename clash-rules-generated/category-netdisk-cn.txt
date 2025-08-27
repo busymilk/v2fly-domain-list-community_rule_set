@@ -15,6 +15,7 @@ payload:
   - 'DOMAIN-SUFFIX,123pan.com'
   - 'DOMAIN-SUFFIX,alicloudccp.com'
   - 'DOMAIN-SUFFIX,alipan.com'
+  - 'DOMAIN-SUFFIX,aliyundrive.cloud'
   - 'DOMAIN-SUFFIX,aliyundrive.com'
   - 'DOMAIN-SUFFIX,aliyundrive.net'
   - 'DOMAIN-SUFFIX,anxia.com'

@@ -4,6 +4,6 @@ payload:
   - 'DOMAIN,d2anahhhmp1ffz.cloudfront.net'
   - 'DOMAIN,dfp6rglgjqszk.cloudfront.net'
   - |
-    ^ewcdn[0-9]{2}\.nowe\.com$
+    ^ewcdn[0-9]+\.nowe\.com$
   - 'DOMAIN-SUFFIX,viu.com'
   - 'DOMAIN-SUFFIX,viu.tv'
