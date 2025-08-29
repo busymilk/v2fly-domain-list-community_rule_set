@@ -776,7 +776,6 @@ payload:
 - 'DOMAIN-SUFFIX,z.gds.cnzz.com'
 - 'DOMAIN-SUFFIX,znsv.baidu.com'
 - 'DOMAIN-SUFFIX,zymo.mps.weibo.com'
-- 'DOMAIN-SUFFIX,zyngaplayersupport.com'
 - 'DOMAIN-SUFFIX,zz.bdstatic.com'
 - 'DOMAIN-SUFFIX,zzy1.quyaoya.com'
 - |
