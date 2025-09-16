@@ -67,6 +67,7 @@ payload:
   - 'DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com'
   - |
     ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
+  - 'DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,sora.com'
   - 'DOMAIN-SUFFIX,turn.livekit.cloud'
   - 'DOMAIN-SUFFIX,x.ai'

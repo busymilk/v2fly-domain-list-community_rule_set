@@ -6214,6 +6214,7 @@ payload:
   - 'DOMAIN-SUFFIX,revolv.com'
   - 'DOMAIN-SUFFIX,ridepenguin.com'
   - 'DOMAIN-SUFFIX,rk.com'
+  - 'DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,robobat.com'
   - 'DOMAIN-SUFFIX,robotoffice.com'
   - 'DOMAIN-SUFFIX,rocksdb.com'

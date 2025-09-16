@@ -867,6 +867,7 @@ payload:
   - 'DOMAIN-SUFFIX,registry.google'
   - 'DOMAIN-SUFFIX,revolv.com'
   - 'DOMAIN-SUFFIX,ridepenguin.com'
+  - 'DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,run.app'
   - 'DOMAIN-SUFFIX,savethedate.foo'
   - 'DOMAIN-SUFFIX,saynow.com'
