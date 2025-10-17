@@ -2822,6 +2822,7 @@ payload:
   - 'DOMAIN-SUFFIX,jav-angel.net'
   - 'DOMAIN-SUFFIX,jav-subtitles.com'
   - 'DOMAIN-SUFFIX,jav-vr.net'
+  - 'DOMAIN-SUFFIX,jav.app'
   - 'DOMAIN-SUFFIX,jav.dog'
   - 'DOMAIN-SUFFIX,jav.gallery'
   - 'DOMAIN-SUFFIX,jav.guru'
@@ -4894,6 +4895,8 @@ payload:
     (^|\.)zztt[1-6][0-9]\.com$
   - |
     (^|\.)zzz[1-9][0-9]\.top$
+  - |
+    javdb\d+\.com$
   - 'DOMAIN-SUFFIX,reiporno.com'
   - 'DOMAIN-SUFFIX,renderos.com'
   - 'DOMAIN-SUFFIX,reneerossvideos.com'

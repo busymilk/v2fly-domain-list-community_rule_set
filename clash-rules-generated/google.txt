@@ -448,6 +448,7 @@ payload:
   - 'DOMAIN,www.pxcc.com'
   - 'DOMAIN,www.recaptcha.net'
   - 'DOMAIN,xn--flw351e.com'
+  - 'DOMAIN,yt3.googleusercontent.com'
   - 'DOMAIN-SUFFIX,g-tun.com'
   - 'DOMAIN-SUFFIX,g.cn'
   - 'DOMAIN-SUFFIX,g.co'

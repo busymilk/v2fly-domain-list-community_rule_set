@@ -10,6 +10,7 @@ payload:
   - 'DOMAIN,lv.queniujq.cn'
   - 'DOMAIN,steambroadcast.akamaized.net'
   - 'DOMAIN,steamcdn-a.akamaihd.net'
+  - 'DOMAIN,steamcloudsweden.blob.core.windows.net'
   - 'DOMAIN,steamcommunity-a.akamaihd.net'
   - 'DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net'
   - 'DOMAIN,steammobile.akamaized.net'

@@ -1,9 +1,12 @@
 payload:
+  - 'DOMAIN-SUFFIX,nlark.com'
   - 'DOMAIN-SUFFIX,oray.com'
   - 'DOMAIN-SUFFIX,oray.net'
   - 'DOMAIN-SUFFIX,orayer.com'
   - 'DOMAIN-SUFFIX,orayimg.com'
   - 'DOMAIN-SUFFIX,shimo.im'
+  - 'DOMAIN-SUFFIX,shimonote.com'
+  - 'DOMAIN-SUFFIX,smgv.cn'
   - 'DOMAIN-SUFFIX,sunlogin.net'
   - 'DOMAIN-SUFFIX,todesk.com'
   - 'DOMAIN-SUFFIX,tower.im'

@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,dji.com'
+  - 'DOMAIN-SUFFIX,dji.ink'
   - 'DOMAIN-SUFFIX,dji.net'
   - 'DOMAIN-SUFFIX,djicdn.com'
   - 'DOMAIN-SUFFIX,djiits.com'

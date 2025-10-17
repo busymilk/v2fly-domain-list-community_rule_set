@@ -211,6 +211,8 @@ payload:
   - 'DOMAIN-SUFFIX,juhuasuan.com'
   - 'DOMAIN-SUFFIX,jxlog.istreamsche.com'
   - 'DOMAIN-SUFFIX,kanbox.com'
+  - 'DOMAIN-SUFFIX,kaola.com'
+  - 'DOMAIN-SUFFIX,kaolacdn.com'
   - 'DOMAIN-SUFFIX,koubei.com'
   - 'DOMAIN-SUFFIX,kunlunaq.com'
   - 'DOMAIN-SUFFIX,kunlunar.com'

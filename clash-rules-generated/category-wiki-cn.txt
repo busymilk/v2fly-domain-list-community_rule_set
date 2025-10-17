@@ -8,5 +8,6 @@ payload:
   - 'DOMAIN-SUFFIX,moegirl.org'
   - 'DOMAIN-SUFFIX,moegirl.org.cn'
   - 'DOMAIN-SUFFIX,qiuwen.wiki'
+  - 'DOMAIN-SUFFIX,qiuwenbaike.cn'
   - 'DOMAIN-SUFFIX,sec-wiki.com'
   - 'DOMAIN-SUFFIX,shidianbaike.com'

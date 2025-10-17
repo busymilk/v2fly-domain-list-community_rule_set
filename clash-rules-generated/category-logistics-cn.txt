@@ -34,6 +34,7 @@ payload:
   - 'DOMAIN-SUFFIX,gpall.cn'
   - 'DOMAIN-SUFFIX,gpall.net'
   - 'DOMAIN-SUFFIX,guoguo-app.com'
+  - 'DOMAIN-SUFFIX,guoocang.com'
   - 'DOMAIN-SUFFIX,ibobscs.com'
   - 'DOMAIN-SUFFIX,izto.com'
   - 'DOMAIN-SUFFIX,izto.com.cn'

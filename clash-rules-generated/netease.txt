@@ -26,7 +26,6 @@ payload:
   - 'DOMAIN-SUFFIX,iadmusicmat.music.126.net'
   - 'DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net'
   - 'DOMAIN-SUFFIX,icourse163.org'
-  - 'DOMAIN-SUFFIX,kaola.com'
   - 'DOMAIN-SUFFIX,lofter.com'
   - 'DOMAIN-SUFFIX,nease.net'
   - 'DOMAIN-SUFFIX,netease-inc.com'

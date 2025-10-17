@@ -2,6 +2,7 @@ payload:
   - 'DOMAIN-SUFFIX,atom.io'
   - 'DOMAIN-SUFFIX,blob.core.windows.net'
   - 'DOMAIN-SUFFIX,dependabot.com'
+  - 'DOMAIN,github-api.arkoselabs.com'
   - 'DOMAIN,github-cloud.s3.amazonaws.com'
   - 'DOMAIN-SUFFIX,gh.io'
   - 'DOMAIN-SUFFIX,ghcr.io'
@@ -25,6 +26,7 @@ payload:
   - 'DOMAIN-SUFFIX,npm.community'
   - 'DOMAIN-SUFFIX,npmjs.com'
   - 'DOMAIN-SUFFIX,npmjs.org'
+  - 'DOMAIN-SUFFIX,octocaptcha.com'
   - 'DOMAIN-SUFFIX,opensource.guide'
   - |
     ^github-production-release-asset-[0-9a-zA-Z]{6}\.s3\.amazonaws\.com$
