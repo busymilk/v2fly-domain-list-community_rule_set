@@ -22,6 +22,7 @@ payload:
   - 'DOMAIN-SUFFIX,cursorapi.com'
   - 'DOMAIN-SUFFIX,deepmind.com'
   - 'DOMAIN-SUFFIX,deepmind.google'
+  - 'DOMAIN-SUFFIX,diabrowser.com'
   - 'DOMAIN-SUFFIX,dify.ai'
   - 'DOMAIN,ai.google.dev'
   - 'DOMAIN,alkalicore-pa.clients6.google.com'

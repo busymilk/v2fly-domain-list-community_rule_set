@@ -1,4 +1,5 @@
 payload:
+  - 'DOMAIN-SUFFIX,cdn-vk.ru'
   - 'DOMAIN-SUFFIX,mradx.net'
   - 'DOMAIN-SUFFIX,mvk.com'
   - 'DOMAIN-SUFFIX,userapi.com'
@@ -17,6 +18,7 @@ payload:
   - 'DOMAIN-SUFFIX,vk.ru'
   - 'DOMAIN-SUFFIX,vk.team'
   - 'DOMAIN-SUFFIX,vkcache.com'
+  - 'DOMAIN-SUFFIX,vkcloud-static.ru'
   - 'DOMAIN-SUFFIX,vkgo.app'
   - 'DOMAIN-SUFFIX,vklive.app'
   - 'DOMAIN-SUFFIX,vkmessenger.app'
