@@ -5,6 +5,7 @@ payload:
   - 'DOMAIN-SUFFIX,blueseacdn.com'
   - 'DOMAIN-SUFFIX,cn-music.mefun.vip'
   - 'DOMAIN-SUFFIX,emby.ml'
+  - 'DOMAIN-SUFFIX,emby1.69yun69.com'
   - 'DOMAIN-SUFFIX,embyplus.club'
   - 'DOMAIN-SUFFIX,feverss.cloud'
   - 'DOMAIN,agahk.odysseyplus.site'
@@ -78,3 +79,4 @@ payload:
   - 'DOMAIN-SUFFIX,stream.ntrrr.top'
   - 'DOMAIN-SUFFIX,stream.synn.cc'
   - 'DOMAIN-SUFFIX,texon.fans'
+  - 'DOMAIN-SUFFIX,yunti.online'

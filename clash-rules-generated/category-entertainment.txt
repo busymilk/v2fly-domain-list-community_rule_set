@@ -1227,6 +1227,7 @@ payload:
   - 'DOMAIN-SUFFIX,titanfall.com'
   - 'DOMAIN-SUFFIX,tmdb.org'
   - 'DOMAIN-SUFFIX,tnt-ea.com'
+  - 'DOMAIN-SUFFIX,tospotify.com'
   - 'DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net'
   - 'DOMAIN-SUFFIX,triokini.com'
   - 'DOMAIN-SUFFIX,ttlivecdn.com'
