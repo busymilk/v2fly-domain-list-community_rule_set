@@ -60,7 +60,6 @@ payload:
   - 'DOMAIN-SUFFIX,sciencechina.cn'
   - 'DOMAIN-SUFFIX,sslawy.com'
   - 'DOMAIN-SUFFIX,sslibrary.com'
-  - 'DOMAIN-SUFFIX,sslibrary.com'
   - 'DOMAIN-SUFFIX,ssreader.cn'
   - 'DOMAIN-SUFFIX,ssreader.com.cn'
   - 'DOMAIN-SUFFIX,ssvideo.cn'

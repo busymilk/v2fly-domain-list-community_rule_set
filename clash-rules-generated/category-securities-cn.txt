@@ -84,6 +84,8 @@ payload:
   - 'DOMAIN-SUFFIX,hongtastock.com'
   - 'DOMAIN-SUFFIX,howbuy.com'
   - 'DOMAIN-SUFFIX,hrsec.com.cn'
+  - 'DOMAIN-SUFFIX,hsbc.com.cn'
+  - 'DOMAIN-SUFFIX,hsbcinsurance.com.cn'
   - 'DOMAIN-SUFFIX,hsbcqh.com.cn'
   - 'DOMAIN-SUFFIX,hsfund.com'
   - 'DOMAIN-SUFFIX,htsc.com.cn'

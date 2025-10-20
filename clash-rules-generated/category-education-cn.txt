@@ -83,6 +83,7 @@ payload:
   - 'DOMAIN-SUFFIX,qgzb.gov.cn'
   - 'DOMAIN-SUFFIX,qgzb.net'
   - 'DOMAIN-SUFFIX,rainclassroom.com'
+  - 'DOMAIN-SUFFIX,saduck.top'
   - 'DOMAIN-SUFFIX,shanbay.com'
   - 'DOMAIN-SUFFIX,shareintelli.com'
   - 'DOMAIN-SUFFIX,speiyou.com'
