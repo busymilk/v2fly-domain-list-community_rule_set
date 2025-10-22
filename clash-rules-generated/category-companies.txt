@@ -5077,6 +5077,7 @@ payload:
   - 'DOMAIN-SUFFIX,kindleoasisnews.com'
   - 'DOMAIN-SUFFIX,kindleproject.com'
   - 'DOMAIN-SUFFIX,kingstagram.com'
+  - 'DOMAIN-SUFFIX,kinopoisk.ru'
   - 'DOMAIN-SUFFIX,klik.me'
   - 'DOMAIN-SUFFIX,knoxemm.com'
   - 'DOMAIN-SUFFIX,kobbeatssbydredk.com'

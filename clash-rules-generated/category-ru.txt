@@ -48,6 +48,7 @@ payload:
   - 'DOMAIN-SUFFIX,khabarovsk.ru'
   - 'DOMAIN-SUFFIX,khakassia.ru'
   - 'DOMAIN-SUFFIX,khv.ru'
+  - 'DOMAIN-SUFFIX,kinopoisk.ru'
   - 'DOMAIN-SUFFIX,kirov.ru'
   - 'DOMAIN-SUFFIX,koenig.ru'
   - 'DOMAIN-SUFFIX,kostroma.ru'

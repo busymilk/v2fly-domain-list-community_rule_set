@@ -5040,6 +5040,7 @@ payload:
   - 'DOMAIN-SUFFIX,theduapp.com.cn'
   - 'DOMAIN-SUFFIX,themisweeps.com'
   - 'DOMAIN-SUFFIX,thepaper.cn'
+  - 'DOMAIN-SUFFIX,thepoizon.ru'
   - 'DOMAIN-SUFFIX,theta.sogoucdn.com'
   - 'DOMAIN-SUFFIX,theworld.cn'
   - 'DOMAIN-SUFFIX,thfund.com.cn'
