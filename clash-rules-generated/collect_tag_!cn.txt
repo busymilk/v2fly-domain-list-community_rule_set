@@ -83,6 +83,8 @@ payload:
 - 'DOMAIN-SUFFIX,ctrip.sg'
 - 'DOMAIN-SUFFIX,ctripbuy.hk'
 - 'DOMAIN-SUFFIX,cuniq.com'
+- 'DOMAIN-SUFFIX,deepin.io'
+- 'DOMAIN-SUFFIX,deepin.org'
 - 'DOMAIN-SUFFIX,didi-food.com'
 - 'DOMAIN-SUFFIX,didiaustralia.blog'
 - 'DOMAIN-SUFFIX,didiglobal.com'

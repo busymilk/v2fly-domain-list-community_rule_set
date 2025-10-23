@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,argotunnel.com'
+  - 'DOMAIN-SUFFIX,cf-china.info'
   - 'DOMAIN-SUFFIX,cf-ipfs.com'
   - 'DOMAIN-SUFFIX,cf-ns.com'
   - 'DOMAIN-SUFFIX,cf-ns.net'
@@ -37,6 +38,7 @@ payload:
   - 'DOMAIN-SUFFIX,cloudflareportal.com'
   - 'DOMAIN-SUFFIX,cloudflarepreview.com'
   - 'DOMAIN-SUFFIX,cloudflareprod.com'
+  - 'DOMAIN-SUFFIX,cloudflareregistrar.com'
   - 'DOMAIN-SUFFIX,cloudflareresolve.com'
   - 'DOMAIN-SUFFIX,cloudflaressl.com'
   - 'DOMAIN-SUFFIX,cloudflarestaging.com'

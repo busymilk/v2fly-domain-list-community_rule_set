@@ -345,6 +345,7 @@ payload:
   - 'DOMAIN-SUFFIX,ebayvietnam.net'
   - 'DOMAIN-SUFFIX,ebayworlds.com'
   - 'DOMAIN-SUFFIX,ebayy.com'
+  - 'DOMAIN-SUFFIX,ebuyer.com'
   - 'DOMAIN-SUFFIX,ecimg.tw'
   - 'DOMAIN-SUFFIX,edisebay.com'
   - 'DOMAIN-SUFFIX,eebay.com'
