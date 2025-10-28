@@ -31,6 +31,7 @@ payload:
   - 'DOMAIN-SUFFIX,tjqonline.cn'
   - 'DOMAIN-SUFFIX,tracker.ai.xiaomi.com'
   - 'DOMAIN-SUFFIX,tracking.miui.com'
+  - 'DOMAIN-SUFFIX,wali.com'
   - 'DOMAIN-SUFFIX,xiaomi.cn'
   - 'DOMAIN-SUFFIX,xiaomi.com'
   - 'DOMAIN-SUFFIX,xiaomi.net'

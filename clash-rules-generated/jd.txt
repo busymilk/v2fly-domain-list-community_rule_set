@@ -99,6 +99,7 @@ payload:
   - 'DOMAIN-SUFFIX,gia.jd.com'
   - 'DOMAIN-SUFFIX,goselling.com'
   - 'DOMAIN-SUFFIX,healthjd.com'
+  - 'DOMAIN-SUFFIX,imdada.cn'
   - 'DOMAIN-SUFFIX,img-x.jd.com'
   - 'DOMAIN-SUFFIX,isvjcloud.com'
   - 'DOMAIN-SUFFIX,isvjd.com'

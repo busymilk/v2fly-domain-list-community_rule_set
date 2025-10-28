@@ -13,6 +13,7 @@ payload:
   - 'DOMAIN-SUFFIX,todesk.com'
   - 'DOMAIN-SUFFIX,tower.im'
   - 'DOMAIN-SUFFIX,tritoninfo.net'
+  - 'DOMAIN-SUFFIX,woodo.cn'
   - 'DOMAIN-SUFFIX,xiumi.us'
   - 'DOMAIN-SUFFIX,xiumius.com'
   - 'DOMAIN-SUFFIX,yuque.com'
