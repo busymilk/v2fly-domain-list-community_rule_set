@@ -217,4 +217,5 @@ payload:
   - 'DOMAIN-SUFFIX,zol-img.com.cn'
   - 'DOMAIN-SUFFIX,zol.com.cn'
   - 'DOMAIN-SUFFIX,zqrb.cn'
+  - 'DOMAIN-SUFFIX,zuihuimai.com'
   - 'DOMAIN-SUFFIX,zygbdszt.net.cn'
