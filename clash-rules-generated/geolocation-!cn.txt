@@ -13789,6 +13789,7 @@ payload:
   - 'DOMAIN-SUFFIX,imilfs.com'
   - 'DOMAIN-SUFFIX,imlab.ac.uk'
   - 'DOMAIN-SUFFIX,imlive.com'
+  - 'DOMAIN-SUFFIX,immersivetranslate.com'
   - 'DOMAIN-SUFFIX,immidio.com'
   - 'DOMAIN-SUFFIX,immoral.jp'
   - 'DOMAIN-SUFFIX,immxd.com'
