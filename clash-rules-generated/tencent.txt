@@ -185,7 +185,6 @@ payload:
   - 'DOMAIN-SUFFIX,ugdtimg.com'
   - 'DOMAIN-SUFFIX,videoxiaoyouxi.com'
   - 'DOMAIN-SUFFIX,wcbygame.com'
-  - 'DOMAIN-SUFFIX,webnovel.com'
   - 'DOMAIN-SUFFIX,wechat.com'
   - 'DOMAIN-SUFFIX,wechatpay.cn'
   - 'DOMAIN-SUFFIX,wegame.com'

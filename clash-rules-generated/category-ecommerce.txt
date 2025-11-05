@@ -389,6 +389,8 @@ payload:
   - 'DOMAIN-SUFFIX,geeksquadprotectionplan.org'
   - 'DOMAIN-SUFFIX,geeksquadservices.org'
   - 'DOMAIN-SUFFIX,geeksquadwebroot.org'
+  - 'DOMAIN-SUFFIX,ggsel.com'
+  - 'DOMAIN-SUFFIX,ggsel.net'
   - 'DOMAIN-SUFFIX,gittigidiyor.net'
   - 'DOMAIN-SUFFIX,gittigidiyorsikayet.com'
   - 'DOMAIN-SUFFIX,gmossp-sp.jp'

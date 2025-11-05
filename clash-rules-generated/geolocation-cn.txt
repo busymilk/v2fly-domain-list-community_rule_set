@@ -5621,7 +5621,6 @@ payload:
   - 'DOMAIN-SUFFIX,webankcdn.net'
   - 'DOMAIN-SUFFIX,webgame163.com'
   - 'DOMAIN-SUFFIX,webmasterhome.cn'
-  - 'DOMAIN-SUFFIX,webnovel.com'
   - 'DOMAIN-SUFFIX,webterren.com'
   - 'DOMAIN-SUFFIX,wechat.com'
   - 'DOMAIN-SUFFIX,wechatpay.cn'

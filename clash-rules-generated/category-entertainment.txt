@@ -357,6 +357,7 @@ payload:
   - 'DOMAIN-SUFFIX,fanbox.cc'
   - 'DOMAIN-SUFFIX,fandango.com'
   - 'DOMAIN-SUFFIX,fast.com'
+  - 'DOMAIN-SUFFIX,ficbook.net'
   - 'DOMAIN-SUFFIX,fifastreet.com'
   - 'DOMAIN-SUFFIX,fifastreet3.com'
   - 'DOMAIN-SUFFIX,findyourlimits.com'
