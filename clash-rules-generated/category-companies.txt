@@ -220,6 +220,7 @@ payload:
   - 'DOMAIN-SUFFIX,aesworkshops.com'
   - 'DOMAIN-SUFFIX,aggresmart.com'
   - 'DOMAIN-SUFFIX,agilebits.com'
+  - 'DOMAIN-SUFFIX,aida.googleapis.com'
   - 'DOMAIN-SUFFIX,air-watch.com'
   - 'DOMAIN-SUFFIX,airgonetworks.com'
   - 'DOMAIN-SUFFIX,airgunstudio.com'
