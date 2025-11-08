@@ -7,6 +7,7 @@ payload:
   - 'DOMAIN-SUFFIX,eac-cdn.com'
   - 'DOMAIN-SUFFIX,easy.ac'
   - 'DOMAIN-SUFFIX,easyanticheat.net'
+  - 'DOMAIN-SUFFIX,egdownload.fastly-edge.com'
   - 'DOMAIN-SUFFIX,epicgames.com'
   - 'DOMAIN-SUFFIX,epicgames.dev'
   - 'DOMAIN-SUFFIX,epicgamescdn.com'

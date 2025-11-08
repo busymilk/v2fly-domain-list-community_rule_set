@@ -125,6 +125,7 @@ payload:
   - 'DOMAIN-SUFFIX,easyanticheat.net'
   - 'DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net'
   - 'DOMAIN-SUFFIX,eft-store.com'
+  - 'DOMAIN-SUFFIX,egdownload.fastly-edge.com'
   - 'DOMAIN-SUFFIX,elderscrolls.com'
   - 'DOMAIN-SUFFIX,electronicarts.com'
   - 'DOMAIN-SUFFIX,electronicarts.fr'

@@ -336,6 +336,7 @@ payload:
   - 'DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net'
   - 'DOMAIN-SUFFIX,edgedatg.com'
   - 'DOMAIN-SUFFIX,eft-store.com'
+  - 'DOMAIN-SUFFIX,egdownload.fastly-edge.com'
   - 'DOMAIN-SUFFIX,egta.com'
   - 'DOMAIN-SUFFIX,elderscrolls.com'
   - 'DOMAIN-SUFFIX,electronicarts.com'

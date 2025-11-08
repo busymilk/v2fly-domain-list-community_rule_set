@@ -182,6 +182,7 @@ payload:
   - 'DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net'
   - 'DOMAIN-SUFFIX,edu4399.com'
   - 'DOMAIN-SUFFIX,eft-store.com'
+  - 'DOMAIN-SUFFIX,egdownload.fastly-edge.com'
   - 'DOMAIN-SUFFIX,elderscrolls.com'
   - 'DOMAIN-SUFFIX,electronicarts.com'
   - 'DOMAIN-SUFFIX,electronicarts.fr'
