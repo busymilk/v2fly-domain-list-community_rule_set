@@ -685,6 +685,7 @@ payload:
   - 'DOMAIN-SUFFIX,antutu.com'
   - 'DOMAIN-SUFFIX,anxia.com'
   - 'DOMAIN-SUFFIX,anzhuo.cn'
+  - 'DOMAIN-SUFFIX,ao-x.ac.cn'
   - 'DOMAIN-SUFFIX,aotrip.net'
   - 'DOMAIN-SUFFIX,aoyou.com'
   - 'DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com'
