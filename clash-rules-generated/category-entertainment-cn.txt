@@ -555,7 +555,6 @@ payload:
   - 'DOMAIN-SUFFIX,static.app.m.letv.com'
   - 'DOMAIN-SUFFIX,supercachenet.com'
   - 'DOMAIN-SUFFIX,supercachenode.com'
-  - 'DOMAIN-SUFFIX,supercell.com'
   - 'DOMAIN-SUFFIX,supercellcommunity.cn'
   - 'DOMAIN-SUFFIX,supercellsupport.cn'
   - 'DOMAIN-SUFFIX,syxlgame.com'

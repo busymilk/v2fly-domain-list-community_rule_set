@@ -61,7 +61,6 @@ payload:
   - 'DOMAIN-SUFFIX,scid.cn'
   - 'DOMAIN-SUFFIX,scsentry.cn'
   - 'DOMAIN-SUFFIX,skydweller.cn'
-  - 'DOMAIN-SUFFIX,supercell.com'
   - 'DOMAIN-SUFFIX,supercellcommunity.cn'
   - 'DOMAIN-SUFFIX,supercellsupport.cn'
   - 'DOMAIN-SUFFIX,syxlgame.com'

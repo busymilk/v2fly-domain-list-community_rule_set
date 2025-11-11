@@ -152,7 +152,6 @@ payload:
   - 'DOMAIN-SUFFIX,skydweller.cn'
   - 'DOMAIN-SUFFIX,sngmta.qq.com'
   - 'DOMAIN-SUFFIX,stat.y.qq.com'
-  - 'DOMAIN-SUFFIX,supercell.com'
   - 'DOMAIN-SUFFIX,supercellcommunity.cn'
   - 'DOMAIN-SUFFIX,supercellsupport.cn'
   - 'DOMAIN-SUFFIX,syxlgame.com'

@@ -712,7 +712,6 @@ payload:
   - 'DOMAIN-SUFFIX,steamunlocked.net'
   - 'DOMAIN-SUFFIX,steamusercontent.com'
   - 'DOMAIN-SUFFIX,supercell.com'
-  - 'DOMAIN-SUFFIX,supercell.com'
   - 'DOMAIN-SUFFIX,supercell.helpshift.com'
   - 'DOMAIN-SUFFIX,supercell.net'
   - 'DOMAIN-SUFFIX,supercellcommunity.cn'

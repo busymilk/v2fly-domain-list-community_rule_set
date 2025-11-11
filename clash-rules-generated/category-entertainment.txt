@@ -91,14 +91,11 @@ payload:
   - 'DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk'
   - 'DOMAIN-SUFFIX,bejeweledstars.com'
   - 'DOMAIN-SUFFIX,bejewled-stars.com'
-  - 'DOMAIN-SUFFIX,benghuai.com'
   - 'DOMAIN-SUFFIX,beth.games'
   - 'DOMAIN-SUFFIX,bethesda.net'
   - 'DOMAIN-SUFFIX,bethesdagamestudios.com'
   - 'DOMAIN-SUFFIX,bethsoft.com'
   - 'DOMAIN-SUFFIX,bgm.tv'
-  - 'DOMAIN-SUFFIX,bh3.com'
-  - 'DOMAIN-SUFFIX,bhsr.com'
   - 'DOMAIN-SUFFIX,biggggg.com'
   - 'DOMAIN-SUFFIX,bioware.com'
   - 'DOMAIN-SUFFIX,biowarestore.com'
@@ -660,7 +657,6 @@ payload:
   - 'DOMAIN-SUFFIX,joox.com'
   - 'DOMAIN-SUFFIX,joyjoy.net'
   - 'DOMAIN-SUFFIX,jtvnw.net'
-  - 'DOMAIN-SUFFIX,juequling.com'
   - 'DOMAIN-SUFFIX,kamisama-day.jp'
   - 'DOMAIN-SUFFIX,kamisama-maeda-lab.com'
   - 'DOMAIN-SUFFIX,kfs.io'
@@ -746,15 +742,7 @@ payload:
   - 'DOMAIN-SUFFIX,megaphone.fm'
   - 'DOMAIN-SUFFIX,mgo-images.com'
   - 'DOMAIN-SUFFIX,mgo.com'
-  - 'DOMAIN-SUFFIX,mhystatic.com'
-  - 'DOMAIN-SUFFIX,mhyurl.cn'
   - 'DOMAIN-SUFFIX,mickey.tv'
-  - 'DOMAIN-SUFFIX,mihayo.com'
-  - 'DOMAIN-SUFFIX,mihayou.com'
-  - 'DOMAIN-SUFFIX,mihoyo.com'
-  - 'DOMAIN-SUFFIX,mihoyocg.com'
-  - 'DOMAIN-SUFFIX,mihoyogift.com'
-  - 'DOMAIN-SUFFIX,mihoyomall.com'
   - 'DOMAIN-SUFFIX,miitomo.com'
   - 'DOMAIN-SUFFIX,miitomo.com.cn'
   - 'DOMAIN-SUFFIX,miiverse.com'
@@ -769,7 +757,6 @@ payload:
   - 'DOMAIN-SUFFIX,mirrorsedge.net'
   - 'DOMAIN-SUFFIX,mirrorsedge2.com'
   - 'DOMAIN-SUFFIX,mirrorsedge2d.com'
-  - 'DOMAIN-SUFFIX,miyoushe.com'
   - 'DOMAIN-SUFFIX,mo.co'
   - 'DOMAIN-SUFFIX,modrinth.com'
   - 'DOMAIN-SUFFIX,mojang.com'
@@ -1027,8 +1014,6 @@ payload:
   - |
     (^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com$
   - |
-    ^.+-mihayo\.akamaized\.net$
-  - |
     ^[0-9]+vod-adaptive\.akamaized\.net$
   - |
     ^cdn-akamai-.+\.gog-services\.com$
@@ -1203,7 +1188,6 @@ payload:
   - 'DOMAIN-SUFFIX,thehulubraintrust.com'
   - 'DOMAIN-SUFFIX,thelegendarystarfy.com'
   - 'DOMAIN-SUFFIX,themarvelexperiencetour.com'
-  - 'DOMAIN-SUFFIX,themisweeps.com'
   - 'DOMAIN-SUFFIX,themoviedb.org'
   - 'DOMAIN-SUFFIX,thesims.com'
   - 'DOMAIN-SUFFIX,thesims3.com'
@@ -1524,7 +1508,6 @@ payload:
   - 'DOMAIN-SUFFIX,youtubemobilesupport.com'
   - 'DOMAIN-SUFFIX,yt.be'
   - 'DOMAIN-SUFFIX,ytimg.com'
-  - 'DOMAIN-SUFFIX,yuanshen.com'
   - 'DOMAIN-SUFFIX,z5.app'
   - 'DOMAIN-SUFFIX,z5.com'
   - 'DOMAIN-SUFFIX,zee5.com'

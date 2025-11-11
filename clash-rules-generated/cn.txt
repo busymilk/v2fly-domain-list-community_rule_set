@@ -4972,7 +4972,6 @@ payload:
   - 'DOMAIN-SUFFIX,sunrtb.com'
   - 'DOMAIN-SUFFIX,supercachenet.com'
   - 'DOMAIN-SUFFIX,supercachenode.com'
-  - 'DOMAIN-SUFFIX,supercell.com'
   - 'DOMAIN-SUFFIX,supercellcommunity.cn'
   - 'DOMAIN-SUFFIX,supercellsupport.cn'
   - 'DOMAIN-SUFFIX,superlib.com'
