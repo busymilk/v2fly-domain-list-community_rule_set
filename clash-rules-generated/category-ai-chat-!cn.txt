@@ -22,6 +22,7 @@ payload:
   - 'DOMAIN-SUFFIX,cohere.ai'
   - 'DOMAIN-SUFFIX,cohere.com'
   - 'DOMAIN-SUFFIX,copilot.microsoft.com'
+  - 'DOMAIN-SUFFIX,coze.com'
   - 'DOMAIN-SUFFIX,cursor-cdn.com'
   - 'DOMAIN-SUFFIX,cursor.com'
   - 'DOMAIN-SUFFIX,cursor.sh'
@@ -63,6 +64,7 @@ payload:
   - 'DOMAIN-SUFFIX,jules.google.com'
   - 'DOMAIN-SUFFIX,labs.google'
   - 'DOMAIN-SUFFIX,makersuite.google.com'
+  - 'DOMAIN-SUFFIX,marscode.com'
   - 'DOMAIN-SUFFIX,meta.ai'
   - 'DOMAIN-SUFFIX,mistral.ai'
   - 'DOMAIN-SUFFIX,notebooklm.google'
@@ -83,5 +85,6 @@ payload:
     ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - 'DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,sora.com'
+  - 'DOMAIN-SUFFIX,trae.ai'
   - 'DOMAIN-SUFFIX,turn.livekit.cloud'
   - 'DOMAIN-SUFFIX,x.ai'

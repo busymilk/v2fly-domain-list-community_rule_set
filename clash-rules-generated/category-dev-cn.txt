@@ -114,7 +114,7 @@ payload:
   - 'DOMAIN-SUFFIX,tidb.net'
   - 'DOMAIN-SUFFIX,tidbcloud.com'
   - 'DOMAIN-SUFFIX,tikv.org'
-  - 'DOMAIN-SUFFIX,tipdim.org'
+  - 'DOMAIN-SUFFIX,tipdm.org'
   - 'DOMAIN-SUFFIX,tjstats.com'
   - 'DOMAIN-SUFFIX,tracup.com'
   - 'DOMAIN-SUFFIX,ubuntukylin.com'
@@ -124,4 +124,3 @@ payload:
   - 'DOMAIN-SUFFIX,weixinbridge.com'
   - 'DOMAIN-SUFFIX,weui.io'
   - 'DOMAIN-SUFFIX,xitu.io'
-  - 'DOMAIN-SUFFIX,xueyuanjun.com'

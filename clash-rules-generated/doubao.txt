@@ -2,7 +2,6 @@ payload:
   - 'DOMAIN-SUFFIX,butterfly-static.cn'
   - 'DOMAIN-SUFFIX,butterflyai.cn'
   - 'DOMAIN-SUFFIX,coze.cn'
-  - 'DOMAIN-SUFFIX,coze.com'
   - 'DOMAIN-SUFFIX,coze.site'
   - 'DOMAIN-SUFFIX,cozebaas.cn'
   - 'DOMAIN-SUFFIX,cozefn.cn'

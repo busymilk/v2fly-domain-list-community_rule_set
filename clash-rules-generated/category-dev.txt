@@ -330,6 +330,7 @@ payload:
   - 'DOMAIN-SUFFIX,myoctocat.com'
   - 'DOMAIN-SUFFIX,mysql.com'
   - 'DOMAIN-SUFFIX,mystrikingly.com'
+  - 'DOMAIN-SUFFIX,neovim.io'
   - 'DOMAIN-SUFFIX,nginx.com'
   - 'DOMAIN-SUFFIX,nginx.org'
   - 'DOMAIN-SUFFIX,nixos.org'

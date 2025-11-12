@@ -928,6 +928,7 @@ payload:
 - 'DOMAIN-SUFFIX,kindleoasis.cn'
 - 'DOMAIN-SUFFIX,kindleoasis.com.cn'
 - 'DOMAIN-SUFFIX,kurogames.com'
+- 'DOMAIN-SUFFIX,ldmnq.com'
 - 'DOMAIN-SUFFIX,leagueoflegends.cn'
 - 'DOMAIN-SUFFIX,legendofzelda.cn'
 - 'DOMAIN-SUFFIX,legendofzelda.com.cn'
