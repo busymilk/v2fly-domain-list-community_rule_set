@@ -89,4 +89,3 @@ payload:
   - 'DOMAIN-SUFFIX,xdaforums.com'
   - 'DOMAIN-SUFFIX,xdaimages.com'
   - 'DOMAIN-SUFFIX,xwbo.com'
-  - 'DOMAIN-SUFFIX,yamibo.com'

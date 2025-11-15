@@ -15,6 +15,7 @@ payload:
   - 'DOMAIN-SUFFIX,doubao.com'
   - 'DOMAIN-SUFFIX,doubaocdn.com'
   - 'DOMAIN-SUFFIX,doudou.com'
+  - 'DOMAIN-SUFFIX,faxingbao.com'
   - 'DOMAIN,ai.zhaomi.cn'
   - 'DOMAIN,cueme-api.quark.cn'
   - 'DOMAIN-SUFFIX,hailuoai.com'

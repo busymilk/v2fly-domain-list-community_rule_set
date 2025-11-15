@@ -71,6 +71,9 @@ payload:
   - 'DOMAIN-SUFFIX,18insta.com'
   - 'DOMAIN-SUFFIX,18j.tv'
   - 'DOMAIN-SUFFIX,18jms.com'
+  - 'DOMAIN-SUFFIX,18mh.co'
+  - 'DOMAIN-SUFFIX,18mh.me'
+  - 'DOMAIN-SUFFIX,18mh.net'
   - 'DOMAIN-SUFFIX,18novel.xyz'
   - 'DOMAIN-SUFFIX,18porncomic.com'
   - 'DOMAIN-SUFFIX,18porno.tv'
@@ -175,6 +178,7 @@ payload:
   - 'DOMAIN-SUFFIX,50plusmilfs.com'
   - 'DOMAIN-SUFFIX,51cg1.com'
   - 'DOMAIN-SUFFIX,51dh.site'
+  - 'DOMAIN-SUFFIX,51lieqi.com'
   - 'DOMAIN-SUFFIX,51luoli.info'
   - 'DOMAIN-SUFFIX,51mh.app'
   - 'DOMAIN-SUFFIX,51pincha.cc'
@@ -264,6 +268,9 @@ payload:
   - 'DOMAIN-SUFFIX,88kkn.com'
   - 'DOMAIN-SUFFIX,88manhua.top'
   - 'DOMAIN-SUFFIX,88square.com'
+  - 'DOMAIN-SUFFIX,88xkk.com'
+  - 'DOMAIN-SUFFIX,88xm.tv'
+  - 'DOMAIN-SUFFIX,88xqq.com'
   - 'DOMAIN-SUFFIX,89.com'
   - 'DOMAIN-SUFFIX,8kcosplay.com'
   - 'DOMAIN-SUFFIX,8kpornvids.com'
@@ -285,9 +292,12 @@ payload:
   - 'DOMAIN-SUFFIX,91jinman.com'
   - 'DOMAIN-SUFFIX,91md.me'
   - 'DOMAIN-SUFFIX,91moxiong.com'
+  - 'DOMAIN-SUFFIX,91nt.com'
   - 'DOMAIN-SUFFIX,91oo.xyz'
   - 'DOMAIN-SUFFIX,91porn.best'
+  - 'DOMAIN-SUFFIX,91pornforum.com'
   - 'DOMAIN-SUFFIX,91pornplus.com'
+  - 'DOMAIN-SUFFIX,91pornvideo.com'
   - 'DOMAIN-SUFFIX,91porny.com'
   - 'DOMAIN-SUFFIX,91porny.store'
   - 'DOMAIN-SUFFIX,91qk41rf.com'
@@ -957,6 +967,7 @@ payload:
   - 'DOMAIN-SUFFIX,bili999.com'
   - 'DOMAIN-SUFFIX,bimbim.com'
   - 'DOMAIN-SUFFIX,bimbolive.com'
+  - 'DOMAIN-SUFFIX,bingoporno.com'
   - 'DOMAIN-SUFFIX,bioporno.com'
   - 'DOMAIN-SUFFIX,biqle.org'
   - 'DOMAIN-SUFFIX,biqle.ru'
@@ -1440,6 +1451,7 @@ payload:
   - 'DOMAIN-SUFFIX,diamondgirlstudio.com'
   - 'DOMAIN-SUFFIX,dianapost.com'
   - 'DOMAIN-SUFFIX,dianepoppos.com'
+  - 'DOMAIN-SUFFIX,diaoda.co'
   - 'DOMAIN-SUFFIX,diarrheafan.livedoor.blog'
   - 'DOMAIN-SUFFIX,dickeomas.com'
   - 'DOMAIN-SUFFIX,dickhardon.com'
@@ -1840,6 +1852,7 @@ payload:
   - 'DOMAIN-SUFFIX,fetishpornonly.com'
   - 'DOMAIN-SUFFIX,fetishshrine.com'
   - 'DOMAIN-SUFFIX,fetlife.com'
+  - 'DOMAIN-SUFFIX,ffddff.com'
   - 'DOMAIN-SUFFIX,fffucked.com'
   - 'DOMAIN-SUFFIX,fgirl.ch'
   - 'DOMAIN-SUFFIX,fi11.com'
@@ -3304,6 +3317,7 @@ payload:
   - 'DOMAIN-SUFFIX,lmebooks.com'
   - 'DOMAIN-SUFFIX,lmm167.shop'
   - 'DOMAIN-SUFFIX,lmmbtc.com'
+  - 'DOMAIN-SUFFIX,lms01.com'
   - 'DOMAIN-SUFFIX,lobstertube.com'
   - 'DOMAIN-SUFFIX,localxlist.org'
   - 'DOMAIN-SUFFIX,loholidayhk.com'
@@ -4482,6 +4496,7 @@ payload:
   - 'DOMAIN-SUFFIX,ppb-mod.buzz'
   - 'DOMAIN-SUFFIX,ppe.lawyer'
   - 'DOMAIN-SUFFIX,pplah.com'
+  - 'DOMAIN-SUFFIX,ppnnpp.com'
   - 'DOMAIN-SUFFIX,ppp91.cc'
   - 'DOMAIN-SUFFIX,prastitutki.ru'
   - 'DOMAIN-SUFFIX,premium-beauty.com'
@@ -4562,6 +4577,7 @@ payload:
   - 'DOMAIN-SUFFIX,qooqlevideo.com'
   - 'DOMAIN-SUFFIX,qorno.com'
   - 'DOMAIN-SUFFIX,qporno.xxx'
+  - 'DOMAIN-SUFFIX,qq33qq.com'
   - 'DOMAIN-SUFFIX,qqbs.asia'
   - 'DOMAIN-SUFFIX,qqbs.work'
   - 'DOMAIN-SUFFIX,quickiepage.com'
@@ -4666,9 +4682,13 @@ payload:
   - |
     (^|\.)91porn[fvxy]\.com$
   - |
-    (^|\.)91porn\.(best|com|cool|group|party|plus|site|tw|work)$
+    (^|\.)91porn\.(best|com|cool|fun|group|party|plus|site|tw|work)$
+  - |
+    (^|\.)91porna[1-7]?\.com$
   - |
     (^|\.)91sew1[1-6]\.buzz$
+  - |
+    (^|\.)91wang[1-9]\.com$
   - |
     (^|\.)989[a-z]?\.tv$
   - |
@@ -5651,6 +5671,7 @@ payload:
   - 'DOMAIN-SUFFIX,tkb008.xyz'
   - 'DOMAIN-SUFFIX,tkb2233.life'
   - 'DOMAIN-SUFFIX,tkbqf2.life'
+  - 'DOMAIN-SUFFIX,tksex.com'
   - 'DOMAIN-SUFFIX,tktube.com'
   - 'DOMAIN-SUFFIX,tmei-taoyuan.com'
   - 'DOMAIN-SUFFIX,tnaflix.com'
@@ -6324,8 +6345,11 @@ payload:
   - 'DOMAIN-SUFFIX,xvedo.net'
   - 'DOMAIN-SUFFIX,xvideo-jp.com'
   - 'DOMAIN-SUFFIX,xvideo.com'
+  - 'DOMAIN-SUFFIX,xvideo.org'
   - 'DOMAIN-SUFFIX,xvideo.run'
   - 'DOMAIN-SUFFIX,xvideo.vlog.br'
+  - 'DOMAIN-SUFFIX,xvideo1.org'
+  - 'DOMAIN-SUFFIX,xvideo2.org'
   - 'DOMAIN-SUFFIX,xvideoporno.tv'
   - 'DOMAIN-SUFFIX,xvideos-cdn.com'
   - 'DOMAIN-SUFFIX,xvideos-dl.top'
@@ -6612,6 +6636,7 @@ payload:
   - 'DOMAIN-SUFFIX,yy7y.com'
   - 'DOMAIN-SUFFIX,yy8y.com'
   - 'DOMAIN-SUFFIX,yyfb.cyou'
+  - 'DOMAIN-SUFFIX,yyvhhbmw.cc'
   - 'DOMAIN-SUFFIX,yzld188.top'
   - 'DOMAIN-SUFFIX,z00.world'
   - 'DOMAIN-SUFFIX,z18r.co'

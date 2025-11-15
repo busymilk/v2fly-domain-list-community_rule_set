@@ -221,6 +221,7 @@ payload:
   - 'DOMAIN-SUFFIX,zggbdszt.cn'
   - 'DOMAIN-SUFFIX,zggbdszt.com.cn'
   - 'DOMAIN-SUFFIX,zggbdszt.net.cn'
+  - 'DOMAIN-SUFFIX,zhichanli.com'
   - 'DOMAIN-SUFFIX,zjstv.com'
   - 'DOMAIN-SUFFIX,zol-img.com.cn'
   - 'DOMAIN-SUFFIX,zol.com.cn'
