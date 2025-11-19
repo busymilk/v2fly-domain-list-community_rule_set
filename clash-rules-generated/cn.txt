@@ -5604,6 +5604,7 @@ payload:
   - 'DOMAIN-SUFFIX,wangsu.com'
   - 'DOMAIN-SUFFIX,wangyangyang.vip'
   - 'DOMAIN-SUFFIX,wangyin.com'
+  - 'DOMAIN-SUFFIX,wanji.net.cn'
   - 'DOMAIN-SUFFIX,wannianli8.com'
   - 'DOMAIN-SUFFIX,wannianqingjianzhan.com'
   - 'DOMAIN-SUFFIX,wanplus.com'
