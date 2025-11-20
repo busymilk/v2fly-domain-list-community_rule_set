@@ -208,6 +208,7 @@ payload:
   - 'DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn'
   - 'DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s'
   - 'DOMAIN-SUFFIX,xueqiu.com'
+  - 'DOMAIN-SUFFIX,yangshipin.cn'
   - 'DOMAIN-SUFFIX,yeyousg.com'
   - 'DOMAIN-SUFFIX,yicai.com'
   - 'DOMAIN-SUFFIX,yidianliulan.cn'

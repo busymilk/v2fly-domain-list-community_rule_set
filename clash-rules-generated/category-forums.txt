@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,18p2p.com'
+  - 'DOMAIN-SUFFIX,22112211.xyz'
   - 'DOMAIN-SUFFIX,2ch.net'
   - 'DOMAIN-SUFFIX,4cdn.org'
   - 'DOMAIN-SUFFIX,4chan.org'
@@ -38,6 +39,8 @@ payload:
   - 'DOMAIN-SUFFIX,maintracker.org'
   - 'DOMAIN-SUFFIX,mewe.com'
   - 'DOMAIN-SUFFIX,mobile01.com'
+  - 'DOMAIN-SUFFIX,nodeimage.com'
+  - 'DOMAIN-SUFFIX,nodequality.com'
   - 'DOMAIN-SUFFIX,nodeseek.com'
   - 'DOMAIN-SUFFIX,parkvv.com'
   - 'DOMAIN-SUFFIX,parler.com'
