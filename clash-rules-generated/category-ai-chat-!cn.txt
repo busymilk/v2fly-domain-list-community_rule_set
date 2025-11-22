@@ -57,6 +57,7 @@ payload:
   - 'DOMAIN-SUFFIX,grok.com'
   - 'DOMAIN-SUFFIX,groq.com'
   - 'DOMAIN-SUFFIX,hf.co'
+  - 'DOMAIN-SUFFIX,hf.space'
   - 'DOMAIN-SUFFIX,host.livekit.cloud'
   - 'DOMAIN-SUFFIX,huggingface.co'
   - 'DOMAIN-SUFFIX,jasper.ai'
