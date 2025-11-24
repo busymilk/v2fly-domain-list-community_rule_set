@@ -13,6 +13,7 @@ payload:
   - 'DOMAIN-SUFFIX,anaconda.cloud'
   - 'DOMAIN-SUFFIX,anaconda.com'
   - 'DOMAIN-SUFFIX,anaconda.org'
+  - 'DOMAIN-SUFFIX,android'
   - 'DOMAIN-SUFFIX,android.com'
   - 'DOMAIN-SUFFIX,androidify.com'
   - 'DOMAIN-SUFFIX,apache.org'

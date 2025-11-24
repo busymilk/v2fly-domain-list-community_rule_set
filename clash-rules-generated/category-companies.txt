@@ -404,7 +404,7 @@ payload:
   - 'DOMAIN-SUFFIX,amzndns.org'
   - 'DOMAIN-SUFFIX,amznl.com'
   - 'DOMAIN-SUFFIX,analytics.vpc.duolingo.com'
-  - 'DOMAIN-SUFFIX,and'
+  - 'DOMAIN-SUFFIX,android'
   - 'DOMAIN-SUFFIX,android.com'
   - 'DOMAIN-SUFFIX,androidify.com'
   - 'DOMAIN-SUFFIX,anexia-engine.com'

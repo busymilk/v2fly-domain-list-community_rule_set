@@ -23,7 +23,7 @@ payload:
   - 'DOMAIN-SUFFIX,aida.googleapis.com'
   - 'DOMAIN-SUFFIX,aisandbox-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,aistudio.google.com'
-  - 'DOMAIN-SUFFIX,and'
+  - 'DOMAIN-SUFFIX,android'
   - 'DOMAIN-SUFFIX,android.com'
   - 'DOMAIN-SUFFIX,androidify.com'
   - 'DOMAIN-SUFFIX,angulardart.org'

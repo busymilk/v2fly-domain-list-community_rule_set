@@ -1,6 +1,5 @@
 payload:
   - 'DOMAIN-SUFFIX,amlg.io'
-  - 'DOMAIN-SUFFIX,cbs'
   - 'DOMAIN-SUFFIX,cbs.com'
   - 'DOMAIN-SUFFIX,cbsaavideo.com'
   - 'DOMAIN-SUFFIX,cbscorporation.com'
@@ -25,7 +24,6 @@ payload:
   - 'DOMAIN-SUFFIX,paramount.com'
   - 'DOMAIN-SUFFIX,paramountplus.com'
   - 'DOMAIN-SUFFIX,pplusstatic.com'
-  - 'DOMAIN-SUFFIX,showtime'
   - 'DOMAIN-SUFFIX,viacbs.com'
   - 'DOMAIN-SUFFIX,viacom.com'
   - 'DOMAIN-SUFFIX,viacomcbs.com'
