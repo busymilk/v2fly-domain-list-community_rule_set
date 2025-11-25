@@ -440,6 +440,7 @@ payload:
   - 'DOMAIN-SUFFIX,scala-sbt.org'
   - 'DOMAIN-SUFFIX,scientificlinux.org'
   - 'DOMAIN-SUFFIX,scoop.sh'
+  - 'DOMAIN-SUFFIX,sentry-cdn.com'
   - 'DOMAIN-SUFFIX,sentry.io'
   - 'DOMAIN-SUFFIX,serverfault.com'
   - 'DOMAIN-SUFFIX,servicetalk.io'
