@@ -70,5 +70,8 @@ payload:
   - 'DOMAIN-SUFFIX,ti.com.cn'
   - 'DOMAIN-SUFFIX,wch-ic.com'
   - 'DOMAIN-SUFFIX,wch.cn'
+  - 'DOMAIN-SUFFIX,ymtc.cn'
+  - 'DOMAIN-SUFFIX,ymtc.com'
+  - 'DOMAIN-SUFFIX,ymtc.com.cn'
   - 'DOMAIN-SUFFIX,zs-jlc.com'
   - 'DOMAIN-SUFFIX,zxhgroup.com'

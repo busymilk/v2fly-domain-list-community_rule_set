@@ -67,6 +67,7 @@ payload:
   - 'DOMAIN-SUFFIX,akastream.net'
   - 'DOMAIN-SUFFIX,akatns.net'
   - 'DOMAIN-SUFFIX,akcdn.com.cn'
+  - 'DOMAIN-SUFFIX,akstat.io'
   - 'DOMAIN-SUFFIX,aptdn.net'
   - 'DOMAIN-SUFFIX,edgekey.net'
   - 'DOMAIN-SUFFIX,edgekey88.net'
