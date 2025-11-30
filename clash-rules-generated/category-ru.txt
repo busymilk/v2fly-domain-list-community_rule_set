@@ -142,6 +142,7 @@ payload:
   - 'DOMAIN-SUFFIX,tsaritsyn.ru'
   - 'DOMAIN-SUFFIX,tsk.ru'
   - 'DOMAIN-SUFFIX,tula.ru'
+  - 'DOMAIN-SUFFIX,turbopages.org'
   - 'DOMAIN-SUFFIX,tuva.ru'
   - 'DOMAIN-SUFFIX,tver.ru'
   - 'DOMAIN-SUFFIX,tyumen.ru'
