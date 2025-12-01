@@ -1732,6 +1732,7 @@ payload:
   - 'DOMAIN-SUFFIX,canonfoundation.org'
   - 'DOMAIN-SUFFIX,canonproprinters.com'
   - 'DOMAIN-SUFFIX,canva.com'
+  - 'DOMAIN-SUFFIX,canvastatus.com'
   - 'DOMAIN-SUFFIX,carbon.com'
   - 'DOMAIN-SUFFIX,careersatfb.com'
   - 'DOMAIN-SUFFIX,carekit.org'

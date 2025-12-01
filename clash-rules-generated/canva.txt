@@ -4,3 +4,4 @@ payload:
   - 'DOMAIN-SUFFIX,affinity.api.serifservices.com'
   - 'DOMAIN-SUFFIX,affinity.studio'
   - 'DOMAIN-SUFFIX,canva.com'
+  - 'DOMAIN-SUFFIX,canvastatus.com'

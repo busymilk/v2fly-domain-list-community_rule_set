@@ -29,6 +29,8 @@ payload:
   - 'DOMAIN-SUFFIX,eyny.com'
   - 'DOMAIN,bbs.boingboing.net'
   - 'DOMAIN-SUFFIX,gab.com'
+  - 'DOMAIN-SUFFIX,habr.com'
+  - 'DOMAIN-SUFFIX,habrastorage.org'
   - 'DOMAIN-SUFFIX,hkgolden.com'
   - 'DOMAIN-SUFFIX,hkgolden.media'
   - 'DOMAIN-SUFFIX,hydrogenaud.io'
