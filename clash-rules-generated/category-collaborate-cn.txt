@@ -1,5 +1,7 @@
 payload:
   - 'DOMAIN-SUFFIX,asklink.com'
+  - 'DOMAIN-SUFFIX,ganjiangvpn.com'
+  - 'DOMAIN-SUFFIX,glxcc.net'
   - 'DOMAIN-SUFFIX,nlark.com'
   - 'DOMAIN-SUFFIX,oray.com'
   - 'DOMAIN-SUFFIX,oray.net'
@@ -14,6 +16,8 @@ payload:
   - 'DOMAIN-SUFFIX,tower.im'
   - 'DOMAIN-SUFFIX,tritoninfo.net'
   - 'DOMAIN-SUFFIX,woodo.cn'
+  - 'DOMAIN-SUFFIX,xedge.cc'
   - 'DOMAIN-SUFFIX,xiumi.us'
   - 'DOMAIN-SUFFIX,xiumius.com'
+  - 'DOMAIN-SUFFIX,xn0.cc'
   - 'DOMAIN-SUFFIX,yuque.com'

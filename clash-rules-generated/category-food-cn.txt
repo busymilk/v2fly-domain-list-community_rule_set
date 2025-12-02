@@ -11,4 +11,6 @@ payload:
   - 'DOMAIN-SUFFIX,lppz.com'
   - 'DOMAIN-SUFFIX,lppzimg.com'
   - 'DOMAIN-SUFFIX,luckincoffeecdn.com'
+  - 'DOMAIN-SUFFIX,meican.com'
+  - 'DOMAIN-SUFFIX,meicanstatic.com'
   - 'DOMAIN-SUFFIX,yyds.co'
