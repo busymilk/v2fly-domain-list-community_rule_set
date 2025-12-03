@@ -26,6 +26,8 @@ payload:
   - 'DOMAIN-SUFFIX,doom9.org'
   - 'DOMAIN-SUFFIX,dslr.net'
   - 'DOMAIN-SUFFIX,dslreports.com'
+  - 'DOMAIN-SUFFIX,dzen.ru'
+  - 'DOMAIN-SUFFIX,dzeninfra.ru'
   - 'DOMAIN-SUFFIX,eyny.com'
   - 'DOMAIN,bbs.boingboing.net'
   - 'DOMAIN-SUFFIX,gab.com'

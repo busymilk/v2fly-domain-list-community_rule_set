@@ -12,7 +12,6 @@ payload:
 - 'DOMAIN,p16-tiktokcdn-com.akamaized.net'
 - 'DOMAIN,upos-hz-mirrorakam.akamaized.net'
 - 'DOMAIN,wetv.qq.com'
-- 'DOMAIN,ztedevices.com'
 - 'DOMAIN-SUFFIX,ae-rus.net'
 - 'DOMAIN-SUFFIX,aestatic.net'
 - 'DOMAIN-SUFFIX,ak-p.tripcdn.com'

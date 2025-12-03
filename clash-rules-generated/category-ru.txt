@@ -29,6 +29,7 @@ payload:
   - 'DOMAIN-SUFFIX,dialogx5.ru'
   - 'DOMAIN-SUFFIX,donationalerts.com'
   - 'DOMAIN-SUFFIX,dzen.ru'
+  - 'DOMAIN-SUFFIX,dzeninfra.ru'
   - 'DOMAIN-SUFFIX,e5.ru'
   - 'DOMAIN-SUFFIX,edu.ru'
   - 'DOMAIN-SUFFIX,ekburg.ru'

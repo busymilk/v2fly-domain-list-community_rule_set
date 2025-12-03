@@ -67,6 +67,7 @@ payload:
   - 'DOMAIN-SUFFIX,dwz.cn'
   - 'DOMAIN-SUFFIX,dxm-cdn.com'
   - 'DOMAIN-SUFFIX,dxm-int.com'
+  - 'DOMAIN-SUFFIX,dxmjinr.com'
   - 'DOMAIN-SUFFIX,dxmlcf.com'
   - 'DOMAIN-SUFFIX,dxmlcfintech.com'
   - 'DOMAIN-SUFFIX,dxmpay.com'
