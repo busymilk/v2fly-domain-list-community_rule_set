@@ -61,6 +61,7 @@ payload:
   - 'DOMAIN-SUFFIX,archiveofourown.com'
   - 'DOMAIN-SUFFIX,archiveofourown.net'
   - 'DOMAIN-SUFFIX,archiveofourown.org'
+  - 'DOMAIN-SUFFIX,arcraiders.com'
   - 'DOMAIN-SUFFIX,artstation.com'
   - 'DOMAIN-SUFFIX,asobostudio.com'
   - 'DOMAIN-SUFFIX,att.tv'
@@ -341,6 +342,8 @@ payload:
   - 'DOMAIN-SUFFIX,elderscrolls.com'
   - 'DOMAIN-SUFFIX,electronicarts.com'
   - 'DOMAIN-SUFFIX,electronicarts.fr'
+  - 'DOMAIN-SUFFIX,embark-studios.com'
+  - 'DOMAIN-SUFFIX,embark.games'
   - 'DOMAIN-SUFFIX,epicgames.com'
   - 'DOMAIN-SUFFIX,epicgames.dev'
   - 'DOMAIN-SUFFIX,epicgamescdn.com'
@@ -354,6 +357,8 @@ payload:
   - 'DOMAIN-SUFFIX,ext-twitch.tv'
   - 'DOMAIN-SUFFIX,fab.com'
   - 'DOMAIN-SUFFIX,fabricmc.net'
+  - 'DOMAIN-SUFFIX,faceit-cdn.net'
+  - 'DOMAIN-SUFFIX,faceit.com'
   - 'DOMAIN-SUFFIX,fanatical.com'
   - 'DOMAIN-SUFFIX,fanbox.cc'
   - 'DOMAIN-SUFFIX,fandango.com'
@@ -1041,6 +1046,7 @@ payload:
   - 'DOMAIN-SUFFIX,rbxinfra.net'
   - 'DOMAIN-SUFFIX,rbxlabs.com'
   - 'DOMAIN-SUFFIX,rbxtrk.com'
+  - 'DOMAIN-SUFFIX,reachthefinals.com'
   - 'DOMAIN-SUFFIX,realityscan.com'
   - |
     (^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com$

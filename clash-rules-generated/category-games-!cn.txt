@@ -10,6 +10,7 @@ payload:
   - 'DOMAIN-SUFFIX,anthemthegame.com'
   - 'DOMAIN-SUFFIX,apexlegends.com'
   - 'DOMAIN-SUFFIX,api-priconne-redive.cygames.jp'
+  - 'DOMAIN-SUFFIX,arcraiders.com'
   - 'DOMAIN-SUFFIX,artstation.com'
   - 'DOMAIN-SUFFIX,asobostudio.com'
   - 'DOMAIN-SUFFIX,awayoutgame.com'
@@ -130,6 +131,8 @@ payload:
   - 'DOMAIN-SUFFIX,elderscrolls.com'
   - 'DOMAIN-SUFFIX,electronicarts.com'
   - 'DOMAIN-SUFFIX,electronicarts.fr'
+  - 'DOMAIN-SUFFIX,embark-studios.com'
+  - 'DOMAIN-SUFFIX,embark.games'
   - 'DOMAIN-SUFFIX,epicgames.com'
   - 'DOMAIN-SUFFIX,epicgames.dev'
   - 'DOMAIN-SUFFIX,epicgamescdn.com'
@@ -137,6 +140,8 @@ payload:
   - 'DOMAIN-SUFFIX,excitebots.com'
   - 'DOMAIN-SUFFIX,fab.com'
   - 'DOMAIN-SUFFIX,fabricmc.net'
+  - 'DOMAIN-SUFFIX,faceit-cdn.net'
+  - 'DOMAIN-SUFFIX,faceit.com'
   - 'DOMAIN-SUFFIX,fanatical.com'
   - 'DOMAIN-SUFFIX,fifastreet.com'
   - 'DOMAIN-SUFFIX,fifastreet3.com'
@@ -486,6 +491,7 @@ payload:
   - 'DOMAIN-SUFFIX,rbxinfra.net'
   - 'DOMAIN-SUFFIX,rbxlabs.com'
   - 'DOMAIN-SUFFIX,rbxtrk.com'
+  - 'DOMAIN-SUFFIX,reachthefinals.com'
   - 'DOMAIN-SUFFIX,realityscan.com'
   - |
     ^cdn-akamai-.+\.gog-services\.com$

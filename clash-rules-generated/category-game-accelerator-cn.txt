@@ -20,6 +20,7 @@ payload:
   - 'DOMAIN-SUFFIX,htjsq.mobi'
   - 'DOMAIN-SUFFIX,jiasu.bohe.com'
   - 'DOMAIN-SUFFIX,kk1.vip'
+  - 'DOMAIN-SUFFIX,leigod.cn'
   - 'DOMAIN-SUFFIX,leigod.com'
   - 'DOMAIN-SUFFIX,liuxing.com'
   - 'DOMAIN-SUFFIX,lorhf.com'
