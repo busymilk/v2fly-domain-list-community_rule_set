@@ -33,5 +33,6 @@ payload:
   - 'DOMAIN-SUFFIX,tmjiasuqi.com'
   - 'DOMAIN-SUFFIX,uu.163.com'
   - 'DOMAIN-SUFFIX,xunyou.com'
+  - 'DOMAIN-SUFFIX,xunyou.mobi'
   - 'DOMAIN-SUFFIX,yebaojiasu.com'
   - 'DOMAIN-SUFFIX,yuelun.com'
