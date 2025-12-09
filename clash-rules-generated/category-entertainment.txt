@@ -1031,6 +1031,7 @@ payload:
   - 'DOMAIN-SUFFIX,pvzgw2.com'
   - 'DOMAIN-SUFFIX,pvzheroes.com'
   - 'DOMAIN-SUFFIX,pximg.net'
+  - 'DOMAIN-SUFFIX,qobuz.com'
   - 'DOMAIN-SUFFIX,quanben-xiaoshuo.com'
   - 'DOMAIN-SUFFIX,quanben.io'
   - 'DOMAIN-SUFFIX,quiltmc.org'

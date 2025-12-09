@@ -17315,6 +17315,7 @@ payload:
   - 'DOMAIN-SUFFIX,qmttqg3k.me'
   - 'DOMAIN-SUFFIX,qnap.com'
   - 'DOMAIN-SUFFIX,qnap.com.cn'
+  - 'DOMAIN-SUFFIX,qobuz.com'
   - 'DOMAIN-SUFFIX,qombol.com'
   - 'DOMAIN-SUFFIX,qoo10.jp'
   - 'DOMAIN-SUFFIX,qooqlevideo.com'
