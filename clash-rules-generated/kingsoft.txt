@@ -23,6 +23,7 @@ payload:
   - 'DOMAIN-SUFFIX,ksyungslb.com'
   - 'DOMAIN-SUFFIX,liebao.cn'
   - 'DOMAIN-SUFFIX,papocket.com'
+  - 'DOMAIN-SUFFIX,qwps.cn'
   - 'DOMAIN-SUFFIX,seasungames.com'
   - 'DOMAIN-SUFFIX,testplus.cn'
   - 'DOMAIN-SUFFIX,wps.cn'

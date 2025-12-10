@@ -107,6 +107,7 @@ payload:
   - 'DOMAIN-SUFFIX,adslvseed.qq.com'
   - 'DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com'
   - 'DOMAIN-SUFFIX,adsqqclick.qq.com'
+  - 'DOMAIN-SUFFIX,adstats.tencentmusic.com'
   - 'DOMAIN-SUFFIX,adstestview.qq.com'
   - 'DOMAIN-SUFFIX,adsview.qq.com'
   - 'DOMAIN-SUFFIX,adsview2.qq.com'
@@ -328,6 +329,7 @@ payload:
   - 'DOMAIN-SUFFIX,hm.baidu.com'
   - 'DOMAIN-SUFFIX,hmma.baidu.com'
   - 'DOMAIN-SUFFIX,hq-tracking.qq.com'
+  - 'DOMAIN-SUFFIX,htrace.wetvinfo.com'
   - 'DOMAIN-SUFFIX,hubcloud.com.cn'
   - 'DOMAIN-SUFFIX,hwads-t.api.my7v.com'
   - 'DOMAIN-SUFFIX,i-mobile.co.jp'
@@ -406,6 +408,7 @@ payload:
   - 'DOMAIN-SUFFIX,mobileads.google.com'
   - 'DOMAIN-SUFFIX,mobilemsg.youku.com'
   - 'DOMAIN-SUFFIX,mobwithad.com'
+  - 'DOMAIN-SUFFIX,monitor.music.qq.com'
   - 'DOMAIN-SUFFIX,mopub.com'
   - 'DOMAIN-SUFFIX,mountain.zhidao.baidu.com'
   - 'DOMAIN-SUFFIX,mpush.qq.com'
@@ -474,6 +477,7 @@ payload:
   - |
     ^speed\.(coe|open)\.ad\.[a-z]{2,6}\.prod\.hosts\.ooklaserver\.net$
   - 'DOMAIN-SUFFIX,reke.at.sohu.com'
+  - 'DOMAIN-SUFFIX,report.qqweb.qq.com'
   - 'DOMAIN-SUFFIX,res.hunantv.com'
   - 'DOMAIN-SUFFIX,retcode.taobao.com'
   - 'DOMAIN-SUFFIX,reyun.com'

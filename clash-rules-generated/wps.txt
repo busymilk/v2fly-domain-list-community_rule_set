@@ -5,6 +5,7 @@ payload:
   - 'DOMAIN-SUFFIX,kdocs.cn'
   - 'DOMAIN-SUFFIX,kscord.com'
   - 'DOMAIN-SUFFIX,papocket.com'
+  - 'DOMAIN-SUFFIX,qwps.cn'
   - 'DOMAIN-SUFFIX,wps.cn'
   - 'DOMAIN-SUFFIX,wps.com'
   - 'DOMAIN-SUFFIX,wpscdn.cn'
