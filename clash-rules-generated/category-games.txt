@@ -501,6 +501,7 @@ payload:
   - 'DOMAIN-SUFFIX,nexoncdn.co.kr'
   - 'DOMAIN-SUFFIX,nextstudios.com'
   - 'DOMAIN-SUFFIX,nextworkshop.net'
+  - 'DOMAIN-SUFFIX,nexus-cdn.com'
   - 'DOMAIN-SUFFIX,nexusmods.com'
   - 'DOMAIN-SUFFIX,nfsworld.com'
   - 'DOMAIN-SUFFIX,nikke-de.com'

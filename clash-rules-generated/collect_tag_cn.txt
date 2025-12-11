@@ -1137,6 +1137,7 @@ payload:
 - 'DOMAIN-SUFFIX,testipv6.cn'
 - 'DOMAIN-SUFFIX,th.bing.com'
 - 'DOMAIN-SUFFIX,thetype.cloud'
+- 'DOMAIN-SUFFIX,tl88.net'
 - 'DOMAIN-SUFFIX,trafficmanager.cn'
 - 'DOMAIN-SUFFIX,travelex.com.cn'
 - 'DOMAIN-SUFFIX,trust-provider.cn'

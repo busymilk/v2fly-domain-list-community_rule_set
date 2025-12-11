@@ -89,6 +89,8 @@ payload:
   - 'DOMAIN-SUFFIX,awemeugsoul.com'
   - 'DOMAIN-SUFFIX,awemeugwave.com'
   - 'DOMAIN-SUFFIX,b23.tv'
+  - 'DOMAIN-SUFFIX,baofeng.com'
+  - 'DOMAIN-SUFFIX,baofeng.net'
   - 'DOMAIN-SUFFIX,battlecare.net'
   - 'DOMAIN-SUFFIX,bbtv.cn'
   - 'DOMAIN-SUFFIX,bcfmglobal.com'

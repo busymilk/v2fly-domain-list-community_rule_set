@@ -159,6 +159,8 @@ payload:
   - 'DOMAIN-SUFFIX,cn.bing.net'
   - 'DOMAIN-SUFFIX,cn.mm.bing.net'
   - 'DOMAIN-SUFFIX,codethemicrobit.com'
+  - 'DOMAIN-SUFFIX,collector.github.com'
+  - 'DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com'
   - 'DOMAIN-SUFFIX,copilot.microsoft.com'
   - 'DOMAIN-SUFFIX,cortanaanalytics.com'
   - 'DOMAIN-SUFFIX,cortanaskills.com'

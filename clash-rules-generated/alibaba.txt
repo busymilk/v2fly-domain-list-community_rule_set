@@ -67,6 +67,7 @@ payload:
   - 'DOMAIN-SUFFIX,aliexpress.ru'
   - 'DOMAIN-SUFFIX,alifanyi.com'
   - 'DOMAIN-SUFFIX,aligames.com'
+  - 'DOMAIN-SUFFIX,aligfwaf.com'
   - 'DOMAIN-SUFFIX,alihealth.com.cn'
   - 'DOMAIN-SUFFIX,alihealth.hk'
   - 'DOMAIN-SUFFIX,aliimg.com'

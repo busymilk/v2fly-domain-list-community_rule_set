@@ -269,6 +269,7 @@ payload:
   - 'DOMAIN-SUFFIX,tcloudhw.net'
   - 'DOMAIN-SUFFIX,tcloudscdn.com'
   - 'DOMAIN-SUFFIX,tcloudscdn.net'
+  - 'DOMAIN-SUFFIX,tdnsstic1.cn'
   - 'DOMAIN-SUFFIX,tdnsv1.com'
   - 'DOMAIN-SUFFIX,tdnsv1.net'
   - 'DOMAIN-SUFFIX,tdnsv10.com'
