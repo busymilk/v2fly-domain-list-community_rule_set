@@ -36,6 +36,7 @@ payload:
   - 'DOMAIN-SUFFIX,diabrowser.com'
   - 'DOMAIN-SUFFIX,dify.ai'
   - 'DOMAIN-SUFFIX,dola.com'
+  - 'DOMAIN-SUFFIX,duck.ai'
   - 'DOMAIN-SUFFIX,elevenlabs.com'
   - 'DOMAIN-SUFFIX,elevenlabs.io'
   - 'DOMAIN,ai.google.dev'
