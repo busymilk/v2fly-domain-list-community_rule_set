@@ -142,6 +142,8 @@ payload:
   - 'DOMAIN-SUFFIX,botframework.com'
   - 'DOMAIN-SUFFIX,brazilpartneruniversity.com'
   - 'DOMAIN-SUFFIX,breakdown.me'
+  - 'DOMAIN-SUFFIX,browser.events.data.msn.cn'
+  - 'DOMAIN-SUFFIX,browser.events.data.msn.com'
   - 'DOMAIN-SUFFIX,c-msedge.net'
   - 'DOMAIN-SUFFIX,callersbane.com'
   - 'DOMAIN-SUFFIX,cegid-cloud.cn'

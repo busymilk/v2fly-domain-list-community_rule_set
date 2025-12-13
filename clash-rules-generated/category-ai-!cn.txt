@@ -68,6 +68,7 @@ payload:
   - 'DOMAIN-SUFFIX,jasper.ai'
   - 'DOMAIN-SUFFIX,jules.google'
   - 'DOMAIN-SUFFIX,jules.google.com'
+  - 'DOMAIN-SUFFIX,kiro.dev'
   - 'DOMAIN-SUFFIX,labs.google'
   - 'DOMAIN-SUFFIX,makersuite.google.com'
   - 'DOMAIN-SUFFIX,marscode.com'

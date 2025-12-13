@@ -25,6 +25,7 @@ payload:
   - 'DOMAIN-SUFFIX,alloyteam.com'
   - 'DOMAIN-SUFFIX,anticheatexpert.com'
   - 'DOMAIN-SUFFIX,apcdns.net'
+  - 'DOMAIN-SUFFIX,badjs.weixinbridge.com'
   - 'DOMAIN-SUFFIX,battlecare.net'
   - 'DOMAIN-SUFFIX,bcfmglobal.com'
   - 'DOMAIN-SUFFIX,beacon.cdn.qq.com'

@@ -1,4 +1,5 @@
 payload:
+  - 'DOMAIN-SUFFIX,aaid.umeng.com'
   - 'DOMAIN-SUFFIX,alog.umeng.com'
   - 'DOMAIN-SUFFIX,alog.umengcloud.com'
   - 'DOMAIN-SUFFIX,cnzz.com'
@@ -9,6 +10,7 @@ payload:
   - 'DOMAIN-SUFFIX,umengcloud.com'
   - 'DOMAIN-SUFFIX,umsns.com'
   - 'DOMAIN-SUFFIX,umtrack.com'
+  - 'DOMAIN-SUFFIX,utoken.umeng.com'
   - 'DOMAIN-SUFFIX,uyunad.com'
   - 'DOMAIN-SUFFIX,w.cnzz.com'
   - 'DOMAIN-SUFFIX,whalecloud.com'
