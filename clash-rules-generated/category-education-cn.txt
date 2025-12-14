@@ -78,6 +78,7 @@ payload:
   - 'DOMAIN-SUFFIX,nattest-china.com'
   - 'DOMAIN-SUFFIX,ncss.cn'
   - 'DOMAIN-SUFFIX,ncss.org.cn'
+  - 'DOMAIN-SUFFIX,neea.cn'
   - 'DOMAIN-SUFFIX,neoscholar.com'
   - 'DOMAIN-SUFFIX,neoschool.com'
   - 'DOMAIN-SUFFIX,oldboyedu.com'
