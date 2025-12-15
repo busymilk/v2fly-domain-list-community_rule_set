@@ -1,4 +1,6 @@
 payload:
+  - 'DOMAIN-SUFFIX,ad-channel.diwodiwo.xyz'
+  - 'DOMAIN-SUFFIX,ad-display.diwodiwo.xyz'
   - 'DOMAIN-SUFFIX,bikaa.xyz'
   - 'DOMAIN-SUFFIX,bikac.xyz'
   - 'DOMAIN-SUFFIX,bikaios.xyz'
@@ -8,4 +10,6 @@ payload:
   - 'DOMAIN-SUFFIX,picacn.xyz'
   - 'DOMAIN-SUFFIX,picacomic.com'
   - 'DOMAIN-SUFFIX,picacomic.xyz'
+  - |
+    ^([a-z0-9-]+\.)*(?!ad-display\.|ad-channel\.)[a-z0-9-]+\.diwodiwo\.xyz$
   - 'DOMAIN-SUFFIX,wikawika.xyz'

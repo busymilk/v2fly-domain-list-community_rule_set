@@ -9,6 +9,7 @@ payload:
   - 'DOMAIN,www.speedtest.net.cdn.cloudflare.net'
   - 'DOMAIN-SUFFIX,measurementlab.net'
   - 'DOMAIN-SUFFIX,nperf.com'
+  - 'DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk'
   - 'DOMAIN-SUFFIX,ookla.com'
   - 'DOMAIN-SUFFIX,ooklaserver.net'
   - 'DOMAIN-SUFFIX,open.cachefly.net'
