@@ -3241,7 +3241,6 @@ payload:
   - 'DOMAIN,ftaapj.dell.com'
   - 'DOMAIN,ftaemea.dell.com'
   - 'DOMAIN,ftasitapj.dell.com'
-  - 'DOMAIN,fundingchoicesmessages.google.com'
   - 'DOMAIN,g0.gstatic.com'
   - 'DOMAIN,g1.gstatic.com'
   - 'DOMAIN,g2.gstatic.com'

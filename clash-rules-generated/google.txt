@@ -267,7 +267,6 @@ payload:
   - 'DOMAIN,fontfiles.googleapis.com'
   - 'DOMAIN,fonts.googleapis.com'
   - 'DOMAIN,fonts.gstatic.com'
-  - 'DOMAIN,fundingchoicesmessages.google.com'
   - 'DOMAIN,g0.gstatic.com'
   - 'DOMAIN,g1.gstatic.com'
   - 'DOMAIN,g2.gstatic.com'

@@ -22,7 +22,6 @@ payload:
   - 'DOMAIN-SUFFIX,doubleclick.com'
   - 'DOMAIN-SUFFIX,doubleclick.net'
   - 'DOMAIN,analytics.google.com'
-  - 'DOMAIN,fundingchoicesmessages.google.com'
   - 'DOMAIN-SUFFIX,google-analytics-cn.com'
   - 'DOMAIN-SUFFIX,google-analytics.com'
   - 'DOMAIN-SUFFIX,googleadapis.com'
