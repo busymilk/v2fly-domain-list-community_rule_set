@@ -410,6 +410,7 @@ payload:
   - 'DOMAIN,cache9-fra1.steamcontent.com'
   - 'DOMAIN,cache9-fra2.steamcontent.com'
   - 'DOMAIN,cache9-gru1.steamcontent.com'
+  - 'DOMAIN,cache9-hkg1.steamcontent.com'
   - 'DOMAIN,cache9-iad1.steamcontent.com'
   - 'DOMAIN,cache9-lax1.steamcontent.com'
   - 'DOMAIN,cache9-lhr1.steamcontent.com'

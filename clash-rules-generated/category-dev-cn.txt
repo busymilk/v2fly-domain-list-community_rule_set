@@ -86,6 +86,7 @@ payload:
   - 'DOMAIN-SUFFIX,nnthink.com'
   - 'DOMAIN-SUFFIX,openkylin.top'
   - 'DOMAIN-SUFFIX,openmidas.com'
+  - 'DOMAIN-SUFFIX,openvela.com'
   - 'DOMAIN-SUFFIX,oschina.net'
   - 'DOMAIN-SUFFIX,owsgo.com'
   - 'DOMAIN-SUFFIX,pgyer.com'
