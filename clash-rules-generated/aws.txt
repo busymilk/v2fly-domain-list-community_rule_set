@@ -35,6 +35,7 @@ payload:
   - 'DOMAIN-SUFFIX,aws-icp-domain-manager.cn'
   - 'DOMAIN-SUFFIX,aws-iot-hackathon.com'
   - 'DOMAIN-SUFFIX,aws.com'
+  - 'DOMAIN-SUFFIX,aws.dev'
   - 'DOMAIN-SUFFIX,awsapprunner.com'
   - 'DOMAIN-SUFFIX,awsapps.cn'
   - 'DOMAIN-SUFFIX,awsapps.com'

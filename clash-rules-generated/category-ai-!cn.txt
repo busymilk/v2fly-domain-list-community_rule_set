@@ -78,6 +78,8 @@ payload:
   - 'DOMAIN-SUFFIX,notebooklm.google.com'
   - 'DOMAIN-SUFFIX,oaistatic.com'
   - 'DOMAIN-SUFFIX,oaiusercontent.com'
+  - 'DOMAIN-SUFFIX,opal.google'
+  - 'DOMAIN-SUFFIX,opal.google.com'
   - 'DOMAIN-SUFFIX,openai.com'
   - 'DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net'
   - 'DOMAIN-SUFFIX,openart.ai'

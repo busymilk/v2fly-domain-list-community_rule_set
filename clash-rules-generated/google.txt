@@ -828,6 +828,8 @@ payload:
   - 'DOMAIN-SUFFIX,onefifteen.net'
   - 'DOMAIN-SUFFIX,onefifteen.org'
   - 'DOMAIN-SUFFIX,oneworldmanystories.com'
+  - 'DOMAIN-SUFFIX,opal.google'
+  - 'DOMAIN-SUFFIX,opal.google.com'
   - 'DOMAIN-SUFFIX,opensourceinsight.dev'
   - 'DOMAIN-SUFFIX,opensourceinsights.dev'
   - 'DOMAIN-SUFFIX,openthread.io'
