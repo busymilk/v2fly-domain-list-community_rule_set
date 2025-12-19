@@ -551,6 +551,7 @@ payload:
 - 'DOMAIN-SUFFIX,supersonic.com'
 - 'DOMAIN-SUFFIX,supersonicads-a.akamaihd.net'
 - 'DOMAIN-SUFFIX,supersonicads.com'
+- 'DOMAIN-SUFFIX,syh.zybang.com'
 - 'DOMAIN-SUFFIX,tajs.qq.com'
 - 'DOMAIN-SUFFIX,tcbox.baidu.com'
 - 'DOMAIN-SUFFIX,tce.alicdn.com'

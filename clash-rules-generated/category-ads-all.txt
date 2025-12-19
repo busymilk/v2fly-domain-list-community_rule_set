@@ -572,6 +572,7 @@ payload:
   - 'DOMAIN-SUFFIX,supersonic.com'
   - 'DOMAIN-SUFFIX,supersonicads-a.akamaihd.net'
   - 'DOMAIN-SUFFIX,supersonicads.com'
+  - 'DOMAIN-SUFFIX,syh.zybang.com'
   - 'DOMAIN-SUFFIX,taboola.com'
   - 'DOMAIN-SUFFIX,tajs.qq.com'
   - 'DOMAIN-SUFFIX,tapsell.ir'

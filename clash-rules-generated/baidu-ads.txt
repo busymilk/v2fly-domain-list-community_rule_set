@@ -43,6 +43,7 @@ payload:
   - 'DOMAIN-SUFFIX,pos.baidu.com'
   - 'DOMAIN-SUFFIX,sclick.baidu.com'
   - 'DOMAIN-SUFFIX,spcode.baidu.com'
+  - 'DOMAIN-SUFFIX,syh.zybang.com'
   - 'DOMAIN-SUFFIX,tcbox.baidu.com'
   - 'DOMAIN-SUFFIX,ubmcvideo.baidustatic.com'
   - 'DOMAIN-SUFFIX,union.baidu.com'
