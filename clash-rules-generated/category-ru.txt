@@ -40,8 +40,6 @@ payload:
   - 'DOMAIN-SUFFIX,government.ru'
   - 'DOMAIN-SUFFIX,grozny.ru'
   - 'DOMAIN-SUFFIX,gu-st.ru'
-  - 'DOMAIN-SUFFIX,habr.com'
-  - 'DOMAIN-SUFFIX,habrastorage.org'
   - 'DOMAIN-SUFFIX,i-ola.ru'
   - 'DOMAIN-SUFFIX,idx5.ru'
   - 'DOMAIN-SUFFIX,imgsmail.ru'

@@ -43,6 +43,7 @@ payload:
   - 'DOMAIN-SUFFIX,las.ac.cn'
   - 'DOMAIN-SUFFIX,lawyee.org'
   - 'DOMAIN-SUFFIX,lnlib.net'
+  - 'DOMAIN-SUFFIX,medalink.cn'
   - 'DOMAIN-SUFFIX,medicexam.net'
   - 'DOMAIN-SUFFIX,mndqlib.net'
   - 'DOMAIN-SUFFIX,mti100.com'

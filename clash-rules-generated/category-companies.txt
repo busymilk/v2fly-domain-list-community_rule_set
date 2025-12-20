@@ -2352,6 +2352,8 @@ payload:
   - 'DOMAIN-SUFFIX,dl-iphone.com'
   - 'DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com'
   - 'DOMAIN-SUFFIX,dlfacebook.com'
+  - 'DOMAIN-SUFFIX,dmit.io'
+  - 'DOMAIN-SUFFIX,dmit.sh'
   - 'DOMAIN-SUFFIX,dml-lang.org'
   - 'DOMAIN-SUFFIX,dnaspaces.io'
   - 'DOMAIN-SUFFIX,dnsserver1.de'
