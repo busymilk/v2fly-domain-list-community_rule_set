@@ -8,6 +8,8 @@ payload:
   - 'DOMAIN-SUFFIX,amur.ru'
   - 'DOMAIN-SUFFIX,arkhangelsk.ru'
   - 'DOMAIN-SUFFIX,astrakhan.ru'
+  - 'DOMAIN-SUFFIX,avito.ru'
+  - 'DOMAIN-SUFFIX,avito.st'
   - 'DOMAIN-SUFFIX,bashkiria.ru'
   - 'DOMAIN-SUFFIX,belgorod.ru'
   - 'DOMAIN-SUFFIX,bir.ru'
