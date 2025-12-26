@@ -73,6 +73,7 @@ payload:
   - 'DOMAIN-SUFFIX,afp.iqiyi.com'
   - 'DOMAIN-SUFFIX,aichongzoo.cn'
   - 'DOMAIN-SUFFIX,aihst8.com'
+  - 'DOMAIN-SUFFIX,aisee.tv'
   - 'DOMAIN-SUFFIX,aixifan.com'
   - 'DOMAIN-SUFFIX,aki-game.com'
   - 'DOMAIN-SUFFIX,ali213.net'
