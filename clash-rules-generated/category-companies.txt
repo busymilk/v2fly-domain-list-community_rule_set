@@ -4322,6 +4322,7 @@ payload:
   - 'DOMAIN-SUFFIX,hellosmartbook.com'
   - 'DOMAIN-SUFFIX,heptio.cn'
   - 'DOMAIN-SUFFIX,heptio.com'
+  - 'DOMAIN-SUFFIX,hetzner-cloud.de'
   - 'DOMAIN-SUFFIX,hetzner.cloud'
   - 'DOMAIN-SUFFIX,hetzner.com'
   - 'DOMAIN-SUFFIX,hetzner.company'
