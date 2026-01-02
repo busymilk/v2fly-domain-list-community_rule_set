@@ -519,6 +519,7 @@ payload:
   - 'DOMAIN-SUFFIX,threads.net'
   - 'DOMAIN-SUFFIX,toplayerserver.com'
   - 'DOMAIN-SUFFIX,trpger.us'
+  - 'DOMAIN-SUFFIX,truthsocial.com'
   - 'DOMAIN-SUFFIX,tweetdeck.com'
   - 'DOMAIN-SUFFIX,twimg.com'
   - 'DOMAIN-SUFFIX,twitpic.com'
