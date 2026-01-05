@@ -215,6 +215,7 @@ payload:
   - 'DOMAIN-SUFFIX,affinity.api.serifservices.com'
   - 'DOMAIN-SUFFIX,affinity.studio'
   - 'DOMAIN-SUFFIX,aggresmart.com'
+  - 'DOMAIN-SUFFIX,ai.studio'
   - 'DOMAIN-SUFFIX,aida.googleapis.com'
   - 'DOMAIN-SUFFIX,air-watch.com'
   - 'DOMAIN-SUFFIX,airgonetworks.com'

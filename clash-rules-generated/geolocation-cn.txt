@@ -1370,6 +1370,7 @@ payload:
   - 'DOMAIN-SUFFIX,cf-ns.net'
   - 'DOMAIN-SUFFIX,cf-ns.site'
   - 'DOMAIN-SUFFIX,cf-ns.tech'
+  - 'DOMAIN-SUFFIX,cfc108.com'
   - 'DOMAIN-SUFFIX,cfsc.com.cn'
   - 'DOMAIN-SUFFIX,cftest5.cn'
   - 'DOMAIN-SUFFIX,cftest6.cn'
