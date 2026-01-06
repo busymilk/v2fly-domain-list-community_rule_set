@@ -8,3 +8,4 @@ payload:
   - 'DOMAIN,ocsp2-lb.apple.com.akadns.net'
   - 'DOMAIN,ocsp2.apple.com'
   - 'DOMAIN,valid.apple.com'
+  - 'DOMAIN,valid.origin-apple.com.akadns.net'

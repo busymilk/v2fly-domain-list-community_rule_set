@@ -12,6 +12,7 @@ payload:
   - 'DOMAIN-SUFFIX,shimonote.com'
   - 'DOMAIN-SUFFIX,smgv.cn'
   - 'DOMAIN-SUFFIX,sunlogin.net'
+  - 'DOMAIN-SUFFIX,todesk.cn'
   - 'DOMAIN-SUFFIX,todesk.com'
   - 'DOMAIN-SUFFIX,tower.im'
   - 'DOMAIN-SUFFIX,tritoninfo.net'

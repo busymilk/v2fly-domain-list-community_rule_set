@@ -5329,6 +5329,7 @@ payload:
   - 'DOMAIN-SUFFIX,tnettms.com'
   - 'DOMAIN-SUFFIX,tns.simba.taobao.com'
   - 'DOMAIN-SUFFIX,tobosu.com'
+  - 'DOMAIN-SUFFIX,todesk.cn'
   - 'DOMAIN-SUFFIX,todesk.com'
   - 'DOMAIN-SUFFIX,tokcoder.com'
   - 'DOMAIN-SUFFIX,tokyotrial.cn'
