@@ -12,6 +12,7 @@ payload:
   - 'DOMAIN-SUFFIX,mycdn.me'
   - 'DOMAIN-SUFFIX,ok.ru'
   - 'DOMAIN-SUFFIX,okcdn.ru'
+  - 'DOMAIN-SUFFIX,tamtam.chat'
   - 'DOMAIN-SUFFIX,userapi.com'
   - 'DOMAIN-SUFFIX,vk-analytics.ru'
   - 'DOMAIN-SUFFIX,vk-apps.com'

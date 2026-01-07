@@ -6779,6 +6779,7 @@ payload:
   - 'DOMAIN-SUFFIX,tailf.com'
   - 'DOMAIN-SUFFIX,tailwindtraders.com'
   - 'DOMAIN-SUFFIX,takegoto.com'
+  - 'DOMAIN-SUFFIX,tamtam.chat'
   - 'DOMAIN-SUFFIX,tandberg-china.com'
   - 'DOMAIN-SUFFIX,tandberg.com'
   - 'DOMAIN-SUFFIX,teamviewer.cn'

@@ -148,6 +148,7 @@ payload:
   - 'DOMAIN-SUFFIX,su'
   - 'DOMAIN-SUFFIX,surgut.ru'
   - 'DOMAIN-SUFFIX,tambov.ru'
+  - 'DOMAIN-SUFFIX,tamtam.chat'
   - 'DOMAIN-SUFFIX,tatar'
   - 'DOMAIN-SUFFIX,tatarstan.ru'
   - 'DOMAIN-SUFFIX,tom.ru'
