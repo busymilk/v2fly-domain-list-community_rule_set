@@ -599,6 +599,7 @@ payload:
   - 'DOMAIN-SUFFIX,syxlgame.com'
   - 'DOMAIN-SUFFIX,tadu.com'
   - 'DOMAIN-SUFFIX,taomee.com'
+  - 'DOMAIN-SUFFIX,tapapks.com'
   - 'DOMAIN-SUFFIX,tapimg.com'
   - 'DOMAIN-SUFFIX,tapimg.net'
   - 'DOMAIN-SUFFIX,taptap.cn'

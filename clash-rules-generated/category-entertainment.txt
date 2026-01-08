@@ -966,6 +966,7 @@ payload:
   - 'DOMAIN-SUFFIX,nflxso.net'
   - 'DOMAIN-SUFFIX,nflxvideo.net'
   - 'DOMAIN-SUFFIX,nfsworld.com'
+  - 'DOMAIN-SUFFIX,ngenix.net'
   - 'DOMAIN-SUFFIX,ngeo.com'
   - 'DOMAIN-SUFFIX,nico'
   - 'DOMAIN-SUFFIX,nicodic.jp'
@@ -1188,6 +1189,7 @@ payload:
     ^images(-\d)?\.gog-statics\.com$
   - 'DOMAIN-SUFFIX,registerhulu.com'
   - 'DOMAIN-SUFFIX,renovacionxboxlive.com'
+  - 'DOMAIN-SUFFIX,restream-media.net'
   - 'DOMAIN-SUFFIX,revuestarlight.com'
   - 'DOMAIN-SUFFIX,rewrite-anime.tv'
   - 'DOMAIN-SUFFIX,rgpub.io'
@@ -1503,6 +1505,7 @@ payload:
   - 'DOMAIN-SUFFIX,wiiugamepad.com'
   - 'DOMAIN-SUFFIX,wiivc.net'
   - 'DOMAIN-SUFFIX,wimpmusic.com'
+  - 'DOMAIN-SUFFIX,wink.ru'
   - 'DOMAIN-SUFFIX,winticket.jp'
   - 'DOMAIN-SUFFIX,withyoutube.com'
   - 'DOMAIN-SUFFIX,wmsjsteam.com'

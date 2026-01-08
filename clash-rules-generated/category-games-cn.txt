@@ -160,6 +160,7 @@ payload:
   - 'DOMAIN-SUFFIX,supercellcommunity.cn'
   - 'DOMAIN-SUFFIX,supercellsupport.cn'
   - 'DOMAIN-SUFFIX,syxlgame.com'
+  - 'DOMAIN-SUFFIX,tapapks.com'
   - 'DOMAIN-SUFFIX,tapimg.com'
   - 'DOMAIN-SUFFIX,tapimg.net'
   - 'DOMAIN-SUFFIX,taptap.cn'

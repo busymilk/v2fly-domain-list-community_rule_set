@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,ro.com'
+  - 'DOMAIN-SUFFIX,tapapks.com'
   - 'DOMAIN-SUFFIX,tapimg.com'
   - 'DOMAIN-SUFFIX,tapimg.net'
   - 'DOMAIN-SUFFIX,taptap.cn'
