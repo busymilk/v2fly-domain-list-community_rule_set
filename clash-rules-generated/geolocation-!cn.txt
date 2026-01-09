@@ -13077,6 +13077,7 @@ payload:
   - 'DOMAIN-SUFFIX,la-mama.ru'
   - 'DOMAIN-SUFFIX,labo.wovs.tk'
   - 'DOMAIN-SUFFIX,labs.google'
+  - 'DOMAIN-SUFFIX,labs.google.com'
   - 'DOMAIN-SUFFIX,lacomics.org'
   - 'DOMAIN-SUFFIX,ladies.com'
   - 'DOMAIN-SUFFIX,ladsp.com'

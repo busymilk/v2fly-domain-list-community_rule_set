@@ -5231,6 +5231,7 @@ payload:
   - 'DOMAIN-SUFFIX,kynogon.com'
   - 'DOMAIN-SUFFIX,l-msedge.net'
   - 'DOMAIN-SUFFIX,labs.google'
+  - 'DOMAIN-SUFFIX,labs.google.com'
   - 'DOMAIN-SUFFIX,lanternal.com'
   - 'DOMAIN-SUFFIX,lasersawapp.com'
   - 'DOMAIN-SUFFIX,latampartneruniversity.com'

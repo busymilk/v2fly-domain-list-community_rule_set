@@ -71,6 +71,7 @@ payload:
   - 'DOMAIN-SUFFIX,jules.google.com'
   - 'DOMAIN-SUFFIX,kiro.dev'
   - 'DOMAIN-SUFFIX,labs.google'
+  - 'DOMAIN-SUFFIX,labs.google.com'
   - 'DOMAIN-SUFFIX,makersuite.google.com'
   - 'DOMAIN-SUFFIX,marscode.com'
   - 'DOMAIN-SUFFIX,meta.ai'

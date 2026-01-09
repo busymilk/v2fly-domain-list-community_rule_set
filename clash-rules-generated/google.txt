@@ -806,6 +806,7 @@ payload:
   - 'DOMAIN-SUFFIX,keytransparency.foo'
   - 'DOMAIN-SUFFIX,keytransparency.org'
   - 'DOMAIN-SUFFIX,labs.google'
+  - 'DOMAIN-SUFFIX,labs.google.com'
   - 'DOMAIN-SUFFIX,lanternal.com'
   - 'DOMAIN-SUFFIX,like.com'
   - 'DOMAIN-SUFFIX,madewithcode.com'
