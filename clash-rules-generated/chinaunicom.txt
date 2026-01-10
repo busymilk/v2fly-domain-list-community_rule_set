@@ -19,4 +19,5 @@ payload:
   - 'DOMAIN-SUFFIX,wo116114.com'
   - 'DOMAIN-SUFFIX,wocloud.com.cn'
   - 'DOMAIN-SUFFIX,woread.com.cn'
+  - 'DOMAIN-SUFFIX,wosms.cn'
   - 'DOMAIN-SUFFIX,xn--8y0a063a'

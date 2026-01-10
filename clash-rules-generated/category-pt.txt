@@ -70,6 +70,7 @@ payload:
   - 'DOMAIN-SUFFIX,nanyangpt.com'
   - 'DOMAIN-SUFFIX,nebulance.io'
   - 'DOMAIN-SUFFIX,neu6.edu.cn'
+  - 'DOMAIN-SUFFIX,nexushd.org'
   - 'DOMAIN-SUFFIX,nicept.net'
   - 'DOMAIN-SUFFIX,npupt.com'
   - 'DOMAIN-SUFFIX,open.cd'
