@@ -8,6 +8,7 @@ payload:
   - 'DOMAIN-SUFFIX,3conline.com'
   - 'DOMAIN-SUFFIX,6655.com'
   - 'DOMAIN-SUFFIX,72whys.com'
+  - 'DOMAIN-SUFFIX,ad.cctv.com'
   - 'DOMAIN-SUFFIX,admin5.com'
   - 'DOMAIN-SUFFIX,adnet.sohu.com'
   - 'DOMAIN-SUFFIX,ads.sohu.com'

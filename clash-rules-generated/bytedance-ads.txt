@@ -1,4 +1,6 @@
 payload:
+  - 'DOMAIN-SUFFIX,ad.toutiao.com'
+  - 'DOMAIN-SUFFIX,analytics.tiktok.com'
   - 'DOMAIN-SUFFIX,bds.snssdk.com'
   - 'DOMAIN-SUFFIX,byteadverts.com'
   - 'DOMAIN-SUFFIX,ctobsnssdk.com'
@@ -20,6 +22,7 @@ payload:
   - 'DOMAIN,rtlog5-applog-hl.fqnovel.com'
   - 'DOMAIN,rtlog5-applog.fqnovel.com'
   - 'DOMAIN-SUFFIX,i.snssdk.com'
+  - 'DOMAIN-SUFFIX,log.zijieapi.com'
   - 'DOMAIN-SUFFIX,mcs.snssdk.com'
   - 'DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com'
   - 'DOMAIN-SUFFIX,pangolin-dsp-toutiao.com'

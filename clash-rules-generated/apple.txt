@@ -41,6 +41,7 @@ payload:
   - 'DOMAIN-SUFFIX,aaplimg.com'
   - 'DOMAIN-SUFFIX,abcheadphones.com'
   - 'DOMAIN-SUFFIX,abeatsbydrdre.com'
+  - 'DOMAIN-SUFFIX,advertising.apple.com'
   - 'DOMAIN-SUFFIX,aeasyshop.com'
   - 'DOMAIN-SUFFIX,airmay.com'
   - 'DOMAIN-SUFFIX,airport.brussels'
