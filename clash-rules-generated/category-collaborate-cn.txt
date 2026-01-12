@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,asklink.com'
+  - 'DOMAIN-SUFFIX,easytier.cn'
   - 'DOMAIN-SUFFIX,ganjiangvpn.com'
   - 'DOMAIN-SUFFIX,glxcc.net'
   - 'DOMAIN-SUFFIX,nlark.com'

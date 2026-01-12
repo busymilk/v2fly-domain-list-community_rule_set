@@ -36,6 +36,7 @@ payload:
   - 'DOMAIN-SUFFIX,appjiagu.com'
   - 'DOMAIN-SUFFIX,baomitu.com'
   - 'DOMAIN-SUFFIX,beifangsl.cn'
+  - 'DOMAIN-SUFFIX,c.sayhi.360.cn'
   - 'DOMAIN-SUFFIX,dhsvc.cn'
   - 'DOMAIN-SUFFIX,fenxi.360.cn'
   - 'DOMAIN-SUFFIX,fenxi.com'
