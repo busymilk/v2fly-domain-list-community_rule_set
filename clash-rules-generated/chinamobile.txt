@@ -6,6 +6,7 @@ payload:
   - 'DOMAIN-SUFFIX,chinamobile.com'
   - 'DOMAIN-SUFFIX,chinamobileltd.com'
   - 'DOMAIN-SUFFIX,cmcc-cs.cn'
+  - 'DOMAIN-SUFFIX,cmft.com.cn'
   - 'DOMAIN-SUFFIX,cmicapm.com'
   - 'DOMAIN-SUFFIX,cmicrwx.cn'
   - 'DOMAIN-SUFFIX,cmicvip.cn'

@@ -536,6 +536,7 @@ payload:
   - 'DOMAIN-SUFFIX,nzsiteres.com'
   - 'DOMAIN-SUFFIX,pearvideo.com'
   - 'DOMAIN-SUFFIX,phira.cn'
+  - 'DOMAIN-SUFFIX,pipi.cn'
   - 'DOMAIN-SUFFIX,podcast.xyz'
   - 'DOMAIN-SUFFIX,policy.video.iqiyi.com'
   - 'DOMAIN-SUFFIX,ppkankan01.com'
