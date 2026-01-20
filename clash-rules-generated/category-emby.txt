@@ -72,6 +72,7 @@ payload:
   - 'DOMAIN-SUFFIX,plex.direct'
   - 'DOMAIN-SUFFIX,poloemby.xyz'
   - 'DOMAIN-SUFFIX,pololine.ml'
+  - 'DOMAIN-SUFFIX,server2.cn2gias.uk'
   - 'DOMAIN-SUFFIX,sfcj.org'
   - 'DOMAIN-SUFFIX,sgtv.ii00.cc'
   - 'DOMAIN-SUFFIX,singularity.deja-vu.beauty'

@@ -200,7 +200,6 @@ payload:
   - 'DOMAIN-SUFFIX,huaweiacad.com'
   - 'DOMAIN-SUFFIX,huaweiapaas.cn'
   - 'DOMAIN-SUFFIX,huaweiapaas.com'
-  - 'DOMAIN-SUFFIX,huaweiapaas.com'
   - 'DOMAIN-SUFFIX,huaweicloud-dns.cn'
   - 'DOMAIN-SUFFIX,huaweicloud-dns.com'
   - 'DOMAIN-SUFFIX,huaweicloud-dns.net'

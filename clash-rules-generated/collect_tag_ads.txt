@@ -568,7 +568,6 @@ payload:
 - 'DOMAIN-SUFFIX,stat.y.qq.com'
 - 'DOMAIN-SUFFIX,stat.youku.com'
 - 'DOMAIN-SUFFIX,static.hotjar.com'
-- 'DOMAIN-SUFFIX,static.sensorsdata.cn'
 - 'DOMAIN-SUFFIX,statis.api.3g.youku.com'
 - 'DOMAIN-SUFFIX,stats.music.xiaomi.com'
 - 'DOMAIN-SUFFIX,supersonic.com'
