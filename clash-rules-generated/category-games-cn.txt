@@ -43,6 +43,7 @@ payload:
   - 'DOMAIN-SUFFIX,aki-game.com'
   - 'DOMAIN-SUFFIX,anticheatexpert.com'
   - 'DOMAIN-SUFFIX,appeeres.com'
+  - 'DOMAIN-SUFFIX,arcaea.cn'
   - 'DOMAIN-SUFFIX,astral-vector.com'
   - 'DOMAIN-SUFFIX,battlecare.net'
   - 'DOMAIN-SUFFIX,bcfmglobal.com'

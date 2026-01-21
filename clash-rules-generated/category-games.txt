@@ -54,6 +54,7 @@ payload:
   - 'DOMAIN-SUFFIX,apexlegends.com'
   - 'DOMAIN-SUFFIX,api-priconne-redive.cygames.jp'
   - 'DOMAIN-SUFFIX,appeeres.com'
+  - 'DOMAIN-SUFFIX,arcaea.cn'
   - 'DOMAIN-SUFFIX,arcraiders.com'
   - 'DOMAIN-SUFFIX,artstation.com'
   - 'DOMAIN-SUFFIX,asobostudio.com'

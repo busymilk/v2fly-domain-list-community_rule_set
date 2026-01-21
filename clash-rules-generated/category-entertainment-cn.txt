@@ -80,6 +80,7 @@ payload:
   - 'DOMAIN-SUFFIX,anticheatexpert.com'
   - 'DOMAIN-SUFFIX,appeeres.com'
   - 'DOMAIN-SUFFIX,apple.www.letv.com'
+  - 'DOMAIN-SUFFIX,arcaea.cn'
   - 'DOMAIN-SUFFIX,ark.letv.com'
   - 'DOMAIN-SUFFIX,astral-vector.com'
   - 'DOMAIN-SUFFIX,awemeughun.com'
