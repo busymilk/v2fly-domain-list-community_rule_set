@@ -383,6 +383,8 @@ payload:
   - 'DOMAIN-SUFFIX,elpionero.es'
   - 'DOMAIN-SUFFIX,embark-studios.com'
   - 'DOMAIN-SUFFIX,embark.games'
+  - 'DOMAIN-SUFFIX,eneba.com'
+  - 'DOMAIN-SUFFIX,eneba.games'
   - 'DOMAIN-SUFFIX,epicgames.com'
   - 'DOMAIN-SUFFIX,epicgames.dev'
   - 'DOMAIN-SUFFIX,epicgamescdn.com'

@@ -25,6 +25,7 @@ payload:
   - 'DOMAIN-SUFFIX,okjike.com'
   - 'DOMAIN-SUFFIX,okjk.co'
   - 'DOMAIN-SUFFIX,procg.cn'
+  - 'DOMAIN-SUFFIX,rednotecdn.com'
   - 'DOMAIN-SUFFIX,ruguoapp.com'
   - 'DOMAIN-SUFFIX,shihuo.cn'
   - 'DOMAIN-SUFFIX,taou.com'

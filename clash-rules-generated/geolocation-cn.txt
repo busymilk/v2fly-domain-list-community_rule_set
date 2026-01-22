@@ -749,6 +749,7 @@ payload:
   - 'DOMAIN-SUFFIX,cctvpro.com.cn'
   - 'DOMAIN-SUFFIX,cczq.com'
   - 'DOMAIN-SUFFIX,cczq.net'
+  - 'DOMAIN-SUFFIX,cd120.com'
   - 'DOMAIN-SUFFIX,cdn20.com'
   - 'DOMAIN-SUFFIX,cdn30.org'
   - 'DOMAIN-SUFFIX,cdncl.net'
@@ -3196,6 +3197,7 @@ payload:
   - 'DOMAIN-SUFFIX,readnovel.com'
   - 'DOMAIN-SUFFIX,realcybertron.com'
   - 'DOMAIN-SUFFIX,redmagic.com'
+  - 'DOMAIN-SUFFIX,rednotecdn.com'
   - |
     .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
   - |
