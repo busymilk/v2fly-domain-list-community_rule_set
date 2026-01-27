@@ -3,6 +3,7 @@ payload:
   - 'DOMAIN-SUFFIX,galaxymobile.jp'
   - 'DOMAIN-SUFFIX,game-platform.net'
   - 'DOMAIN-SUFFIX,knoxemm.com'
+  - 'DOMAIN-SUFFIX,ospserver.net'
   - 'DOMAIN-SUFFIX,samsung'
   - 'DOMAIN-SUFFIX,samsung.com'
   - 'DOMAIN-SUFFIX,samsungads.com'

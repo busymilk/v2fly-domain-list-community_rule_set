@@ -6096,6 +6096,7 @@ payload:
   - 'DOMAIN-SUFFIX,oscdn.apple.com'
   - 'DOMAIN-SUFFIX,ospray.net'
   - 'DOMAIN-SUFFIX,ospray.org'
+  - 'DOMAIN-SUFFIX,ospserver.net'
   - 'DOMAIN-SUFFIX,osrecovery.apple.com'
   - 'DOMAIN-SUFFIX,ouroath.com'
   - 'DOMAIN-SUFFIX,outingsapp.com'
