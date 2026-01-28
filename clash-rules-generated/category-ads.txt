@@ -52,7 +52,6 @@ payload:
   - 'DOMAIN-SUFFIX,adbox.sina.com.cn'
   - 'DOMAIN-SUFFIX,adbutter.net'
   - 'DOMAIN-SUFFIX,adc.hpplay.cn'
-  - 'DOMAIN-SUFFIX,adcolony.com'
   - 'DOMAIN-SUFFIX,addthisedge.com'
   - 'DOMAIN-SUFFIX,adeng.hpplay.cn'
   - 'DOMAIN-SUFFIX,adfilter.imtt.qq.com'

@@ -29,6 +29,7 @@ payload:
   - 'DOMAIN-SUFFIX,comfyregistry.org'
   - 'DOMAIN-SUFFIX,copilot.microsoft.com'
   - 'DOMAIN-SUFFIX,coze.com'
+  - 'DOMAIN-SUFFIX,crixet.com'
   - 'DOMAIN-SUFFIX,cursor-cdn.com'
   - 'DOMAIN-SUFFIX,cursor.com'
   - 'DOMAIN-SUFFIX,cursor.sh'

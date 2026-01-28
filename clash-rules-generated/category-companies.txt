@@ -3031,6 +3031,7 @@ payload:
   - 'DOMAIN,android.googlesource.com'
   - 'DOMAIN,antigravity-pa.googleapis.com'
   - 'DOMAIN,antigravity.googleapis.com'
+  - 'DOMAIN,aod-ssl.itunes.apple.com'
   - 'DOMAIN,aod.itunes.apple.com'
   - 'DOMAIN,api-edge.apps.apple.com'
   - 'DOMAIN,api.viu.now.com'

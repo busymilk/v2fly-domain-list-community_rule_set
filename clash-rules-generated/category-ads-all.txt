@@ -575,7 +575,6 @@ payload:
   - 'DOMAIN-SUFFIX,sigmob.com'
   - 'DOMAIN-SUFFIX,slog.sina.cn'
   - 'DOMAIN-SUFFIX,slog.sina.com.cn'
-  - 'DOMAIN-SUFFIX,snapads.com'
   - 'DOMAIN-SUFFIX,sngmta.qq.com'
   - 'DOMAIN-SUFFIX,socdm.com'
   - 'DOMAIN-SUFFIX,spcode.baidu.com'
