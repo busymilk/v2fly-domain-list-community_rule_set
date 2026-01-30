@@ -131,4 +131,5 @@ payload:
   - 'DOMAIN-SUFFIX,zgsydw.com'
   - 'DOMAIN-SUFFIX,zhan.com'
   - 'DOMAIN-SUFFIX,zhihuishu.com'
+  - 'DOMAIN-SUFFIX,zjzs.net'
   - 'DOMAIN-SUFFIX,zxxk.com'
