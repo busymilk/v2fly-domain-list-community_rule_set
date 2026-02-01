@@ -179,6 +179,7 @@ payload:
   - 'DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com'
   - 'DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com'
   - 'DOMAIN,p-events-delivery.akamaized.net'
+  - 'DOMAIN,packages.microsoft.com'
   - 'DOMAIN,poshtestgallery.cloudapp.net'
   - 'DOMAIN,psg-int-centralus.cloudapp.net'
   - 'DOMAIN,psg-int-eastus.cloudapp.net'

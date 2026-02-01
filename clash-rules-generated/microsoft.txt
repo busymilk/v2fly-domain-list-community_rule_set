@@ -237,6 +237,7 @@ payload:
   - 'DOMAIN,officecdn-microsoft-com.akamaized.net'
   - 'DOMAIN,officecdn.microsoft.com'
   - 'DOMAIN,oneocsp.microsoft.com'
+  - 'DOMAIN,packages.microsoft.com'
   - 'DOMAIN,poshtestgallery.cloudapp.net'
   - 'DOMAIN,prodforza.blob.core.windows.net'
   - 'DOMAIN,psg-int-centralus.cloudapp.net'

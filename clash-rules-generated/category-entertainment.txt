@@ -1101,6 +1101,7 @@ payload:
   - 'DOMAIN-SUFFIX,pixiv.net'
   - 'DOMAIN-SUFFIX,pixiv.org'
   - 'DOMAIN-SUFFIX,pixivision.net'
+  - 'DOMAIN-SUFFIX,pjsekai.sega.jp'
   - 'DOMAIN-SUFFIX,planetminecraft.com'
   - 'DOMAIN-SUFFIX,plantsvszombies2.com'
   - 'DOMAIN-SUFFIX,play4free.com'

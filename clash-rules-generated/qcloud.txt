@@ -112,6 +112,7 @@ payload:
   - 'DOMAIN-SUFFIX,dothework.cn'
   - 'DOMAIN-SUFFIX,ectencent.cn'
   - 'DOMAIN-SUFFIX,ectencent.com.cn'
+  - 'DOMAIN-SUFFIX,edgeone.cool'
   - 'DOMAIN-SUFFIX,edgeonedy1.com'
   - 'DOMAIN-SUFFIX,essurl.com'
   - 'DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com'

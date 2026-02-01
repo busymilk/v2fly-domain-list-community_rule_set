@@ -445,6 +445,7 @@ payload:
   - 'DOMAIN-SUFFIX,personaltrainermath.com'
   - 'DOMAIN-SUFFIX,pinkcore.com'
   - 'DOMAIN-SUFFIX,pinkcore.net'
+  - 'DOMAIN-SUFFIX,pjsekai.sega.jp'
   - 'DOMAIN-SUFFIX,planetminecraft.com'
   - 'DOMAIN-SUFFIX,plantsvszombies2.com'
   - 'DOMAIN-SUFFIX,play4free.com'

@@ -50,6 +50,7 @@ payload:
   - 'DOMAIN-SUFFIX,blockfrost.io'
   - 'DOMAIN-SUFFIX,bnbstatic.com'
   - 'DOMAIN-SUFFIX,bntrace.com'
+  - 'DOMAIN-SUFFIX,bsappapi.com'
   - 'DOMAIN-SUFFIX,btcbox.co.jp'
   - 'DOMAIN-SUFFIX,byabcde.com'
   - 'DOMAIN-SUFFIX,byapis.com'

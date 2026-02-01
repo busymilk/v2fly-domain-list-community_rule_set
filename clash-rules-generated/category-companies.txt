@@ -3456,6 +3456,7 @@ payload:
   - 'DOMAIN,p17.upd.kaspersky.com'
   - 'DOMAIN,p18.upd.kaspersky.com'
   - 'DOMAIN,p19.upd.kaspersky.com'
+  - 'DOMAIN,packages.microsoft.com'
   - 'DOMAIN,pagead-googlehosted.l.google.com'
   - 'DOMAIN,pancake.apple.com'
   - 'DOMAIN,pancake.cdn-apple.com.akadns.net'
