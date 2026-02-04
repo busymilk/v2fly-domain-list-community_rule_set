@@ -442,6 +442,7 @@ payload:
   - 'DOMAIN-SUFFIX,ancientbooks.cn'
   - 'DOMAIN-SUFFIX,anfensi.com'
   - 'DOMAIN-SUFFIX,anhuinews.com'
+  - 'DOMAIN-SUFFIX,anitabi.cn'
   - 'DOMAIN-SUFFIX,anjuke.com'
   - 'DOMAIN-SUFFIX,anjukestatic.com'
   - 'DOMAIN-SUFFIX,anlaiye.com'

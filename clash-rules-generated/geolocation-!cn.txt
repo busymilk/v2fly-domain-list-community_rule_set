@@ -16339,6 +16339,7 @@ payload:
   - 'DOMAIN-SUFFIX,osiri-suki-club.com'
   - 'DOMAIN-SUFFIX,osl.com'
   - 'DOMAIN-SUFFIX,osm.org'
+  - 'DOMAIN-SUFFIX,osmand.net'
   - 'DOMAIN-SUFFIX,osmfoundation.org'
   - 'DOMAIN-SUFFIX,ospray.net'
   - 'DOMAIN-SUFFIX,ospray.org'
