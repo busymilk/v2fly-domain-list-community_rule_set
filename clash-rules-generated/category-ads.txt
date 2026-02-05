@@ -160,7 +160,6 @@ payload:
   - 'DOMAIN-SUFFIX,ar.umeng.com'
   - 'DOMAIN-SUFFIX,ark.letv.com'
   - 'DOMAIN-SUFFIX,aspect-upush.umeng.com'
-  - 'DOMAIN-SUFFIX,assets.growingio.com'
   - 'DOMAIN-SUFFIX,assp.sohu.com'
   - 'DOMAIN-SUFFIX,atanx.alicdn.com'
   - 'DOMAIN-SUFFIX,atanx2.alicdn.com'

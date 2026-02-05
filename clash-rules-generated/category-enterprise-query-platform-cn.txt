@@ -10,3 +10,5 @@ payload:
   - 'DOMAIN-SUFFIX,qyyjt.cn'
   - 'DOMAIN-SUFFIX,tianyancha.com'
   - 'DOMAIN-SUFFIX,x315.com'
+  - 'DOMAIN-SUFFIX,xcc.cn'
+  - 'DOMAIN-SUFFIX,xinchacha.com'

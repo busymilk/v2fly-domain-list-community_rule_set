@@ -12,6 +12,7 @@ payload:
   - 'DOMAIN-SUFFIX,doubanio.com'
   - 'DOMAIN-SUFFIX,duowan.com'
   - 'DOMAIN-SUFFIX,dwstatic.com'
+  - 'DOMAIN-SUFFIX,fanfou.com'
   - 'DOMAIN-SUFFIX,gracg.com'
   - 'DOMAIN-SUFFIX,hoopchina.com.cn'
   - 'DOMAIN-SUFFIX,hupu.com'

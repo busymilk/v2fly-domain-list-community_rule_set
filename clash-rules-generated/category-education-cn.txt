@@ -12,6 +12,7 @@ payload:
   - 'DOMAIN-SUFFIX,baydn.com'
   - 'DOMAIN-SUFFIX,bczcdn.com'
   - 'DOMAIN-SUFFIX,bczeducation.cn'
+  - 'DOMAIN-SUFFIX,biyehome.net'
   - 'DOMAIN-SUFFIX,burningvocabulary.cn'
   - 'DOMAIN-SUFFIX,burningvocabulary.com'
   - 'DOMAIN-SUFFIX,cbern.com.cn'

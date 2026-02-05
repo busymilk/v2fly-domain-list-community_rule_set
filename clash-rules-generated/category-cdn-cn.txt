@@ -34,6 +34,7 @@ payload:
   - 'DOMAIN-SUFFIX,cloudflareprod.com'
   - 'DOMAIN-SUFFIX,cloudflarestaging.com'
   - 'DOMAIN-SUFFIX,cloudflarestoragegw.com'
+  - 'DOMAIN-SUFFIX,dfyun.com.cn'
   - 'DOMAIN-SUFFIX,dlgslb.cn'
   - 'DOMAIN-SUFFIX,dlgslb.net'
   - 'DOMAIN-SUFFIX,dwion.com'
