@@ -158,6 +158,7 @@ payload:
   - 'DOMAIN-SUFFIX,e.kuaishou.cn'
   - 'DOMAIN-SUFFIX,e.kuaishou.com'
   - 'DOMAIN-SUFFIX,ecukwai.com'
+  - 'DOMAIN-SUFFIX,edgesrv.com'
   - 'DOMAIN-SUFFIX,edu4399.com'
   - 'DOMAIN-SUFFIX,faloo.com'
   - 'DOMAIN-SUFFIX,fanqienovel.com'

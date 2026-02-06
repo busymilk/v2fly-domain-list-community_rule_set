@@ -86,6 +86,8 @@ payload:
   - 'DOMAIN-SUFFIX,liveperson.net'
   - 'DOMAIN-SUFFIX,lpsnmedia.net'
   - 'DOMAIN-SUFFIX,makersuite.google.com'
+  - 'DOMAIN-SUFFIX,manus.im'
+  - 'DOMAIN-SUFFIX,manuscdn.com'
   - 'DOMAIN-SUFFIX,marscode.com'
   - 'DOMAIN-SUFFIX,meta.ai'
   - 'DOMAIN-SUFFIX,mistral.ai'
