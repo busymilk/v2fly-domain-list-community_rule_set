@@ -3843,6 +3843,7 @@ payload:
   - 'DOMAIN,www.support.apple.com'
   - 'DOMAIN,xn--flw351e.com'
   - 'DOMAIN,xp.apple.com'
+  - 'DOMAIN,yandex-pogoda.static-storage.net'
   - 'DOMAIN,yt3.googleusercontent.com'
   - 'DOMAIN-SUFFIX,fundaiphone5s.com'
   - 'DOMAIN-SUFFIX,fundraisingwithfacebook.com'

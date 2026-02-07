@@ -1,4 +1,5 @@
 payload:
+  - 'DOMAIN-SUFFIX,0033.cn'
   - 'DOMAIN-SUFFIX,10jqka.com.cn'
   - 'DOMAIN-SUFFIX,21jingji.com'
   - 'DOMAIN-SUFFIX,36dianping.com'
@@ -94,6 +95,8 @@ payload:
   - 'DOMAIN-SUFFIX,go2map.com'
   - 'DOMAIN-SUFFIX,guigu.org'
   - 'DOMAIN-SUFFIX,gw.com.cn'
+  - 'DOMAIN-SUFFIX,hexin.cn'
+  - 'DOMAIN-SUFFIX,hexin.com.cn'
   - 'DOMAIN-SUFFIX,hexun.com'
   - 'DOMAIN-SUFFIX,hndt.com'
   - 'DOMAIN-SUFFIX,hntv.tv'
@@ -128,6 +131,7 @@ payload:
   - 'DOMAIN-SUFFIX,jianyuweb.com'
   - 'DOMAIN-SUFFIX,jiemian.com'
   - 'DOMAIN-SUFFIX,jiemian.com.cn'
+  - 'DOMAIN-SUFFIX,jin10.com'
   - 'DOMAIN-SUFFIX,jiqizhixin.com'
   - 'DOMAIN-SUFFIX,jrj.com.cn'
   - 'DOMAIN-SUFFIX,jrjimg.cn'

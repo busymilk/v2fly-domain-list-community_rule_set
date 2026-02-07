@@ -99,6 +99,7 @@ payload:
 - 'DOMAIN-SUFFIX,dmhy.best'
 - 'DOMAIN-SUFFIX,dmhy.org'
 - 'DOMAIN-SUFFIX,dreamcast.hk'
+- 'DOMAIN-SUFFIX,easebar.com'
 - 'DOMAIN-SUFFIX,emsec.hk'
 - 'DOMAIN-SUFFIX,eu-frankfurt.tencentcos.cn'
 - 'DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com'

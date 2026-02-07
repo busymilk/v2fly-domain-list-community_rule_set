@@ -1,6 +1,7 @@
 payload:
   - 'DOMAIN-SUFFIX,adfox.ru'
   - 'DOMAIN-SUFFIX,admetrica.ru'
+  - 'DOMAIN,yandex-pogoda.static-storage.net'
   - 'DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net'
   - 'DOMAIN-SUFFIX,kinopoisk.ru'
   - 'DOMAIN-SUFFIX,naydex.net'
