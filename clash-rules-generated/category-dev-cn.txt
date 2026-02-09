@@ -83,6 +83,7 @@ payload:
   - 'DOMAIN-SUFFIX,phpweblog.net'
   - 'DOMAIN-SUFFIX,pingcap.cn'
   - 'DOMAIN-SUFFIX,pingcap.com'
+  - 'DOMAIN-SUFFIX,pingcode.com'
   - 'DOMAIN-SUFFIX,programmer.com.cn'
   - 'DOMAIN-SUFFIX,programmer.net.cn'
   - 'DOMAIN-SUFFIX,qq.design'

@@ -19,6 +19,7 @@ payload:
   - 'DOMAIN-SUFFIX,tower.im'
   - 'DOMAIN-SUFFIX,tritoninfo.net'
   - 'DOMAIN-SUFFIX,woodo.cn'
+  - 'DOMAIN-SUFFIX,worktile.com'
   - 'DOMAIN-SUFFIX,xedge.cc'
   - 'DOMAIN-SUFFIX,xiumi.us'
   - 'DOMAIN-SUFFIX,xiumius.com'
