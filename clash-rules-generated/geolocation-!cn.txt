@@ -1471,6 +1471,8 @@ payload:
   - 'DOMAIN-SUFFIX,analtime.org'
   - 'DOMAIN-SUFFIX,analvids.com'
   - 'DOMAIN-SUFFIX,analytics-alv.google.com'
+  - 'DOMAIN-SUFFIX,analytics.facebook.com'
+  - 'DOMAIN-SUFFIX,analytics.tiktok.com'
   - 'DOMAIN-SUFFIX,analytics.vpc.duolingo.com'
   - 'DOMAIN-SUFFIX,analytictech.com'
   - 'DOMAIN-SUFFIX,anandtech.com'
@@ -7310,6 +7312,7 @@ payload:
   - 'DOMAIN-SUFFIX,facebook30.net'
   - 'DOMAIN-SUFFIX,facebook30.org'
   - 'DOMAIN-SUFFIX,facebook4business.com'
+  - 'DOMAIN-SUFFIX,facebookads.com'
   - 'DOMAIN-SUFFIX,facebookadvertisingsecrets.com'
   - 'DOMAIN-SUFFIX,facebookappcenter.info'
   - 'DOMAIN-SUFFIX,facebookappcenter.net'
@@ -8335,6 +8338,7 @@ payload:
   - 'DOMAIN,ad-display.diwodiwo.xyz'
   - 'DOMAIN,adcdownload.apple.com'
   - 'DOMAIN,adcdownload.apple.com.akadns.net'
+  - 'DOMAIN,adeventtracker.spotify.com'
   - 'DOMAIN,admob-cn.com'
   - 'DOMAIN,adobe-dns-1.adobe.com'
   - 'DOMAIN,adobe-dns-2.adobe.com'
@@ -8343,6 +8347,7 @@ payload:
   - 'DOMAIN,adobe-dns.adobe.com'
   - 'DOMAIN,adobeereg.com'
   - 'DOMAIN,adservice.google.com'
+  - 'DOMAIN,adstudio-assets.scdn.co'
   - 'DOMAIN,afcs.dell.com'
   - 'DOMAIN,ai.google.dev'
   - 'DOMAIN,alibaba.cdn.steampipe.steamcontent.com'
@@ -8422,6 +8427,7 @@ payload:
   - 'DOMAIN,bj1.api.bing.com'
   - 'DOMAIN,blizzard.nefficient.co.kr'
   - 'DOMAIN,blizzcon-a.akamaihd.net'
+  - 'DOMAIN,bloodhound.spotify.com'
   - 'DOMAIN,blzddist1-a.akamaihd.net'
   - 'DOMAIN,blzddistkr1-a.akamaihd.net'
   - 'DOMAIN,blzmedia-a.akamaihd.net'
@@ -13430,6 +13436,7 @@ payload:
   - 'DOMAIN-SUFFIX,localpresshk.com'
   - 'DOMAIN-SUFFIX,localxlist.org'
   - 'DOMAIN-SUFFIX,location.services.mozilla.com'
+  - 'DOMAIN-SUFFIX,log-upload-os.hoyoverse.com'
   - 'DOMAIN-SUFFIX,logi.com'
   - 'DOMAIN-SUFFIX,logicool.co.jp'
   - 'DOMAIN-SUFFIX,logicoolg.com'
@@ -16930,6 +16937,7 @@ payload:
   - 'DOMAIN-SUFFIX,pixanalytics.com'
   - 'DOMAIN-SUFFIX,pixapp.net'
   - 'DOMAIN-SUFFIX,pixate.com'
+  - 'DOMAIN-SUFFIX,pixel.facebook.com'
   - 'DOMAIN-SUFFIX,pixfs.net'
   - 'DOMAIN-SUFFIX,pixhost.to'
   - 'DOMAIN-SUFFIX,pixinsight.com.tw'
@@ -18331,8 +18339,6 @@ payload:
     ^(.+\.)*zh\.okaapps\.com$
   - |
     ^[0-9]+vod-adaptive\.akamaized\.net$
-  - |
-    ^adservice\.google\.([a-z]{2}|com?)(\.[a-z]{2})?$
   - |
     ^cdn-akamai-.+\.gog-services\.com$
   - |

@@ -11,6 +11,7 @@ payload:
   - 'DOMAIN-SUFFIX,cnlogs.umeng.com'
   - 'DOMAIN-SUFFIX,cnlogs.umengcloud.com'
   - 'DOMAIN-SUFFIX,cnzz.com'
+  - 'DOMAIN-SUFFIX,log.umtrack.com'
   - 'DOMAIN-SUFFIX,mobmore.com'
   - 'DOMAIN-SUFFIX,new-aaid.umeng.com'
   - 'DOMAIN-SUFFIX,new-aaid.umeng.com.gds.alibabadns.com'

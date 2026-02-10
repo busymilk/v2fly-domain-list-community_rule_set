@@ -431,6 +431,8 @@ payload:
   - 'DOMAIN-SUFFIX,ledu.com'
   - 'DOMAIN-SUFFIX,legendofzelda.cn'
   - 'DOMAIN-SUFFIX,legendofzelda.com.cn'
+  - 'DOMAIN-SUFFIX,log-upload-os.hoyoverse.com'
+  - 'DOMAIN-SUFFIX,log-upload.mihoyo.com'
   - 'DOMAIN-SUFFIX,lol-europe.com'
   - 'DOMAIN-SUFFIX,lolclub.org'
   - 'DOMAIN-SUFFIX,lolespor.com'

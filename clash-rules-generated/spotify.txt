@@ -1,7 +1,10 @@
 payload:
   - 'DOMAIN-SUFFIX,byspotify.com'
+  - 'DOMAIN,adeventtracker.spotify.com'
+  - 'DOMAIN,adstudio-assets.scdn.co'
   - 'DOMAIN,audio-ak-spotify-com.akamaized.net'
   - 'DOMAIN,audio4-ak-spotify-com.akamaized.net'
+  - 'DOMAIN,bloodhound.spotify.com'
   - 'DOMAIN,cdn-spotify-experiments.conductrics.com'
   - 'DOMAIN,heads-ak-spotify-com.akamaized.net'
   - 'DOMAIN,heads4-ak-spotify-com.akamaized.net'

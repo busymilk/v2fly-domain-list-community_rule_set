@@ -1,4 +1,6 @@
 payload:
+  - 'DOMAIN-SUFFIX,ads.uc.cn'
+  - 'DOMAIN-SUFFIX,adslot.uc.cn'
   - 'DOMAIN-SUFFIX,uc.cn'
   - 'DOMAIN-SUFFIX,uc123.com'
   - 'DOMAIN-SUFFIX,ucweb.com'

@@ -1,4 +1,6 @@
 payload:
+  - 'DOMAIN-SUFFIX,browser.events.data.msn.cn'
+  - 'DOMAIN-SUFFIX,browser.events.data.msn.com'
   - 'DOMAIN-SUFFIX,microsoftnews.cc'
   - 'DOMAIN-SUFFIX,microsoftnews.cn'
   - 'DOMAIN-SUFFIX,microsoftnews.com'
