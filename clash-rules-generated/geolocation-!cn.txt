@@ -20738,6 +20738,7 @@ payload:
   - 'DOMAIN-SUFFIX,tomibank.co.jp'
   - 'DOMAIN-SUFFIX,tomonews.net'
   - 'DOMAIN-SUFFIX,tomsguide.com'
+  - 'DOMAIN-SUFFIX,ton.org'
   - 'DOMAIN-SUFFIX,tonec.com'
   - 'DOMAIN-SUFFIX,tonicmovies.com'
   - 'DOMAIN-SUFFIX,toolforge.org'

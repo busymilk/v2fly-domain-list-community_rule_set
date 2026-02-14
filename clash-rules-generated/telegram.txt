@@ -16,5 +16,6 @@ payload:
   - 'DOMAIN-SUFFIX,telegram.space'
   - 'DOMAIN-SUFFIX,telesco.pe'
   - 'DOMAIN-SUFFIX,tg.dev'
+  - 'DOMAIN-SUFFIX,ton.org'
   - 'DOMAIN-SUFFIX,tx.me'
   - 'DOMAIN-SUFFIX,usercontent.dev'
