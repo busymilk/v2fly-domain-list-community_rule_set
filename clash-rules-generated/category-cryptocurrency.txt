@@ -38,6 +38,7 @@ payload:
   - 'DOMAIN-SUFFIX,bisq.network'
   - 'DOMAIN-SUFFIX,bitbank.cc'
   - 'DOMAIN-SUFFIX,bitcoin.org'
+  - 'DOMAIN-SUFFIX,bitcoincore.org'
   - 'DOMAIN-SUFFIX,bitfinex.com'
   - 'DOMAIN-SUFFIX,bitflyer.com'
   - 'DOMAIN-SUFFIX,bitflyer.jp'

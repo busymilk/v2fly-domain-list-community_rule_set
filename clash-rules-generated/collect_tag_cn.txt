@@ -1166,6 +1166,7 @@ payload:
 - 'DOMAIN-SUFFIX,yahoo.com.cn'
 - 'DOMAIN-SUFFIX,yamaxun.cn'
 - 'DOMAIN-SUFFIX,yeshen.com'
+- 'DOMAIN-SUFFIX,yostar.cn'
 - 'DOMAIN-SUFFIX,z.cn'
 - |
     .+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
