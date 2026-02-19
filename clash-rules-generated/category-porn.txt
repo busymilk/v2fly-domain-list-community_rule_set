@@ -2355,6 +2355,8 @@ payload:
   - 'DOMAIN-SUFFIX,hegre.com'
   - 'DOMAIN-SUFFIX,heiguab.top'
   - 'DOMAIN-SUFFIX,heijidi.life'
+  - 'DOMAIN-SUFFIX,heiliao.com'
+  - 'DOMAIN-SUFFIX,heiliao88.com'
   - 'DOMAIN-SUFFIX,heise360181.buzz'
   - 'DOMAIN-SUFFIX,heise360182.buzz'
   - 'DOMAIN-SUFFIX,helixstudios.net'
@@ -3615,6 +3617,7 @@ payload:
   - 'DOMAIN-SUFFIX,miohentai.com'
   - 'DOMAIN-SUFFIX,missav.ai'
   - 'DOMAIN-SUFFIX,missav.com'
+  - 'DOMAIN-SUFFIX,missav.live'
   - 'DOMAIN-SUFFIX,missav.uno'
   - 'DOMAIN-SUFFIX,missav.vip'
   - 'DOMAIN-SUFFIX,missav.ws'
@@ -4933,6 +4936,8 @@ payload:
     (^|\.)ttghg[1-9][0-9]\.xyz$
   - |
     (^|\.)tttv([1-9][0-9]?|100)\.com$
+  - |
+    (^|\.)twav[1-9]\.xyz$
   - |
     (^|\.)twseb([1-9][0-9]?)?\.com$
   - |

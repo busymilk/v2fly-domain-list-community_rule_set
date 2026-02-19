@@ -1,4 +1,6 @@
 payload:
+  - 'DOMAIN-SUFFIX,avito.ru'
+  - 'DOMAIN-SUFFIX,avito.st'
   - 'DOMAIN-SUFFIX,geobasket.ru'
   - 'DOMAIN-SUFFIX,ozon.ru'
   - 'DOMAIN-SUFFIX,ozone.ru'
