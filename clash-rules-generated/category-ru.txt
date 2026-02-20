@@ -400,6 +400,7 @@ payload:
   - 'DOMAIN-SUFFIX,yandexwebcache.org'
   - 'DOMAIN-SUFFIX,yaroslavl.ru'
   - 'DOMAIN-SUFFIX,yastat.net'
+  - 'DOMAIN-SUFFIX,yastatic-net.ru'
   - 'DOMAIN-SUFFIX,yastatic.net'
   - 'DOMAIN-SUFFIX,yota.ru'
   - 'DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru'

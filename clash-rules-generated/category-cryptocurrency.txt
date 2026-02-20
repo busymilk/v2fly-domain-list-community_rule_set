@@ -48,6 +48,7 @@ payload:
   - 'DOMAIN-SUFFIX,bitsquare.io'
   - 'DOMAIN-SUFFIX,bitstamp.net'
   - 'DOMAIN-SUFFIX,bittrex.com'
+  - 'DOMAIN-SUFFIX,blockchain.com'
   - 'DOMAIN-SUFFIX,blockfrost.io'
   - 'DOMAIN-SUFFIX,bnbstatic.com'
   - 'DOMAIN-SUFFIX,bntrace.com'
