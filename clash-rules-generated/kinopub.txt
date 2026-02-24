@@ -10,3 +10,4 @@ payload:
   - 'DOMAIN-SUFFIX,pushbr.com'
   - |
     (\w+)-static-[0-9]+\.cdntogo\.net$
+  - 'DOMAIN-SUFFIX,smarttvcdn.online'
