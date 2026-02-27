@@ -51,4 +51,5 @@ payload:
   - 'DOMAIN-SUFFIX,weibo.com'
   - 'DOMAIN-SUFFIX,weibo.com.cn'
   - 'DOMAIN-SUFFIX,weibocdn.com'
+  - 'DOMAIN-SUFFIX,weibopay.com'
   - 'DOMAIN-SUFFIX,xhaiwai.com'
