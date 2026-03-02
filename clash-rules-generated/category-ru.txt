@@ -143,6 +143,7 @@ payload:
   - 'DOMAIN-SUFFIX,meteoinfo.ru'
   - 'DOMAIN-SUFFIX,metro-cc.ru'
   - 'DOMAIN-SUFFIX,mgfoms.ru'
+  - 'DOMAIN-SUFFIX,mil.ru'
   - 'DOMAIN-SUFFIX,mirpayonline.ru'
   - 'DOMAIN-SUFFIX,mnogolososya.ru'
   - 'DOMAIN-SUFFIX,moex.com'
