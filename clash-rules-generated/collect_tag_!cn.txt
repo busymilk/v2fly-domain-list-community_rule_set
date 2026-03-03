@@ -259,6 +259,7 @@ payload:
 - 'DOMAIN-SUFFIX,torrentleech.org'
 - 'DOMAIN-SUFFIX,trae.ai'
 - 'DOMAIN-SUFFIX,trip.com'
+- 'DOMAIN-SUFFIX,ttcdn-us.com'
 - 'DOMAIN-SUFFIX,ttlivecdn.com'
 - 'DOMAIN-SUFFIX,ttoverseaus.net'
 - 'DOMAIN-SUFFIX,ttwstatic.com'
