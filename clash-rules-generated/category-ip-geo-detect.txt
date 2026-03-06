@@ -10,6 +10,7 @@ payload:
   - 'DOMAIN-SUFFIX,fraudguard.io'
   - 'DOMAIN-SUFFIX,freegeoip.app'
   - 'DOMAIN-SUFFIX,freeipapi.com'
+  - 'DOMAIN,checkip.amazonaws.com'
   - 'DOMAIN-SUFFIX,geoplugin.net'
   - 'DOMAIN-SUFFIX,getipintel.net'
   - 'DOMAIN-SUFFIX,ifconfig.co'

@@ -5,5 +5,8 @@ payload:
   - 'DOMAIN-SUFFIX,apkpure.net'
   - 'DOMAIN-SUFFIX,apkpures.xyz'
   - 'DOMAIN-SUFFIX,cdnpure.com'
+  - 'DOMAIN,apkmirror.disqus.com'
   - 'DOMAIN-SUFFIX,pureapk.com'
+  - 'DOMAIN-SUFFIX,uptodown.com'
+  - 'DOMAIN-SUFFIX,utdstc.com'
   - 'DOMAIN-SUFFIX,winudf.com'
