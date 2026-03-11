@@ -45,5 +45,6 @@ payload:
   - 'DOMAIN-SUFFIX,ydstatic.com'
   - 'DOMAIN-SUFFIX,yeah.net'
   - 'DOMAIN-SUFFIX,youdao.com'
+  - 'DOMAIN-SUFFIX,yunxindns.com'
   - 'DOMAIN-SUFFIX,yunxinfw.com'
   - 'DOMAIN-SUFFIX,zhuanzfx.com'
