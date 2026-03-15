@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN,cn.download.nvidia.com'
+  - 'DOMAIN,nvidia.custhelp.com'
   - 'DOMAIN,nvidia.tt.omtrdc.net'
   - 'DOMAIN-SUFFIX,geforce.cn'
   - 'DOMAIN-SUFFIX,geforce.co.kr'

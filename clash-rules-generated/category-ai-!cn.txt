@@ -121,6 +121,7 @@ payload:
     ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - 'DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,sora.com'
+  - 'DOMAIN-SUFFIX,spicywriter.com'
   - 'DOMAIN-SUFFIX,trae.ai'
   - 'DOMAIN-SUFFIX,turn.livekit.cloud'
   - 'DOMAIN-SUFFIX,windsurf.build'
