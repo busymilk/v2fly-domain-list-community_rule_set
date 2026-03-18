@@ -1796,6 +1796,7 @@ payload:
   - 'DOMAIN-SUFFIX,gzctyiptv.cn'
   - 'DOMAIN-SUFFIX,gzurl.cn'
   - 'DOMAIN-SUFFIX,gzwanju.com'
+  - 'DOMAIN-SUFFIX,gzyowin.com'
   - 'DOMAIN-SUFFIX,h-adashx.ut.youku.com'
   - 'DOMAIN-SUFFIX,h2tcbox.baidu.com'
   - 'DOMAIN-SUFFIX,h5uc.com'
