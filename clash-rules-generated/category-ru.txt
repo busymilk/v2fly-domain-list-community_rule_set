@@ -24,6 +24,7 @@ payload:
   - 'DOMAIN-SUFFIX,bankline.ru'
   - 'DOMAIN-SUFFIX,bashkiria.ru'
   - 'DOMAIN-SUFFIX,beeline.ru'
+  - 'DOMAIN-SUFFIX,beeline.tv'
   - 'DOMAIN-SUFFIX,belgorod.ru'
   - 'DOMAIN-SUFFIX,bir.ru'
   - 'DOMAIN-SUFFIX,blablacar.ru'
