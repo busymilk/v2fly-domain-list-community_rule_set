@@ -116,6 +116,7 @@ payload:
   - 'DOMAIN-SUFFIX,beforeigners.com'
   - 'DOMAIN-SUFFIX,bejeweledstars.com'
   - 'DOMAIN-SUFFIX,bejewled-stars.com'
+  - 'DOMAIN-SUFFIX,bestdori.com'
   - 'DOMAIN-SUFFIX,beth.games'
   - 'DOMAIN-SUFFIX,bethesda.net'
   - 'DOMAIN-SUFFIX,bethesdagamestudios.com'
