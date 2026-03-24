@@ -4048,7 +4048,6 @@ payload:
   - 'DOMAIN-SUFFIX,xiaokaxiu.com'
   - 'DOMAIN-SUFFIX,xiaoluyouxuan.com'
   - 'DOMAIN-SUFFIX,xiaoluzhidian.com'
-  - 'DOMAIN-SUFFIX,xiaomiflash.com'
   - 'DOMAIN-SUFFIX,xiaomimimo.com'
   - 'DOMAIN-SUFFIX,xiaomingtaiji.com'
   - 'DOMAIN-SUFFIX,xiaopeng.com'
