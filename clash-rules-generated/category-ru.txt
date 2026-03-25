@@ -264,6 +264,8 @@ payload:
   - 'DOMAIN-SUFFIX,tbank-online.com'
   - 'DOMAIN-SUFFIX,tbank.ru'
   - 'DOMAIN-SUFFIX,tele2.ru'
+  - 'DOMAIN-SUFFIX,telega.info'
+  - 'DOMAIN-SUFFIX,telega.me'
   - 'DOMAIN-SUFFIX,tips.tips'
   - 'DOMAIN-SUFFIX,tochka-tech.com'
   - 'DOMAIN-SUFFIX,tochka.com'

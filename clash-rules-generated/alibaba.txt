@@ -374,6 +374,7 @@ payload:
   - 'DOMAIN-SUFFIX,v6-adashx.ut.youku.com'
   - 'DOMAIN-SUFFIX,w.cnzz.com'
   - 'DOMAIN-SUFFIX,wandoujia.com'
+  - 'DOMAIN-SUFFIX,wdjimg.com'
   - 'DOMAIN-SUFFIX,whalecloud.com'
   - 'DOMAIN-SUFFIX,xiami.com'
   - 'DOMAIN-SUFFIX,xiami.fm'

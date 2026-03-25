@@ -18,6 +18,8 @@ payload:
   - 'DOMAIN-SUFFIX,okcdn.ru'
   - 'DOMAIN-SUFFIX,oneme.ru'
   - 'DOMAIN-SUFFIX,tamtam.chat'
+  - 'DOMAIN-SUFFIX,telega.info'
+  - 'DOMAIN-SUFFIX,telega.me'
   - 'DOMAIN-SUFFIX,userapi.com'
   - 'DOMAIN-SUFFIX,vk-analytics.ru'
   - 'DOMAIN-SUFFIX,vk-apps.com'

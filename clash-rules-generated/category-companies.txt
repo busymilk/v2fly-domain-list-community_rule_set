@@ -6861,6 +6861,8 @@ payload:
   - 'DOMAIN-SUFFIX,tegrazone.com'
   - 'DOMAIN-SUFFIX,tegrazone.jp'
   - 'DOMAIN-SUFFIX,tegrazone.kr'
+  - 'DOMAIN-SUFFIX,telega.info'
+  - 'DOMAIN-SUFFIX,telega.me'
   - 'DOMAIN-SUFFIX,tellmewhygame.com'
   - 'DOMAIN-SUFFIX,tenbyfotolia.com'
   - 'DOMAIN-SUFFIX,tensorflow.org'
