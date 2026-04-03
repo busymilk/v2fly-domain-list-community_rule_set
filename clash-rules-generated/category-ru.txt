@@ -37,6 +37,7 @@ payload:
   - 'DOMAIN-SUFFIX,cdn-tinkoff.ru'
   - 'DOMAIN-SUFFIX,cdn-vk.ru'
   - 'DOMAIN-SUFFIX,cdnvideo.ru'
+  - 'DOMAIN-SUFFIX,cdnvideohub.com'
   - 'DOMAIN-SUFFIX,chel.ru'
   - 'DOMAIN-SUFFIX,chelyabinsk.ru'
   - 'DOMAIN-SUFFIX,chita.ru'

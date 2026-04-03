@@ -3,6 +3,7 @@ payload:
   - 'DOMAIN-SUFFIX,amediateka.ru'
   - 'DOMAIN-SUFFIX,beeline.tv'
   - 'DOMAIN-SUFFIX,cdnvideo.ru'
+  - 'DOMAIN-SUFFIX,cdnvideohub.com'
   - 'DOMAIN-SUFFIX,ivi.ru'
   - 'DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net'
   - 'DOMAIN-SUFFIX,kinopoisk.ru'
