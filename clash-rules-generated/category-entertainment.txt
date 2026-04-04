@@ -643,6 +643,7 @@ payload:
   - 'DOMAIN,vod-abematv.akamaized.net'
   - 'DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com'
   - 'DOMAIN,weblive-hamivideo.cdn.hinet.net'
+  - 'DOMAIN,ws.audioscrobbler.com'
   - 'DOMAIN,www4-static.gog-statics.com'
   - 'DOMAIN,xz.pphimalayanrt.com'
   - 'DOMAIN,yt3.googleusercontent.com'

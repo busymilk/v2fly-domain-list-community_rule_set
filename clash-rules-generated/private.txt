@@ -126,7 +126,6 @@ payload:
   - 'DOMAIN-SUFFIX,router.ctc'
   - 'DOMAIN-SUFFIX,tendawifi.com'
   - 'DOMAIN-SUFFIX,test'
-  - 'DOMAIN-SUFFIX,test.steampowered.com'
   - 'DOMAIN-SUFFIX,tplinkwifi.net'
   - 'DOMAIN-SUFFIX,ts.net'
   - 'DOMAIN-SUFFIX,zte.home'
