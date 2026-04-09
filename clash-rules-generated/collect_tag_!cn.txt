@@ -17,6 +17,8 @@ payload:
 - 'DOMAIN,upos-hz-mirrorakam.akamaized.net'
 - 'DOMAIN,wetv.qq.com'
 - 'DOMAIN-SUFFIX,ae-rus.net'
+- 'DOMAIN-SUFFIX,aedns.ru'
+- 'DOMAIN-SUFFIX,aeplatform.ru'
 - 'DOMAIN-SUFFIX,aestatic.net'
 - 'DOMAIN-SUFFIX,ak-p.tripcdn.com'
 - 'DOMAIN-SUFFIX,ak-s-cw.tripcdn.com'
