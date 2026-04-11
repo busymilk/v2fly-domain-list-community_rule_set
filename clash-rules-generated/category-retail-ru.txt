@@ -1,6 +1,7 @@
 payload:
   - 'DOMAIN-SUFFIX,5ka.ru'
   - 'DOMAIN-SUFFIX,5post.market'
+  - 'DOMAIN-SUFFIX,abonementx5.ru'
   - 'DOMAIN-SUFFIX,auchan.ru'
   - 'DOMAIN-SUFFIX,av.ru'
   - 'DOMAIN-SUFFIX,bristol.ru'
@@ -14,6 +15,8 @@ payload:
   - 'DOMAIN-SUFFIX,dodopizza.com'
   - 'DOMAIN-SUFFIX,dodopizza.ru'
   - 'DOMAIN-SUFFIX,dodostatic.net'
+  - 'DOMAIN-SUFFIX,ads.x5media.ru'
+  - 'DOMAIN-SUFFIX,sentry.x5.ru'
   - 'DOMAIN-SUFFIX,dostaevsky.ru'
   - 'DOMAIN-SUFFIX,e5.ru'
   - 'DOMAIN-SUFFIX,evrasia.rest'
