@@ -73,6 +73,8 @@ payload:
   - 'DOMAIN-SUFFIX,cztv.com'
   - 'DOMAIN-SUFFIX,cztvcdn.com'
   - 'DOMAIN-SUFFIX,cztvcloud.com'
+  - 'DOMAIN-SUFFIX,daheapp.com'
+  - 'DOMAIN-SUFFIX,dahebao.cn'
   - 'DOMAIN-SUFFIX,danjuanfunds.com'
   - 'DOMAIN-SUFFIX,dgtle.com'
   - 'DOMAIN-SUFFIX,dianzhenkeji.com'
