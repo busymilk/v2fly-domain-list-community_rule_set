@@ -23,6 +23,8 @@ payload:
   - 'DOMAIN-SUFFIX,dcard.tw'
   - 'DOMAIN-SUFFIX,deepflood.com'
   - 'DOMAIN-SUFFIX,disp.cc'
+  - 'DOMAIN-SUFFIX,log.dzen.ru'
+  - 'DOMAIN-SUFFIX,ms.dzen.ru'
   - 'DOMAIN-SUFFIX,doom9.org'
   - 'DOMAIN-SUFFIX,dslr.net'
   - 'DOMAIN-SUFFIX,dslreports.com'
