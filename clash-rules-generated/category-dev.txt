@@ -22,6 +22,7 @@ payload:
   - 'DOMAIN-SUFFIX,apple-cloudkit.com'
   - 'DOMAIN-SUFFIX,apple-mapkit.com'
   - 'DOMAIN-SUFFIX,appleswift.com'
+  - 'DOMAIN-SUFFIX,archlinux.de'
   - 'DOMAIN-SUFFIX,archlinux.org'
   - 'DOMAIN-SUFFIX,archlinuxarm.org'
   - 'DOMAIN-SUFFIX,archlinuxcn.org'
