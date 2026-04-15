@@ -333,6 +333,7 @@ payload:
   - 'DOMAIN-SUFFIX,alivevmax.com'
   - 'DOMAIN-SUFFIX,alivevue.com'
   - 'DOMAIN-SUFFIX,alphassl.com'
+  - 'DOMAIN-SUFFIX,alt-ad.mail.ru'
   - 'DOMAIN-SUFFIX,altera.co.jp'
   - 'DOMAIN-SUFFIX,altera.com'
   - 'DOMAIN-SUFFIX,alteraforum.com'

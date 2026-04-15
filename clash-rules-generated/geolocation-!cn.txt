@@ -1377,6 +1377,7 @@ payload:
   - 'DOMAIN-SUFFIX,alpherafs.in'
   - 'DOMAIN-SUFFIX,alpherafs.my'
   - 'DOMAIN-SUFFIX,alpinelinux.org'
+  - 'DOMAIN-SUFFIX,alt-ad.mail.ru'
   - 'DOMAIN-SUFFIX,alt.com'
   - 'DOMAIN-SUFFIX,altera.co.jp'
   - 'DOMAIN-SUFFIX,altera.com'
