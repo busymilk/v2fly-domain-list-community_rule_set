@@ -125,6 +125,7 @@ payload:
   - 'DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com'
   - 'DOMAIN-SUFFIX,sora.com'
   - 'DOMAIN-SUFFIX,spicywriter.com'
+  - 'DOMAIN-SUFFIX,stitch.withgoogle.com'
   - 'DOMAIN-SUFFIX,themeforest.net'
   - 'DOMAIN-SUFFIX,trae.ai'
   - 'DOMAIN-SUFFIX,turn.livekit.cloud'

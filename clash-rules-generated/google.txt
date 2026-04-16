@@ -903,6 +903,7 @@ payload:
   - 'DOMAIN-SUFFIX,stadia.dev'
   - 'DOMAIN-SUFFIX,stcroixmosquito.com'
   - 'DOMAIN-SUFFIX,stcroixmosquitoproject.com'
+  - 'DOMAIN-SUFFIX,stitch.withgoogle.com'
   - 'DOMAIN-SUFFIX,studywatchbyverily.com'
   - 'DOMAIN-SUFFIX,studywatchbyverily.org'
   - 'DOMAIN-SUFFIX,stxmosquito.com'
