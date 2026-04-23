@@ -246,6 +246,7 @@ payload:
   - 'DOMAIN-SUFFIX,ai-robotics.gmo'
   - 'DOMAIN-SUFFIX,ai-web3.gmo'
   - 'DOMAIN-SUFFIX,ai.studio'
+  - 'DOMAIN-SUFFIX,aicode.googleapis.com'
   - 'DOMAIN-SUFFIX,aida.googleapis.com'
   - 'DOMAIN-SUFFIX,air-watch.com'
   - 'DOMAIN-SUFFIX,airgonetworks.com'
