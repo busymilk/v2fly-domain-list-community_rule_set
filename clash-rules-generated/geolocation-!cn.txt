@@ -9789,6 +9789,7 @@ payload:
   - 'DOMAIN,ubistatic8-a.akamaihd.net'
   - 'DOMAIN,ubistatic9-a.akamaihd.net'
   - 'DOMAIN,ulrichsweb.serialssolutions.com'
+  - 'DOMAIN,universal-activity-service.itunes.apple.com'
   - 'DOMAIN,update.crashlytics.com'
   - 'DOMAIN,update.googleapis.com'
   - 'DOMAIN,updates-http.cdn-apple.com'
