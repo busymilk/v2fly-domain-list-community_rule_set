@@ -9751,6 +9751,7 @@ payload:
   - 'DOMAIN,time5.facebook.com'
   - 'DOMAIN,tj-pod1-smp-device.apple.com'
   - 'DOMAIN,tmdb-image-prod.b-cdn.net'
+  - 'DOMAIN,tmdb-web-image-prod.b-cdn.net'
   - 'DOMAIN,tools.google.com'
   - 'DOMAIN,tools.l.google.com'
   - 'DOMAIN,top-staging.mail.ru'
