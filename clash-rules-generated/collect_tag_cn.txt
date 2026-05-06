@@ -910,6 +910,7 @@ payload:
 - 'DOMAIN-SUFFIX,insidear.cn'
 - 'DOMAIN-SUFFIX,intel.cn'
 - 'DOMAIN-SUFFIX,iphone-8.com.cn'
+- 'DOMAIN-SUFFIX,ipify.cn'
 - 'DOMAIN-SUFFIX,iplark.com'
 - 'DOMAIN-SUFFIX,ipod.com.cn'
 - 'DOMAIN-SUFFIX,ipw.cn'
