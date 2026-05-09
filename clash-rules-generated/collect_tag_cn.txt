@@ -956,6 +956,7 @@ payload:
 - 'DOMAIN-SUFFIX,mastercard.com.cn'
 - 'DOMAIN-SUFFIX,mcchcdn.com'
 - 'DOMAIN-SUFFIX,mcd.cn'
+- 'DOMAIN-SUFFIX,mcdchina.net'
 - 'DOMAIN-SUFFIX,mcdonalds.com.cn'
 - 'DOMAIN-SUFFIX,meadjohnson.com.cn'
 - 'DOMAIN-SUFFIX,mgmt-azure-api.cn'
