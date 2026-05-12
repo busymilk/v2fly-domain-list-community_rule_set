@@ -229,6 +229,7 @@ payload:
   - 'DOMAIN-SUFFIX,wetvinfo.com'
   - 'DOMAIN-SUFFIX,weui.io'
   - 'DOMAIN-SUFFIX,wit.qq.com'
+  - 'DOMAIN-SUFFIX,wting.info'
   - 'DOMAIN-SUFFIX,wxcloudrun.com'
   - 'DOMAIN-SUFFIX,wxgateway.com'
   - 'DOMAIN-SUFFIX,wxlivecdn.com'
