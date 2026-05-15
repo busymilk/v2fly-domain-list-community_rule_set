@@ -45,6 +45,7 @@ payload:
   - 'DOMAIN-SUFFIX,liblib.art'
   - 'DOMAIN-SUFFIX,liblib.cloud'
   - 'DOMAIN-SUFFIX,liblib.tv'
+  - 'DOMAIN-SUFFIX,linka2a.net'
   - 'DOMAIN-SUFFIX,maoxiangai.com'
   - 'DOMAIN-SUFFIX,meta.law'
   - 'DOMAIN-SUFFIX,metaso.cn'

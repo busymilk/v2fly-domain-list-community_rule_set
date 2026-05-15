@@ -868,6 +868,7 @@ payload:
 - 'DOMAIN-SUFFIX,financialsoccer.com.cn'
 - 'DOMAIN-SUFFIX,finish.com.cn'
 - 'DOMAIN-SUFFIX,frontrow.com.cn'
+- 'DOMAIN-SUFFIX,fussengroup.com'
 - 'DOMAIN-SUFFIX,futuesop.com'
 - 'DOMAIN-SUFFIX,futuniuniu.com'
 - 'DOMAIN-SUFFIX,futunn.com'
