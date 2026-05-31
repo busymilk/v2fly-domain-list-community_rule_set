@@ -14,6 +14,7 @@ payload:
   - 'DOMAIN-SUFFIX,firefox.com'
   - 'DOMAIN-SUFFIX,firefoxusercontent.com'
   - 'DOMAIN-SUFFIX,floorp.app'
+  - 'DOMAIN,mozilla-ohttp.fastly-edge.com'
   - 'DOMAIN-SUFFIX,iridiumbrowser.de'
   - 'DOMAIN-SUFFIX,kiwibrowser.com'
   - 'DOMAIN-SUFFIX,kmeleonbrowser.org'

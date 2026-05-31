@@ -10,6 +10,7 @@ payload:
   - 'DOMAIN,incoming-telemetry.thunderbird.net'
   - 'DOMAIN,incoming.telemetry.mozilla.org'
   - 'DOMAIN,mdn.mozillademos.org'
+  - 'DOMAIN,mozilla-ohttp.fastly-edge.com'
   - 'DOMAIN-SUFFIX,getpocket.com'
   - 'DOMAIN-SUFFIX,mdn.allizom.net'
   - 'DOMAIN-SUFFIX,mdn.dev'
