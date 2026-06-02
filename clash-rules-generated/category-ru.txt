@@ -42,6 +42,7 @@ payload:
   - 'DOMAIN-SUFFIX,adv.yandex.com'
   - 'DOMAIN-SUFFIX,adv.yandex.ru'
   - 'DOMAIN-SUFFIX,adygeya.ru'
+  - 'DOMAIN-SUFFIX,adygtelecom.com'
   - 'DOMAIN-SUFFIX,afisha.ru'
   - 'DOMAIN-SUFFIX,akbars.ru'
   - 'DOMAIN-SUFFIX,alefbank.com'

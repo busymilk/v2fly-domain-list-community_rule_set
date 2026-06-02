@@ -31,6 +31,7 @@ payload:
   - 'DOMAIN-SUFFIX,datasea.cn'
   - 'DOMAIN-SUFFIX,dengguobi.com'
   - 'DOMAIN-SUFFIX,devui.design'
+  - 'DOMAIN-SUFFIX,ejoy.com'
   - 'DOMAIN-SUFFIX,frontjs.com'
   - 'DOMAIN,p1-juejin.byteimg.com'
   - 'DOMAIN,p2-juejin.byteimg.com'
