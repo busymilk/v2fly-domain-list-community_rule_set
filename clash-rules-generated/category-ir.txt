@@ -187,6 +187,7 @@ payload:
   - 'DOMAIN-SUFFIX,learnby.ir'
   - 'DOMAIN-SUFFIX,loxblog.com'
   - 'DOMAIN-SUFFIX,mahex.com'
+  - 'DOMAIN-SUFFIX,maktabkhooneh.org'
   - 'DOMAIN-SUFFIX,mardomsalari.ir'
   - 'DOMAIN-SUFFIX,mashreghnews.ir'
   - 'DOMAIN-SUFFIX,maskanbourse.com'
