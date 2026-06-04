@@ -273,3 +273,5 @@ payload:
 - 'DOMAIN-SUFFIX,webnovel.com'
 - 'DOMAIN-SUFFIX,wetv.vip'
 - 'DOMAIN-SUFFIX,wetvinfo.com'
+- 'DOMAIN-SUFFIX,youku.tv'
+- 'DOMAIN-SUFFIX,youkuplay.com'

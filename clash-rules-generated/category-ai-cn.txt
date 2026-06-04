@@ -82,6 +82,7 @@ payload:
   - 'DOMAIN-SUFFIX,xinghuo.xfyun.cn'
   - 'DOMAIN-SUFFIX,xingyeai.com'
   - 'DOMAIN-SUFFIX,yiyan.baidu.com'
+  - 'DOMAIN-SUFFIX,yuanbao.tencent.com'
   - 'DOMAIN-SUFFIX,yuanqi.tencent.com'
   - 'DOMAIN-SUFFIX,z.ai'
   - 'DOMAIN-SUFFIX,zhiexa.com'
