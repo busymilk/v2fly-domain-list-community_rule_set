@@ -30,6 +30,7 @@ payload:
   - 'DOMAIN-SUFFIX,dzeninfra.ru'
   - 'DOMAIN-SUFFIX,eyny.com'
   - 'DOMAIN,bbs.boingboing.net'
+  - 'DOMAIN,www.quora.com.cdn.cloudflare.net'
   - 'DOMAIN-SUFFIX,gab.com'
   - 'DOMAIN-SUFFIX,habr.com'
   - 'DOMAIN-SUFFIX,habrastorage.org'
