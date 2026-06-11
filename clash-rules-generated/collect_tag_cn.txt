@@ -1,5 +1,4 @@
 payload:
-- 'DOMAIN,265.com'
 - 'DOMAIN,2mdn-cn.net'
 - 'DOMAIN,2mdn.net'
 - 'DOMAIN,a1.mzstatic.com'
@@ -558,6 +557,7 @@ payload:
 - 'DOMAIN,www.microsoft.com'
 - 'DOMAIN,www.pxcc.com'
 - 'DOMAIN,www.qualcomm.cn'
+- 'DOMAIN,www.recaptcha-cn.net'
 - 'DOMAIN,www.recaptcha.net'
 - 'DOMAIN,www.support.apple.com'
 - 'DOMAIN,www4-static.gog-statics.com'
@@ -567,6 +567,7 @@ payload:
 - 'DOMAIN-SUFFIX,21vbc.com'
 - 'DOMAIN-SUFFIX,21vbluecloud.com'
 - 'DOMAIN-SUFFIX,21vbluecloud.net'
+- 'DOMAIN-SUFFIX,265.com'
 - 'DOMAIN-SUFFIX,4008-517-517.cn'
 - 'DOMAIN-SUFFIX,a2z.org.cn'
 - 'DOMAIN-SUFFIX,aadrm.cn'
