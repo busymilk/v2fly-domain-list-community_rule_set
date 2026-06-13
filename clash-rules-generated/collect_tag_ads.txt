@@ -550,6 +550,7 @@ payload:
 - 'DOMAIN-SUFFIX,ja2.gamersky.com'
 - 'DOMAIN-SUFFIX,jzt.jd.com'
 - 'DOMAIN-SUFFIX,kuaishou.httpdns.pro'
+- 'DOMAIN-SUFFIX,kurogames-ads.com'
 - 'DOMAIN-SUFFIX,ladsp.com'
 - 'DOMAIN-SUFFIX,lianmeng.360.cn'
 - 'DOMAIN-SUFFIX,lijit.com'
