@@ -6480,8 +6480,10 @@ payload:
   - 'DOMAIN-SUFFIX,nginxconfig.io'
   - 'DOMAIN-SUFFIX,nheos.com'
   - 'DOMAIN-SUFFIX,nhncorp.jp'
+  - 'DOMAIN-SUFFIX,nic.ru'
   - 'DOMAIN-SUFFIX,nicesrv.de'
   - 'DOMAIN-SUFFIX,nicesshop.net'
+  - 'DOMAIN-SUFFIX,nichost.ru'
   - 'DOMAIN-SUFFIX,niosii.com'
   - 'DOMAIN-SUFFIX,niosii.net'
   - 'DOMAIN-SUFFIX,nomachine.com'
@@ -6949,6 +6951,7 @@ payload:
   - 'DOMAIN-SUFFIX,qwapi.com'
   - 'DOMAIN-SUFFIX,r.bing.com'
   - 'DOMAIN-SUFFIX,r.mail.ru'
+  - 'DOMAIN-SUFFIX,r01.ru'
   - 'DOMAIN-SUFFIX,rabbitcounter.com'
   - 'DOMAIN-SUFFIX,rabota.by'
   - 'DOMAIN-SUFFIX,radar.imgsmail.ru'
@@ -6984,6 +6987,9 @@ payload:
   - 'DOMAIN-SUFFIX,redtubepremium.com'
   - 'DOMAIN-SUFFIX,redzonechannel.com'
   - 'DOMAIN-SUFFIX,reform-apple.com'
+  - 'DOMAIN-SUFFIX,reg.cloud'
+  - 'DOMAIN-SUFFIX,reg.com'
+  - 'DOMAIN-SUFFIX,reg.ru'
   - |
     .+\.awsdns-[0-9][0-9]\.(co\.uk|com|net|org)$
   - |
@@ -7459,6 +7465,7 @@ payload:
   - 'DOMAIN-SUFFIX,swcdn.apple.com'
   - 'DOMAIN-SUFFIX,swdist.apple.com'
   - 'DOMAIN-SUFFIX,swdownload.apple.com'
+  - 'DOMAIN-SUFFIX,sweb.ru'
   - 'DOMAIN-SUFFIX,swiss-machining.com'
   - 'DOMAIN-SUFFIX,swiss-turn.com'
   - 'DOMAIN-SUFFIX,swscan.apple.com'
