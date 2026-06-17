@@ -696,6 +696,7 @@ payload:
 - 'DOMAIN-SUFFIX,s.so.360.cn'
 - 'DOMAIN-SUFFIX,s.union.360.cn'
 - 'DOMAIN-SUFFIX,sa.sina.cn'
+- 'DOMAIN-SUFFIX,samsungadhub.com'
 - 'DOMAIN-SUFFIX,samsungads.com'
 - 'DOMAIN-SUFFIX,sbeacon.sina.com.cn'
 - 'DOMAIN-SUFFIX,sbermarketing.ru'
