@@ -9261,10 +9261,9 @@ payload:
   - 'DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com'
   - 'DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com'
   - 'DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com'
-  - 'DOMAIN,gog-cdn-fastly.gog.com'
+  - 'DOMAIN,gog-cdn-lumen.secure2.footprint.net'
   - 'DOMAIN,gog-cdn.akamaized.net'
   - 'DOMAIN,gog.qtlglb.com'
-  - 'DOMAIN,gogalaxy.gog-statics.com'
   - 'DOMAIN,gonglchuangl.net'
   - 'DOMAIN,gongyichuangyi.net'
   - 'DOMAIN,google-analytics-cn.com'
@@ -9438,7 +9437,6 @@ payload:
   - 'DOMAIN,mdr.ksn.kaspersky-labs.com'
   - 'DOMAIN,media-rockstargames-com.akamaized.net'
   - 'DOMAIN,medone-education.thieme.com'
-  - 'DOMAIN,menu-static.gog-statics.com'
   - 'DOMAIN,mesu-cdn.apple.com.akadns.net'
   - 'DOMAIN,mesu-china.apple.com.akadns.net'
   - 'DOMAIN,mesu.apple.com'
@@ -9596,7 +9594,6 @@ payload:
   - 'DOMAIN,prod-support.apple-support.akadns.net'
   - 'DOMAIN,prod.databe.floonet.goog'
   - 'DOMAIN,prodforza.blob.core.windows.net'
-  - 'DOMAIN,productcard.gog-statics.com'
   - 'DOMAIN,production-openaicom-storage.azureedge.net'
   - 'DOMAIN,productionresultssa0.blob.core.windows.net'
   - 'DOMAIN,productionresultssa1.blob.core.windows.net'
@@ -9840,7 +9837,6 @@ payload:
   - 'DOMAIN,standchartbank.sc.omtrdc.net'
   - 'DOMAIN,standchartbank.tt.omtrdc.net'
   - 'DOMAIN,static-hamivideo.cdn.hinet.net'
-  - 'DOMAIN,static-login.gog-statics.com'
   - 'DOMAIN,static.gc.apple.com'
   - 'DOMAIN,static.siege-amazon.com'
   - 'DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net'
@@ -10157,7 +10153,6 @@ payload:
   - 'DOMAIN,www.recaptcha-cn.net'
   - 'DOMAIN,www.recaptcha.net'
   - 'DOMAIN,www.support.apple.com'
-  - 'DOMAIN,www4-static.gog-statics.com'
   - 'DOMAIN,xapi.ozon.by'
   - 'DOMAIN,xapi.ozon.com'
   - 'DOMAIN,xapi.ozon.com.by'
@@ -19658,8 +19653,6 @@ payload:
   - |
     ^[0-9]+vod-adaptive\.akamaized\.net$
   - |
-    ^cdn-akamai-.+\.gog-services\.com$
-  - |
     ^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
   - |
     ^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
@@ -19670,11 +19663,7 @@ payload:
   - |
     ^ewcdn[0-9]+\.nowe\.com$
   - |
-    ^gog-cdn-.+\.footprint\.net$
-  - |
     ^hses[1-7]?\.akamaized\.net$
-  - |
-    ^images(-\d)?\.gog-statics\.com$
   - |
     ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - |
