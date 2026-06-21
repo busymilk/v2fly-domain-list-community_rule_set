@@ -114,7 +114,6 @@ payload:
 - 'DOMAIN-SUFFIX,dmhy.org'
 - 'DOMAIN-SUFFIX,dola.com'
 - 'DOMAIN-SUFFIX,dreamcast.hk'
-- 'DOMAIN-SUFFIX,dt.dbankcloud.ru'
 - 'DOMAIN-SUFFIX,easebar.com'
 - 'DOMAIN-SUFFIX,emsec.hk'
 - 'DOMAIN-SUFFIX,eu-frankfurt.tencentcos.cn'
