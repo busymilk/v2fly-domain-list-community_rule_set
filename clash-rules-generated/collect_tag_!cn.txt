@@ -184,6 +184,7 @@ payload:
 - 'DOMAIN-SUFFIX,jd.hk'
 - 'DOMAIN-SUFFIX,jd.id'
 - 'DOMAIN-SUFFIX,jd.ru'
+- 'DOMAIN-SUFFIX,kurogame-service.com'
 - 'DOMAIN-SUFFIX,kurogame.net'
 - 'DOMAIN-SUFFIX,kurogames.net'
 - 'DOMAIN-SUFFIX,m-team.cc'
