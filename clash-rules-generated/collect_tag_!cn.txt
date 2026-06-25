@@ -59,6 +59,7 @@ payload:
 - 'DOMAIN-SUFFIX,ap-singapore.tencentcos.cn'
 - 'DOMAIN-SUFFIX,ap-singapore.tencentcos.com'
 - 'DOMAIN-SUFFIX,ap-singapore.tencentcos.com.cn'
+- 'DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com'
 - 'DOMAIN-SUFFIX,ap-tokyo.tencentcos.cn'
 - 'DOMAIN-SUFFIX,ap-tokyo.tencentcos.com'
 - 'DOMAIN-SUFFIX,ap-tokyo.tencentcos.com.cn'
