@@ -886,6 +886,7 @@ payload:
 - 'DOMAIN-SUFFIX,homepod.cn'
 - 'DOMAIN-SUFFIX,hpstore.cn'
 - 'DOMAIN-SUFFIX,icloud-apple.cn'
+- 'DOMAIN-SUFFIX,icloud-content.com.cn'
 - 'DOMAIN-SUFFIX,icloud.cn'
 - 'DOMAIN-SUFFIX,icloud.com.cn'
 - 'DOMAIN-SUFFIX,icloud.net.cn'
