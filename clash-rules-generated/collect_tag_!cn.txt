@@ -265,6 +265,7 @@ payload:
 - 'DOMAIN-SUFFIX,tiktokw.eu'
 - 'DOMAIN-SUFFIX,tiktokw.us'
 - 'DOMAIN-SUFFIX,tmall.ru'
+- 'DOMAIN-SUFFIX,torrentleech.cc'
 - 'DOMAIN-SUFFIX,torrentleech.org'
 - 'DOMAIN-SUFFIX,trae.ai'
 - 'DOMAIN-SUFFIX,trip.com'
