@@ -137,6 +137,7 @@ payload:
   - 'DOMAIN-SUFFIX,bk6bba-resources.com'
   - 'DOMAIN-SUFFIX,bk6bba-resources.ru'
   - 'DOMAIN-SUFFIX,blablacar.ru'
+  - 'DOMAIN-SUFFIX,blanc.ru'
   - 'DOMAIN-SUFFIX,bm-bank.ru'
   - 'DOMAIN-SUFFIX,book-catalog.ru'
   - 'DOMAIN-SUFFIX,book1917.live'
