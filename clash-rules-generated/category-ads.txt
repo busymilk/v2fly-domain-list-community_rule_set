@@ -101,6 +101,7 @@ payload:
   - 'DOMAIN-SUFFIX,onesignal.com'
   - 'DOMAIN-SUFFIX,optaim.com'
   - 'DOMAIN-SUFFIX,pbmp.ali213.net'
+  - 'DOMAIN-SUFFIX,pub.network'
   - 'DOMAIN-SUFFIX,reachmax.cn'
   - 'DOMAIN-SUFFIX,realsrv.com'
   - 'DOMAIN-SUFFIX,reyun.com'

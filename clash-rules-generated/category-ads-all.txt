@@ -140,6 +140,7 @@ payload:
   - 'DOMAIN-SUFFIX,optaim.com'
   - 'DOMAIN-SUFFIX,pbmp.ali213.net'
   - 'DOMAIN-SUFFIX,presage.io'
+  - 'DOMAIN-SUFFIX,pub.network'
   - 'DOMAIN-SUFFIX,pubmatic.co.jp'
   - 'DOMAIN-SUFFIX,pubmatic.com'
   - 'DOMAIN-SUFFIX,reachmax.cn'
