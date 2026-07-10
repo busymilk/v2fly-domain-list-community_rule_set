@@ -391,6 +391,7 @@ payload:
   - 'DOMAIN-SUFFIX,acwing.com'
   - 'DOMAIN-SUFFIX,ad.cctv.com'
   - 'DOMAIN-SUFFIX,ad.tencentmusic.com'
+  - 'DOMAIN-SUFFIX,adacpp.com'
   - 'DOMAIN-SUFFIX,adbehavior.ximalaya.com'
   - 'DOMAIN-SUFFIX,adbkwai.com'
   - 'DOMAIN-SUFFIX,adkwai.com'
