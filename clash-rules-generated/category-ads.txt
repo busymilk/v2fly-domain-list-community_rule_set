@@ -5,7 +5,6 @@ payload:
   - 'DOMAIN-SUFFIX,aaxads.com'
   - 'DOMAIN-SUFFIX,ad-srv.net'
   - 'DOMAIN-SUFFIX,ad.12306.cn'
-  - 'DOMAIN-SUFFIX,ad.api.moji.com'
   - 'DOMAIN-SUFFIX,ad.hpplay.cn'
   - 'DOMAIN-SUFFIX,ad.unimhk.com'
   - 'DOMAIN-SUFFIX,ad.wang502.com'
