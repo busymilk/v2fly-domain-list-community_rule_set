@@ -110,7 +110,6 @@ payload:
   - 'DOMAIN-SUFFIX,deutsche-bank.ru'
   - 'DOMAIN-SUFFIX,deutschebank.ru'
   - 'DOMAIN-SUFFIX,dolyame.ru'
-  - 'DOMAIN-SUFFIX,alfabank.oavdo.amc'
   - 'DOMAIN-SUFFIX,domrfbank.ru'
   - 'DOMAIN-SUFFIX,eaptechka.online'
   - 'DOMAIN-SUFFIX,eapteka.ru'
