@@ -991,6 +991,7 @@ payload:
 - 'DOMAIN-SUFFIX,mspil.cn'
 - 'DOMAIN-SUFFIX,msra.cn'
 - 'DOMAIN-SUFFIX,muji.com.cn'
+- 'DOMAIN-SUFFIX,mycloudnas.com'
 - 'DOMAIN-SUFFIX,myqnapcloud.cn'
 - 'DOMAIN-SUFFIX,network-auth.cn'
 - 'DOMAIN-SUFFIX,nike-shox.cn'
