@@ -44,6 +44,7 @@ payload:
   - 'DOMAIN-SUFFIX,qmimg.cn'
   - 'DOMAIN-SUFFIX,shuanghui.net'
   - 'DOMAIN-SUFFIX,shuxinyc.com'
+  - 'DOMAIN-SUFFIX,telunsu.net'
   - 'DOMAIN-SUFFIX,tracking.mcdonalds.com.cn'
   - 'DOMAIN-SUFFIX,trackingprd.hwwt8.com'
   - 'DOMAIN-SUFFIX,trackserver.shuxinyc.com'

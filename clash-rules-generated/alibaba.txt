@@ -135,6 +135,7 @@ payload:
   - 'DOMAIN-SUFFIX,alogus.umeng.com'
   - 'DOMAIN-SUFFIX,alyms.cn'
   - 'DOMAIN-SUFFIX,amap.com'
+  - 'DOMAIN-SUFFIX,amap.net'
   - 'DOMAIN-SUFFIX,amapauto.com'
   - 'DOMAIN-SUFFIX,anav.com'
   - 'DOMAIN-SUFFIX,antfin.com'
