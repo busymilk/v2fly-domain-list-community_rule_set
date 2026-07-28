@@ -238,6 +238,7 @@ payload:
   - 'DOMAIN-SUFFIX,parspack.com'
   - 'DOMAIN-SUFFIX,pay.ir'
   - 'DOMAIN-SUFFIX,payping.ir'
+  - 'DOMAIN-SUFFIX,pazhnetwork.com'
   - 'DOMAIN-SUFFIX,pec.ir'
   - 'DOMAIN-SUFFIX,pep.co.ir'
   - 'DOMAIN-SUFFIX,picofile.com'
