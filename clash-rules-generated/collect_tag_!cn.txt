@@ -274,6 +274,7 @@ payload:
 - 'DOMAIN-SUFFIX,tiktokv.us'
 - 'DOMAIN-SUFFIX,tiktokw.eu'
 - 'DOMAIN-SUFFIX,tiktokw.us'
+- 'DOMAIN-SUFFIX,tmall.hk'
 - 'DOMAIN-SUFFIX,tmall.ru'
 - 'DOMAIN-SUFFIX,torrentleech.cc'
 - 'DOMAIN-SUFFIX,torrentleech.org'

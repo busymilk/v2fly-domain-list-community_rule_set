@@ -21,6 +21,7 @@ payload:
   - 'DOMAIN,incoming.telemetry.mozilla.org'
   - 'DOMAIN,mdn.mozillademos.org'
   - 'DOMAIN,mozilla-ohttp.fastly-edge.com'
+  - 'DOMAIN,mozilla.map.fastly.net'
   - 'DOMAIN-SUFFIX,getfirebug.com'
   - 'DOMAIN-SUFFIX,getpersonas.com'
   - 'DOMAIN-SUFFIX,getpocket.com'
