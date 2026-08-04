@@ -538,6 +538,8 @@ payload:
 - 'DOMAIN,time.izatcloud.net'
 - 'DOMAIN,time.xtracloud.net'
 - 'DOMAIN,tj-pod1-smp-device.apple.com'
+- 'DOMAIN,tj-pod2-smp-device.apple.com'
+- 'DOMAIN,tj-pod3-smp-device.apple.com'
 - 'DOMAIN,tlu.dl.delivery.mp.microsoft.com'
 - 'DOMAIN,tools.google.com'
 - 'DOMAIN,tp.louisvuitton.com'
