@@ -79,6 +79,8 @@ payload:
 - 'DOMAIN-SUFFIX,byteoversea.com'
 - 'DOMAIN-SUFFIX,byteoversea.net'
 - 'DOMAIN-SUFFIX,c.mi.com'
+- 'DOMAIN-SUFFIX,capcut.com'
+- 'DOMAIN-SUFFIX,capcutcdn-us.com'
 - 'DOMAIN-SUFFIX,ccbintl.com.hk'
 - 'DOMAIN-SUFFIX,ccbseoul.com'
 - 'DOMAIN-SUFFIX,chinatelecomglobal.com'

@@ -1090,6 +1090,7 @@ payload:
 - 'DOMAIN-SUFFIX,sandisk.cn'
 - 'DOMAIN-SUFFIX,sectigochina.com'
 - 'DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net'
+- 'DOMAIN-SUFFIX,shanghaidisneyresort.com'
 - 'DOMAIN-SUFFIX,sharepoint.cn'
 - 'DOMAIN-SUFFIX,shopee.cn'
 - 'DOMAIN-SUFFIX,shopeesz.com'

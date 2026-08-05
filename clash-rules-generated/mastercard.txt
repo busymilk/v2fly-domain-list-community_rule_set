@@ -14,8 +14,6 @@ payload:
   - 'DOMAIN-SUFFIX,cashpassportglobe.com'
   - 'DOMAIN-SUFFIX,corporatecashpassport.com'
   - 'DOMAIN-SUFFIX,findacard.com'
-  - 'DOMAIN,nab.demdex.net'
-  - 'DOMAIN,nationalaustraliaban.tt.omtrdc.net'
   - 'DOMAIN-SUFFIX,gwktravelex.nl'
   - 'DOMAIN-SUFFIX,icashpassport.com.mx'
   - 'DOMAIN-SUFFIX,idservice.inc'
