@@ -24,7 +24,6 @@ payload:
   - 'DOMAIN-SUFFIX,ditu.live.com'
   - 'DOMAIN-SUFFIX,flipwithsurface.com'
   - 'DOMAIN,bj1.api.bing.com'
-  - 'DOMAIN,emoi-cncdn.bing.com'
   - 'DOMAIN,location.microsoft.com'
   - 'DOMAIN-SUFFIX,masalladeloslimites.com'
   - 'DOMAIN-SUFFIX,microsoft-give.com'
