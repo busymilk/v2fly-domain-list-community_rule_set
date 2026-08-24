@@ -16,4 +16,5 @@ payload:
     (\w+)-static-[0-9]+\.cdntogo\.net$
   - 'DOMAIN-SUFFIX,smarttvcdn.online'
   - 'DOMAIN-SUFFIX,support-kp.com'
+  - 'DOMAIN-SUFFIX,teleos.club'
   - 'DOMAIN-SUFFIX,tsx.ovh'
