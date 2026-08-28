@@ -19906,6 +19906,7 @@ payload:
   - 'DOMAIN-SUFFIX,relap.mail.ru'
   - 'DOMAIN-SUFFIX,relateiq.com'
   - 'DOMAIN-SUFFIX,remirepo.net'
+  - 'DOMAIN-SUFFIX,remna.st'
   - 'DOMAIN-SUFFIX,rencapbank.ru'
   - 'DOMAIN-SUFFIX,renchead.com'
   - 'DOMAIN-SUFFIX,rencredit.ru'
