@@ -9,6 +9,7 @@ payload:
 - 'DOMAIN,community.oneplus.com'
 - 'DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com'
 - 'DOMAIN,mtalk.google.com'
+- 'DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com'
 - 'DOMAIN,p16-tiktokcdn-com.akamaized.net'
 - 'DOMAIN,roovza-launches.appsflyersdk.com'
 - 'DOMAIN,roovza.inapps.appsflyersdk.com'

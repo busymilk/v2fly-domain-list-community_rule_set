@@ -1,6 +1,7 @@
 payload:
   - 'DOMAIN-SUFFIX,analytics.tiktok.com'
   - 'DOMAIN-SUFFIX,bytedapm.com'
+  - 'DOMAIN,p16-tiktok-dm-sticker-sign-sg.ibyteimg.com'
   - 'DOMAIN,p16-tiktokcdn-com.akamaized.net'
   - 'DOMAIN,roovza-launches.appsflyersdk.com'
   - 'DOMAIN,roovza.inapps.appsflyersdk.com'
