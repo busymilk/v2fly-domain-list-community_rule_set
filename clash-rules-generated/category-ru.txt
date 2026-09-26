@@ -1404,6 +1404,7 @@ payload:
   - 'DOMAIN-SUFFIX,smailru.net'
   - 'DOMAIN-SUFFIX,smartmed.pro'
   - 'DOMAIN-SUFFIX,smbcr-bank.ru'
+  - 'DOMAIN-SUFFIX,smena.cafe'
   - 'DOMAIN-SUFFIX,smolensk.ru'
   - 'DOMAIN-SUFFIX,smotreshka.tv'
   - 'DOMAIN-SUFFIX,sn-esp.site'
