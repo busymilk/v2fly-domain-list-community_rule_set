@@ -53,6 +53,7 @@ payload:
   - 'DOMAIN-SUFFIX,chatxiaoxiang.com'
   - 'DOMAIN-SUFFIX,chatyuewen.cn'
   - 'DOMAIN-SUFFIX,cnb.cool'
+  - 'DOMAIN-SUFFIX,cnb.space'
   - 'DOMAIN-SUFFIX,coding.me'
   - 'DOMAIN-SUFFIX,coding.net'
   - 'DOMAIN-SUFFIX,codm.com'
