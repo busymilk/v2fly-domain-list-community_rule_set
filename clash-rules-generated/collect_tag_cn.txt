@@ -1153,6 +1153,7 @@ payload:
 - 'DOMAIN-SUFFIX,yahoo.cn'
 - 'DOMAIN-SUFFIX,yahoo.com.cn'
 - 'DOMAIN-SUFFIX,yamaxun.cn'
+- 'DOMAIN-SUFFIX,yandex-ad.cn'
 - 'DOMAIN-SUFFIX,yeshen.com'
 - 'DOMAIN-SUFFIX,yostar.cn'
 - 'DOMAIN-SUFFIX,z.cn'
