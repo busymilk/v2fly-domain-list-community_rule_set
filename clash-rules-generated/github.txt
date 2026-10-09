@@ -1,5 +1,6 @@
 payload:
   - 'DOMAIN-SUFFIX,atom.io'
+  - 'DOMAIN-SUFFIX,cafe.github.com'
   - 'DOMAIN-SUFFIX,collector.github.com'
   - 'DOMAIN-SUFFIX,dependabot.com'
   - 'DOMAIN,copilot-proxy.githubusercontent.com'
