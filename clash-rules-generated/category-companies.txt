@@ -7679,6 +7679,8 @@ payload:
   - 'DOMAIN-SUFFIX,timestamp.apple.com'
   - 'DOMAIN-SUFFIX,timeweb.cloud'
   - 'DOMAIN-SUFFIX,timeweb.com'
+  - 'DOMAIN-SUFFIX,timeweb.tech'
+  - 'DOMAIN-SUFFIX,timewebcloud.kz'
   - 'DOMAIN-SUFFIX,tinkerboxapp.com'
   - 'DOMAIN-SUFFIX,tinkercad.com'
   - 'DOMAIN-SUFFIX,tinkerentertainment.com'
