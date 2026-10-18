@@ -1,5 +1,4 @@
 payload:
-  - 'DOMAIN-SUFFIX,asobostudio.com'
   - 'DOMAIN-SUFFIX,beth.games'
   - 'DOMAIN-SUFFIX,bethesda.net'
   - 'DOMAIN-SUFFIX,bethesdagamestudios.com'
@@ -7,12 +6,10 @@ payload:
   - 'DOMAIN-SUFFIX,callersbane.com'
   - 'DOMAIN-SUFFIX,doom.com'
   - 'DOMAIN-SUFFIX,elderscrolls.com'
-  - 'DOMAIN-SUFFIX,flightsimulator.com'
   - 'DOMAIN-SUFFIX,forza.net'
   - 'DOMAIN-SUFFIX,forzamotorsport.net'
   - 'DOMAIN-SUFFIX,forzaracingchampionship.com'
   - 'DOMAIN-SUFFIX,forzarc.com'
-  - 'DOMAIN,flightsimulator.azureedge.net'
   - 'DOMAIN,prodforza.blob.core.windows.net'
   - 'DOMAIN-SUFFIX,gamepass.com'
   - 'DOMAIN-SUFFIX,minecraft-services.net'
