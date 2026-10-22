@@ -34,6 +34,7 @@ payload:
   - 'DOMAIN-SUFFIX,dzen.ru'
   - 'DOMAIN-SUFFIX,dzeninfra.ru'
   - 'DOMAIN-SUFFIX,eyny.com'
+  - 'DOMAIN-SUFFIX,fanfiction.net'
   - 'DOMAIN,bbs.boingboing.net'
   - 'DOMAIN,www.quora.com.cdn.cloudflare.net'
   - 'DOMAIN-SUFFIX,gab.com'
