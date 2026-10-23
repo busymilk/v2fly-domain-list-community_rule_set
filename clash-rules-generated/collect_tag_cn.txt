@@ -1186,6 +1186,7 @@ payload:
 - 'DOMAIN-SUFFIX,volvogroup.com.cn'
 - 'DOMAIN-SUFFIX,volvotrucks.com.cn'
 - 'DOMAIN-SUFFIX,walmart.cn'
+- 'DOMAIN-SUFFIX,wangsuceshi.bmcx.com'
 - 'DOMAIN-SUFFIX,webex.com.cn'
 - 'DOMAIN-SUFFIX,whatip.cn'
 - 'DOMAIN-SUFFIX,whatismyip.com.cn'
