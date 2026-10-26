@@ -351,7 +351,7 @@ payload:
   - 'DOMAIN-SUFFIX,tehrantimes.com'
   - 'DOMAIN-SUFFIX,tejaratbank.ir'
   - 'DOMAIN-SUFFIX,tejaratnews.com'
-  - 'DOMAIN-SUFFIX,telewebion.com'
+  - 'DOMAIN-SUFFIX,telewebion.net'
   - 'DOMAIN-SUFFIX,tetherland.com'
   - 'DOMAIN-SUFFIX,tgju.org'
   - 'DOMAIN-SUFFIX,time.ir'
