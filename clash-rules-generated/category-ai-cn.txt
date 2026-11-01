@@ -35,6 +35,7 @@ payload:
   - 'DOMAIN-SUFFIX,diandianlife.top'
   - 'DOMAIN-SUFFIX,doubao-dev.com'
   - 'DOMAIN-SUFFIX,doubao.com'
+  - 'DOMAIN-SUFFIX,doubaoapps.com'
   - 'DOMAIN-SUFFIX,doubaocdn.com'
   - 'DOMAIN-SUFFIX,dui.ai'
   - 'DOMAIN-SUFFIX,duiopen.com'
