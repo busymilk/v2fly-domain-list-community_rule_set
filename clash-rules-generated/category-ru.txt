@@ -2146,6 +2146,7 @@ payload:
   - 'DOMAIN-SUFFIX,yourgood.app'
   - 'DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru'
   - 'DOMAIN-SUFFIX,zabedu.ru'
+  - 'DOMAIN-SUFFIX,zapishu.me'
   - 'DOMAIN-SUFFIX,zarplata.ru'
   - 'DOMAIN-SUFFIX,zdrav10.ru'
   - 'DOMAIN-SUFFIX,zdravcity.ru'
