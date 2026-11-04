@@ -4,4 +4,4 @@ payload:
   - 'DOMAIN-SUFFIX,jdbimgs.com'
   - 'DOMAIN-SUFFIX,jdbstatic.com'
   - |
-    javdb\d+\.com$
+    (^|\.)javdb\d+\.com$

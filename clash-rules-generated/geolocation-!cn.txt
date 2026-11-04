@@ -3321,6 +3321,7 @@ payload:
   - 'DOMAIN-SUFFIX,beget.cloud'
   - 'DOMAIN-SUFFIX,beget.com'
   - 'DOMAIN-SUFFIX,beget.de'
+  - 'DOMAIN-SUFFIX,beget.email'
   - 'DOMAIN-SUFFIX,beget.hosting'
   - 'DOMAIN-SUFFIX,beget.pro'
   - 'DOMAIN-SUFFIX,beget.ru'
@@ -19784,7 +19785,7 @@ payload:
   - |
     (^|\.)8dgo[1-57-9]\.com$
   - |
-    (^|\.)91cg([1-9]|[0-9][1-9])?.com$
+    (^|\.)91cg([1-9]|[0-9][1-9])?\.com$
   - |
     (^|\.)91p[0-9][0-9]?\.com$
   - |
@@ -19901,6 +19902,8 @@ payload:
     (^|\.)hs[1-9]{2}\.vip$
   - |
     (^|\.)jav777\.(cc|tv|work)$
+  - |
+    (^|\.)javdb\d+\.com$
   - |
     (^|\.)jb[1-9][0-9]\.lol$
   - |
@@ -20073,8 +20076,6 @@ payload:
     ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - |
     ^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
-  - |
-    javdb\d+\.com$
   - 'DOMAIN-SUFFIX,regiongold.com'
   - 'DOMAIN-SUFFIX,registerhulu.com'
   - 'DOMAIN-SUFFIX,registeridm.com'
