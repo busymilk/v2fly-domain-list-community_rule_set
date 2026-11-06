@@ -415,6 +415,7 @@ payload:
 - 'DOMAIN,publicassets.cdn-apple.com'
 - 'DOMAIN,qiao-cn.com'
 - 'DOMAIN,qpx.googleflights.net'
+- 'DOMAIN,radio.itunes.apple.com'
 - 'DOMAIN,recaptcha-cn.net'
 - 'DOMAIN,recaptcha.net'
 - 'DOMAIN,redirector.bdn.dev'
