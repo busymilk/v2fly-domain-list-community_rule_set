@@ -11386,6 +11386,8 @@ payload:
   - 'DOMAIN-SUFFIX,grabhentai.com'
   - 'DOMAIN-SUFFIX,grabpussy.com'
   - 'DOMAIN-SUFFIX,gradeuptube.com'
+  - 'DOMAIN-SUFFIX,grafana.com'
+  - 'DOMAIN-SUFFIX,grafana.net'
   - 'DOMAIN-SUFFIX,grafolio.com'
   - 'DOMAIN-SUFFIX,graias.com'
   - 'DOMAIN-SUFFIX,graiasmovies.com'

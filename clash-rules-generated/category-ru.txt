@@ -1039,6 +1039,7 @@ payload:
   - 'DOMAIN-SUFFIX,medsi.pro'
   - 'DOMAIN-SUFFIX,medsi.ru'
   - 'DOMAIN-SUFFIX,medtochka.ru'
+  - 'DOMAIN-SUFFIX,megabitus.com'
   - 'DOMAIN-SUFFIX,megafon.com'
   - 'DOMAIN-SUFFIX,megafon.ru'
   - 'DOMAIN-SUFFIX,megafonpro.ru'
