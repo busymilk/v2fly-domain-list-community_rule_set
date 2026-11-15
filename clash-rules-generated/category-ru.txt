@@ -1798,6 +1798,7 @@ payload:
   - 'DOMAIN-SUFFIX,venets-bank.ru'
   - 'DOMAIN-SUFFIX,vezet.ru'
   - 'DOMAIN-SUFFIX,vfbank.ru'
+  - 'DOMAIN-SUFFIX,vigo.tech'
   - 'DOMAIN-SUFFIX,viju.ru'
   - 'DOMAIN-SUFFIX,vildberis.ru'
   - 'DOMAIN-SUFFIX,vimu.tv'
