@@ -271,6 +271,7 @@ payload:
   - 'DOMAIN-SUFFIX,tencent.design'
   - 'DOMAIN-SUFFIX,tencent.net'
   - 'DOMAIN-SUFFIX,tencent.net.cn'
+  - 'DOMAIN-SUFFIX,tencentads.com'
   - 'DOMAIN-SUFFIX,tencentcloud.com'
   - 'DOMAIN-SUFFIX,tencentgames.com'
   - 'DOMAIN-SUFFIX,tencentmiying.com'
