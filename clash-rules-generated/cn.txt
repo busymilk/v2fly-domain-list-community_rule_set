@@ -2561,6 +2561,7 @@ payload:
   - 'DOMAIN-SUFFIX,ibuychem.com'
   - 'DOMAIN-SUFFIX,icaidao.com'
   - 'DOMAIN-SUFFIX,icbc'
+  - 'DOMAIN-SUFFIX,icc.link'
   - 'DOMAIN-SUFFIX,iceo.com.cn'
   - 'DOMAIN-SUFFIX,ichangtou.com'
   - 'DOMAIN-SUFFIX,iciba.com'
